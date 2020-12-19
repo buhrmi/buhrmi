@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-Are you looking for a good Ruby on Rails or Svelte developer to take your UX to the next level? PICK ME, PICK ME! UH, UH!
+I'm buhrmi, your web dev consultant with the best time guarantee™.
 
-In addition to the usual backend development stuff, I'm also OK at making [slick thumb-driven web UIs](https://github.com/buhrmi/components). Feel free to take a look the repos below and reach out if you're interested. I'm actively looking for a new job.
+The best time guarantee™ ensures that you will always have the best time when you decide to work with me.
+
+You have a good idea for a website or mobile app? Or you have a project that needs to be maintained? Just reach out for a free quote.
+
+Let's get cracking and make things awesome.
