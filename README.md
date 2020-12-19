@@ -11,9 +11,11 @@ Let's get cracking and make things awesome.
 #### Current Projects
 
 [Thumb UI](https://github.com/buhrmi/thumb-ui)
+
 A collection of [Svelte](https://svelte.dev) components for thumb-driven web UIs
 
 [Svelte Poker](https://github.com/buhrmi/svelte-poker)
+
 A poker game written in Svelte
 
 ... more to come
