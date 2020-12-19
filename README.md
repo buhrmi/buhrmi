@@ -4,9 +4,9 @@ I'm buhrmi, your web developer with the built-in best time guarantee™.
 
 The best time guarantee™ ensures that you will always have the best time when you decide to work with me.
 
-You have a good idea for a website or mobile app? Or you have a project that needs to be maintained? Just reach out for a free quote.
+You have an idea for a website or mobile app? Or you have a project that needs to be maintained? Or you just need some memes?
 
-Let's get cracking and make things awesome.
+Reach out for a free quote. Let's get cracking and make things awesome.
 
 #### Current Projects
 
