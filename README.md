@@ -2,11 +2,12 @@
 
 Welcome to my GitHub profile. In here you can find a lot of crap, but also some useful stuff.
 
-With buhrmi on your team you can't go wrong. Things I'm good at include:
+I'm available for hire. Should you hire me? Well, yeah. Here's a list of things I'm good at:
 
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Web development with Ruby on Rails and Svelte
 - Mobile development with Flutter
 - Browser-based game development
+- Blockchain development
 
-Really happy to talk about your ideas.
+Feel free to send a DM or email and let's talk about your ideas.
