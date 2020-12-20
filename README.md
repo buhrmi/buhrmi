@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. In here you can find a lot of crap, but also some useful stuff.
 
-And yes, I'm available for hire. Things I'm good at include:
+Yes, I'm available for hire. Things I'm good at include:
 
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Web development with Ruby on Rails and Svelte
