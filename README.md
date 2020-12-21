@@ -8,6 +8,6 @@ Here's a list of things I currently do or have done for a living:
 - Web development with Ruby on Rails and Svelte
 - Mobile development with Flutter
 - Browser-based game development
-- Blockchain development
+- Smart contract (Solidity) development
 
 Also, I'm available for hire. Should you hire me? Well, yeah. Feel free to send a DM or email and let's talk about your ideas.
