@@ -15,7 +15,7 @@ Do you want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in
 
 ### Current projects
 
-These projects are currently in development.
+These projects are currently in development. You can't use them yet.
 
 #### [AuctionsBot](https://github.com/buhrmi/auctionsbot)
 
