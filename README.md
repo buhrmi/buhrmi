@@ -11,4 +11,4 @@ Here's a list of things I currently do or have done for a living:
 - Smart contract (Solidity) development
 - All sorts of system integrations
 
-Do you want to work together? Send an [email](mailto:buhrmi@gmail.com) to get in touch.
+Do you want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in touch.
