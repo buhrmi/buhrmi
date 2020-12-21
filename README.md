@@ -12,3 +12,15 @@ Here's a list of things I currently do or have done for a living:
 - All sorts of system integrations
 
 Do you want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in touch.
+
+### Current projects
+
+These projects are currently in development.
+
+#### [AuctionsBot](https://github.com/buhrmi/auctionsbot)
+
+A bot and app to enable live auctions on Twitch
+
+#### [SimpWars](https://github.com/buhrmi/simpwars)
+
+A new browser-based game with a tight Discord integration
