@@ -21,4 +21,4 @@ Many streamers create and also sell artwork live on Twitch. With this bot you ca
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-A browser-based game with a tight Discord integration
+Yet another browser-based game.
