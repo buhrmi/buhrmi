@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is buhrmi, I do [live coding sessions on Twitch](https://twitch.tv/buhrmitv).
+This is buhrmi, I host [live coding sessions on Twitch](https://twitch.tv/buhrmitv).
 
 Welcome to my GitHub. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
 
