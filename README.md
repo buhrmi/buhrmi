@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is buhrmi, a [live coder](https://twitch.tv/buhrmitv) from Germany.
+This is buhrmi, I do [live coding sessions on Twitch](https://twitch.tv/buhrmitv).
 
 Welcome to my GitHub. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
 
