@@ -12,7 +12,7 @@ Here's a list of things I currently do or have done for a living:
 
 Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) and lets talk about your ideas.
 
-Oh, and btw, I'm a lonely simp and hope to start a career as live coder on Twitch. Come hop into my [channel](https://twitch.tv/buhrmitv) and say hi.
+Oh, and btw, I'm a lonely simp and hope to start a career as live coder on Twitch. Feel free to hop over into my [channel](https://twitch.tv/buhrmitv) and say hi.
 
 ### Current projects
 
