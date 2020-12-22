@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile. In here you can find a lot of crap, but also some useful stuff.
 
+I'm currently trying to transition into being a full-time live coder on Twitch. Come hop into my [https://twitch.tv/buhrmitv](Twitch channel) and say hi (I'm lonely).
+
 Here's a list of things I currently do or have done for a living:
 
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
@@ -11,13 +13,9 @@ Here's a list of things I currently do or have done for a living:
 - Smart contract (Solidity) development
 - All sorts of system integrations
 
-Do you want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in touch.
+Do you have cool ideas and want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in touch or come visit me on [Twitch](https://twitch.tv/buhrmitv).
 
 ### Current projects
-
-#### [BuhrmiTV](https://twitch.tv/buhrmitv)
-
-My live-coding Twitch channel. Come say hi. I'm lonely.
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
