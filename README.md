@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile. In here you can find a lot of crap, but also some useful stuff.
 
-I'm currently (hoping to) transition to being a full-time live coder on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi (I'm lonely).
-
 Here's a list of things I currently do or have done for a living:
 
 - Web development with Ruby on Rails and Svelte
@@ -13,7 +11,7 @@ Here's a list of things I currently do or have done for a living:
 - Smart contract (Solidity) development
 - All sorts of system integrations
 
-Do you have cool ideas and want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in touch or come visit me on [Twitch](https://twitch.tv/buhrmitv).
+I'm currently trying to transition to being a full-time live coder on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi to a lonely simp.
 
 ### Current projects
 
