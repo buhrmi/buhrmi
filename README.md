@@ -14,8 +14,6 @@ Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) and le
 
 ### Current projects
 
-I hope these projects will make your life more awesome.
-
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
 Many streamers create and also sell artwork live on Twitch. With this bot you can turn your channel into a live auction, enabling viewers to bid on items.
@@ -23,3 +21,7 @@ Many streamers create and also sell artwork live on Twitch. With this bot you ca
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
 Yet another browser-based game.
+
+#### (your project here)
+
+*Send over cool project ideas and I will help you make them real*
