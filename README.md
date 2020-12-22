@@ -12,6 +12,8 @@ Here's a list of things I currently do or have done for a living:
 
 I'm currently trying to become a full-time live coder on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi to a lonely simp.
 
+Want to work together? Send over an [email](mailto:buhrmi@gmail.com) and lets talk about your ideas.
+
 ### Current projects
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
