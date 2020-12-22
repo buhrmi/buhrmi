@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. In here you can find a lot of crap, but also some useful stuff.
 
-I'm currently trying to transition into being a full-time live coder on Twitch. Come hop into my [https://twitch.tv/buhrmitv](Twitch channel) and say hi (I'm lonely).
+I'm currently (hoping to) transition to being a full-time live coder on Twitch. Come hop into my [https://twitch.tv/buhrmitv](Twitch channel) and say hi (I'm lonely).
 
 Here's a list of things I currently do or have done for a living:
 
