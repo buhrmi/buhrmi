@@ -2,7 +2,7 @@
 
 This is buhrmi, I host [live coding sessions](https://twitch.tv/buhrmitv) on Twitch.
 
-Welcome to my GitHub. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
+This is my GitHub profile. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
 
 Here's a list of things I currently do or have done for a living:
 
