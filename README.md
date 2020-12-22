@@ -2,7 +2,7 @@
 
 This is buhrmi, a [live coder](https://twitch.tv/buhrmitv) from Germany.
 
-Welcome to my Github. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
+Welcome to my GitHub. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
 
 Here's a list of things I currently do or have done for a living:
 
