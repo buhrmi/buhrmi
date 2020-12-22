@@ -11,7 +11,7 @@ Here's a list of things I currently do or have done for a living:
 - Smart contract (Solidity) development
 - All sorts of system integrations
 
-I'm currently trying to transition to being a full-time live coder on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi to a lonely simp.
+I do live coding on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi to a lonely simp.
 
 ### Current projects
 
