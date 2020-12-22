@@ -6,9 +6,9 @@ I'm currently (hoping to) transition to being a full-time live coder on Twitch. 
 
 Here's a list of things I currently do or have done for a living:
 
-- Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Web development with Ruby on Rails and Svelte
-- Mobile development with Flutter
+- Chatbot development for platforms like Discord, Twitch, Telegram, etc.
+- Mobile app development with Flutter
 - Browser-based game development
 - Smart contract (Solidity) development
 - All sorts of system integrations
