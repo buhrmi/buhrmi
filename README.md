@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. In here you can find a lot of crap, but also some useful stuff.
+This is buhrmi. I'm a [live coder](https://twitch.tv/buhrmitv) on Twitch.
 
 Here's a list of things I currently do or have done for a living:
 
@@ -12,9 +12,9 @@ Here's a list of things I currently do or have done for a living:
 
 Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) and lets talk about your ideas.
 
-Oh, and btw, I'm a lonely simp and hope to start a career as live coder on Twitch. Feel free to hop over into my [channel](https://twitch.tv/buhrmitv) and say hi.
-
 ### Current projects
+
+I hope these projects will make your life more awesome.
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
