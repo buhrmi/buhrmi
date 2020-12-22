@@ -8,10 +8,9 @@ Here's a list of things I currently do or have done for a living:
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Mobile app development with Flutter
 - Browser-based game development
-- Smart contract (Solidity) development
 - All sorts of system integrations
 
-I try to become a full-time live coder on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi to a lonely simp.
+I'm currently trying to become a full-time live coder on Twitch. Come hop into my [Twitch channel](https://twitch.tv/buhrmitv) and say hi to a lonely simp.
 
 ### Current projects
 
