@@ -15,12 +15,14 @@ Do you want to work together? [Send an email](mailto:buhrmi@gmail.com) to get in
 
 ### Current projects
 
-These projects are currently in development. They're not yet ready to be used.
+#### [BuhrmiTV](https://twitch.tv/buhrmitv)
 
-#### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (part of Twitch Toolkit)
+My live-coding Twitch channel. Come say hi. I'm lonely.
+
+#### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
 Many streamers create and also sell artwork live on Twitch. With this bot you can turn your channel into a live auction, enabling viewers to bid on items.
 
-#### [SimpWars](https://github.com/buhrmi/simpwars)
+#### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
 A browser-based game with a tight Discord integration
