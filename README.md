@@ -1,27 +1,26 @@
 ### Hi there 👋
 
-I'm buhrmi, a web developer who enjoys to [stream his development (mis)adventures](https://twitch.tv/buhrmitv). 
+I'm buhrmi, a web developer who recently started to hate web development. Sometimes I [stream my annoyances on Twitch](https://twitch.tv/buhrmitv). But I'll only do that until I figured out a way to stream without making Jeff Bezos more money. But I don't know if that will ever happen. Fuck.
 
-This is my GitHub profile. In here you can find all the stuff I've come up with in the past. It's mostly crap, but some good things are in here, too. Somewhere. I guess. Maybe. Hey, how are you?
+Anyways, this is my GitHub profile. In here you can find all the crap I've come up with in the past. It's all bullshit. I don't know why people star it. Some good things are in here, too, but nobody except me seems to like the good things.
 
-Here's a list of things I currently do or have done for a living:
+### Random list of things I currently do or have done for a living:
 
 - Web development with Ruby on Rails
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Browser-based game development
 
-I like working with people, so, uhm, if you have a cool idea, feel free to send over an [email](mailto:buhrmi@gmail.com) or come into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect. I'll only be on Twitch until I figured out a way to stream without making Jeff Bezos more money. I don't know if that will ever happen. Shucks. Fucking Jeff Bezos.
+### Collaboration
+
+Yeah, of course I'd be happy to work with you. There is nothing I'd rather do than work with you. Send an [email](mailto:buhrmi@gmail.com) to get in touch. Or come over into my [Twitch channel](https://twitch.tv/buhrmitv) if you have a good idea.
 
 ### Current projects
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
-Are you a streamer and interested in selling art or other things on your stream? Then this bot is for you. It turns your stream into a live auction, enabling viewers to bid on your items. Give it a try, it's really fun.
+A bot for streamers who want to sell shitty artwork on Twitch. It enables viewers to bid on items and keeps track of the highest bid and so forth.
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-Yet another browser-based game.
+Yet another shitty browser-based game.
 
-#### (your project here)
-
-*Send over cool project ideas and I will help you make them real*
