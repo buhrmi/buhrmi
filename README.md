@@ -1,6 +1,6 @@
 ### Hello I'm buhrmi 👋
 
-You can [find me on Twitch](https://twitch.tv/buhrmitv), where I spend my time talking about stupid shit and working on dumb software projects.
+You can [find me on Twitch](https://twitch.tv/buhrmitv), where I waste my time talking about stupid shit and working on dumb software projects.
 
 ### Current projects
 
