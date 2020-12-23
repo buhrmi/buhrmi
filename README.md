@@ -12,7 +12,7 @@ Here's a list of things I currently do or have done for a living:
 - Browser-based game development
 - All sorts of system integrations
 
-Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop into my [Twitch Channel](https://twitch.tv/buhrmitv) to talk about your ideas.
+Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect.
 
 ### Current projects
 
