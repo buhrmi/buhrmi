@@ -8,9 +8,7 @@ Here's a list of things I currently do or have done for a living:
 
 - Web development with Ruby on Rails
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
-- Mobile app development with Flutter
 - Browser-based game development
-- All sorts of system integrations
 
 Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect.
 
@@ -18,7 +16,7 @@ Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
-Are you a Twitch streamer and interested in selling art or other things in your stream? Then this bot is for you. It turns your stream into a live auction, enabling viewers to bid on your items. It's super fun and you should try.
+Are you a streamer and interested in selling art or other things in your stream? Then this bot is for you. It turns your stream into a live auction, enabling viewers to bid on your items. It's super fun, try it out.
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
