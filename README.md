@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is buhrmi, a web developer who sometimes [streams his development adventures](https://twitch.tv/buhrmitv) on Twitch.
+This is buhrmi, a web developer who sometimes [streams his development (mis)adventures](https://twitch.tv/buhrmitv) on Twitch.
 
 Welcome to my GitHub profile. In here you can find all the stuff I've come up with in the past. It's mostly crap, but some good things are in here, too. Somewhere. I guess. Maybe. Hey, how are you?
 
