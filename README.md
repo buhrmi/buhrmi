@@ -2,7 +2,7 @@
 
 I'm buhrmi, a web developer who enjoys to [stream his development (mis)adventures](https://twitch.tv/buhrmitv). 
 
-Welcome to my GitHub profile. In here you can find all the stuff I've come up with in the past. It's mostly crap, but some good things are in here, too. Somewhere. I guess. Maybe. Hey, how are you?
+This is my GitHub profile. In here you can find all the stuff I've come up with in the past. It's mostly crap, but some good things are in here, too. Somewhere. I guess. Maybe. Hey, how are you?
 
 Here's a list of things I currently do or have done for a living:
 
@@ -10,7 +10,7 @@ Here's a list of things I currently do or have done for a living:
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Browser-based game development
 
-I like working with people, so, uhm, if you have a cool idea, feel free to send over an [email](mailto:buhrmi@gmail.com) or hop into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect.
+I like working with people, so, uhm, if you have a cool idea, feel free to send over an [email](mailto:buhrmi@gmail.com) or come into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect. I'll only be on Twitch until I figured out a way to stream without making Jeff Bezos more money. I don't know if that will ever happen. Shucks. Fucking Jeff Bezos.
 
 ### Current projects
 
