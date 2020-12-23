@@ -12,7 +12,7 @@ Anyways, this is my GitHub profile. In here you can find all the crap I've come 
 
 ### Collaboration
 
-Yeah, of course I'd be happy to work with you. There is nothing I'd rather do than work with you. Send an [email](mailto:buhrmi@gmail.com) to get in touch. Or come over into my [Twitch channel](https://twitch.tv/buhrmitv) if you have a good idea.
+Business inquiries: [buhrmi@gmail.com](mailto:buhrmi@gmail.com)
 
 ### Current projects
 
