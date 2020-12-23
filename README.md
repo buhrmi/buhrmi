@@ -10,10 +10,6 @@ Anyways, this is my GitHub profile. In here you can find all the crap I've come 
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Browser-based game development
 
-### Collaboration
-
-Business inquiries: [buhrmi@gmail.com](mailto:buhrmi@gmail.com)
-
 ### Current projects
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
@@ -22,5 +18,5 @@ A bot for streamers who want to sell shitty artwork on Twitch. It enables viewer
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-Yet another shitty browser-based game.
+Yet another shitty browser-based game. Might turn out to be fun.
 
