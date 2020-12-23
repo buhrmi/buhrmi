@@ -2,14 +2,6 @@
 
 I'm buhrmi, a web developer who [streams on Twitch](https://twitch.tv/buhrmitv).
 
-This is my GitHub profile. In here you can find all the crap I've come up with in the past. It's mostly bullshit. I don't know why people star it. There are some good things in here, too, but nobody except me seems to like the good things.
-
-### Random list of things I currently do or have done for a living:
-
-- Web development with Ruby on Rails
-- Chatbot development for platforms like Discord, Twitch, Telegram, etc.
-- Browser-based game development
-
 ### Current projects
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
