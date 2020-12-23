@@ -18,7 +18,7 @@ Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
-Many streamers create and also sell artwork live on Twitch. With this bot you can turn your channel into a live auction, enabling viewers to bid on items.
+Are you a Twitch streamer and interested in selling art or other things in your stream? Then this bot is for you. It turns your stream into a live auction, enabling viewers to bid on your items.
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
