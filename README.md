@@ -6,7 +6,7 @@ Welcome to my GitHub profile. In here you can find mostly crap (the GitHub stars
 
 Here's a list of things I currently do or have done for a living:
 
-- Web development with Ruby on Rails and Svelte
+- Web development with Ruby on Rails
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Mobile app development with Flutter
 - Browser-based game development
