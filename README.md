@@ -6,11 +6,11 @@ I'm buhrmi, a web developer who [streams on Twitch](https://twitch.tv/buhrmitv).
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
-A bot for streamers who want to sell shitty artwork on Twitch. It enables viewers to bid on items and keeps track of the highest bid and so forth.
+A bot for streamers who want to sell artwork on Twitch. It enables viewers to bid on items and it keeps track of the highest bid and so forth.
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-Yet another shitty browser-based game. Might turn out to be fun.
+Yet another browser-based game. Might turn out to be fun.
 
 #### New Projects
 
