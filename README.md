@@ -2,7 +2,7 @@
 
 This is buhrmi, a web developer who sometimes [streams his development adventures](https://twitch.tv/buhrmitv) on Twitch.
 
-Welcome to my GitHub profile. In here you can find mostly crap (the GitHub stars are misleading), but also some useful stuff.
+Welcome to my GitHub profile. In here you can find all the stuff I've come up with in the past. It's mostly crap, but some good things are in here, too. Somewhere. I guess. Maybe. Hey, how are you?
 
 Here's a list of things I currently do or have done for a living:
 
@@ -10,7 +10,7 @@ Here's a list of things I currently do or have done for a living:
 - Chatbot development for platforms like Discord, Twitch, Telegram, etc.
 - Browser-based game development
 
-Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect.
+I like working with people, so, uhm, if you have a cool idea, feel free to send over an [email](mailto:buhrmi@gmail.com) or hop into the [Twitch Chat](https://twitch.tv/buhrmitv) to connect.
 
 ### Current projects
 
