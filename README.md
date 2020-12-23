@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello I'm buhrmi 👋
 
-I'm buhrmi, a web developer who [streams on Twitch](https://twitch.tv/buhrmitv).
+You can [find me on Twitch](https://twitch.tv/buhrmitv), where I spend my time talking about stupid shit and working on dumb software projects.
 
 ### Current projects
 
