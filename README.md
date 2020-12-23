@@ -16,7 +16,7 @@ Feel like working together? Send over an [email](mailto:buhrmi@gmail.com) or hop
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
-Are you a streamer and interested in selling art or other things on your stream? Then this bot is for you. It turns your stream into a live auction, enabling viewers to bid on your items. It's super fun, try it out.
+Are you a streamer and interested in selling art or other things on your stream? Then this bot is for you. It turns your stream into a live auction, enabling viewers to bid on your items. Try it out, it's really fun.
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
