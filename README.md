@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is buhrmi, I host [live coding sessions](https://twitch.tv/buhrmitv) on Twitch.
+This is buhrmi, a web developer who sometimes [live streams on Twitch](https://twitch.tv/buhrmitv).
 
-This is my GitHub profile. In here you can find lots of crap (the GitHub stars are misleading), but also some useful stuff.
+This is my GitHub profile. In here you can find mostly crap (the GitHub stars are misleading), but also some useful stuff.
 
 Here's a list of things I currently do or have done for a living:
 
