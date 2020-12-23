@@ -20,3 +20,6 @@ A bot for streamers who want to sell shitty artwork on Twitch. It enables viewer
 
 Yet another shitty browser-based game. Might turn out to be fun.
 
+#### New Projects
+
+You have a cool idea what to work on? Or you want to hire me? Right on, [get in touch](mailto:buhrmi@gmail.com).
