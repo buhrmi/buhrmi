@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm buhrmi, a web developer who recently started to hate web development. Sometimes I [stream my annoyances on Twitch](https://twitch.tv/buhrmitv). But I'll only do that until I figured out a way to stream without making Jeff Bezos more money. But I don't know if that will ever happen. Fuck.
+I'm buhrmi, a web developer. I [stream my annoyances on Twitch](https://twitch.tv/buhrmitv). But I'll only do that until I figured out a way to stream without making Jeff Bezos more money. But I don't know if that will ever happen. Fuck.
 
 Anyways, this is my GitHub profile. In here you can find all the crap I've come up with in the past. It's all bullshit. I don't know why people star it. Some good things are in here, too, but nobody except me seems to like the good things.
 
