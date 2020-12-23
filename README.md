@@ -2,7 +2,7 @@
 
 This is buhrmi, a web developer who sometimes [live streams on Twitch](https://twitch.tv/buhrmitv).
 
-This is my GitHub profile. In here you can find mostly crap (the GitHub stars are misleading), but also some useful stuff.
+Welcome to my GitHub profile. In here you can find mostly crap (the GitHub stars are misleading), but also some useful stuff.
 
 Here's a list of things I currently do or have done for a living:
 
