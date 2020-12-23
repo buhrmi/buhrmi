@@ -1,6 +1,6 @@
 ### Hello I'm buhrmi 👋
 
-Please [find me on Twitch](https://twitch.tv/buhrmitv).
+I'm currently figuring out how to do anything on the internet without giving Jeff Bezos more money. But for now, please [find me on Twitch](https://twitch.tv/buhrmitv).
 
 ### Current projects
 
