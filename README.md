@@ -14,4 +14,4 @@ Yet another browser-based game. Might turn out to be fun.
 
 #### New Projects
 
-You have a cool idea what to work on? Or you want to hire me? Right on, [get in touch](mailto:buhrmi@gmail.com).
+You have a cool idea what to work on? Right on, [get in touch](mailto:buhrmi@gmail.com).
