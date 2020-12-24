@@ -1,6 +1,6 @@
 ### Hello I'm buhrmi 👋
 
-Are you bored? Come [hang out on Twitch](https://twitch.tv/buhrmitv) and talk about web development.
+Are you bored? Come [hang out on Twitch](https://twitch.tv/buhrmitv) and watch me being stupid.
 
 ### Current projects
 
