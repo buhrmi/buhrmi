@@ -1,6 +1,6 @@
-### Hello I'm buhrmi 👋
+### Konnichiwa 👋
 
-Are you bored? Come [hang out on Twitch](https://twitch.tv/buhrmitv) and watch me being stupid.
+My name is Stefan and I stream [boring web dev stuff](https://twitch.tv/buhrmitv) on Twitch.
 
 ### Current projects
 
