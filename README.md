@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm buhrmi. Some day I hope to make [interesting content on Twitch](https://twitch.tv/buhrmitv). Come and say hi.
+I'm buhrmi. Some day I'll be a famous [Twitch streamer](https://twitch.tv/buhrmitv). But not today.
 
 ### Current projects
 
