@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently figuring out how to make [interesting content on Twitch](https://twitch.tv/buhrmitv). Come say hi.
+I'm a web developer who's currently figuring out how to make [interesting content on Twitch](https://twitch.tv/buhrmitv). I'm a rather boring person, so it's a bit difficult. Anyway, come say hi.
 
 ### Current projects
 
