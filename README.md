@@ -1,6 +1,6 @@
 ### Konnichiwa 👋
 
-My name is Stefan and I stream [boring web dev stuff](https://twitch.tv/buhrmitv).
+My name is Stefan and I enjoy [streaming web dev shit](https://twitch.tv/buhrmitv). You don't like the state of the web? Come join the rant.
 
 ### Current projects
 
