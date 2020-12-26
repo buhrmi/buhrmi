@@ -1,6 +1,6 @@
 ### Konnichiwa 👋
 
-My name is Stefan and I am currently planning my big [Twitch streaming debut](https://twitch.tv/buhrmitv) where I will rant about everything that is wrong with the world. Stay tuned.
+My name is Stefan and I am currently planning my [streaming debut](https://twitch.tv/buhrmitv). Stay tuned.
 
 ### Current projects
 
