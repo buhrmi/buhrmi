@@ -1,6 +1,6 @@
-### Konnichiwa 👋
+### Hi there 👋
 
-I'm a web developer who likes to travel and work at different locations. I recently started to [stream on Twitch](https://twitch.tv/buhrmitv) (will be back in January). Come say hi.
+I'm a web developer. I sometimes [stream on Twitch](https://twitch.tv/buhrmitv). Come say hi.
 
 ### Current projects
 
