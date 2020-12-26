@@ -1,6 +1,6 @@
 ### Konnichiwa 👋
 
-I'm Stefan, I [sometimes stream on Twitch](https://twitch.tv/buhrmitv) (I'll be back in January. Stay tuned.)
+I'm a web developer who [sometimes streams on Twitch](https://twitch.tv/buhrmitv) (will be back in January). Come say hi.
 
 ### Current projects
 
