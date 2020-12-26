@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer. I sometimes [stream on Twitch](https://twitch.tv/buhrmitv). Come say hi.
+I'm currently figuring out how to make [interesting content on Twitch](https://twitch.tv/buhrmitv). I'm a web developer and not some hot chick with nice boobs, so I guess I'm at a disadvantage. But I'll still try. Come say hi.
 
 ### Current projects
 
