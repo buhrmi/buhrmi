@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer who's trying hard to make [interesting content on Twitch](https://twitch.tv/buhrmitv). But I'm a really boring person, so it's a bit difficult. Anyway, come say hi.
+I'm the most boring person in the world, so I became a web developer. I'm currently trying to make [interesting content on Twitch](https://twitch.tv/buhrmitv), but am failing hard. Come and say hi.
 
 ### Current projects
 
