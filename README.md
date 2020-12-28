@@ -10,7 +10,7 @@ A bot for streamers who want to sell artwork on Twitch. It enables viewers to bi
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-A browser-based game where you can buy and sell your favourite Twitch streamers.
+A browser-based game where you can buy, upgrade and sell your favourite Twitch streamers.
 
 #### New Projects
 
