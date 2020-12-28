@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm buhrmi. Some day I'll be a famous [Twitch streamer](https://twitch.tv/buhrmitv). But not today.
+I'm buhrmi. A web developer. Maybe some day I'll be a super famous [Twitch streamer](https://twitch.tv/buhrmitv). But not today.
 
 ### Current projects
 
