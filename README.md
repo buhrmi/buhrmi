@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm buhrmi. A web developer. Someday I'll be a [Twitch streamer](https://twitch.tv/buhrmitv). But not today.
+I'm buhrmi. A web developer. Maybe someday I'll be a [Twitch streamer](https://twitch.tv/buhrmitv). But not today.
 
 ### Current projects
 
