@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm buhrmi, a web developer from Germany. I started to [stream on Twitch](https://twitch.tv/buhrmitv). Come say hi.
+I'm buhrmi, a web developer from Germany. I started to [stream on Twitch](https://twitch.tv/buhrmitv). Come over if you have questions about web development or just want to say hi.
 
 ## Current projects
 
