@@ -1,4 +1,4 @@
-# Hello there
+# Hello there 👋
 
 This is buhrmi, a web developer from Germany. Sometimes I [stream on Twitch](https://twitch.tv/buhrmitv). Come say hi.
 
