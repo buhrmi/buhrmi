@@ -6,7 +6,7 @@ I'm buhrmi. A web developer. Maybe someday I'll be a [Twitch streamer](https://t
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-In SimpWars you can turn any Twitch streamer into your personal simp, upgrade them with awesome gear, and lead them to glory.
+Turn any Twitch streamer into your personal simp, upgrade them with awesome gear, and lead them to glory.
 
 #### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
