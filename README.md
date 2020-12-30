@@ -10,7 +10,9 @@ A bot for streamers who want to sell artwork on Twitch. It enables viewers to bi
 
 #### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-A browser-based game where you can buy, upgrade and sell your favourite Twitch streamers.
+What better way to start with Ethereum than to invest into your favourite Twitch streamers, upgrade them with awesome gear, and let them battle compete in the arena for fun and profit.
+
+Coming soon.
 
 #### New Projects
 
