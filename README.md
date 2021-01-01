@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer from Germany and [this is my Twitch channel](https://twitch.tv/buhrmitv).
+I'm a web developer and I do scary things [in my Twitch channel](https://twitch.tv/buhrmitv).
 
 ## Current projects
 
