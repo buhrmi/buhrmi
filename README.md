@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer who likes to do things [on Twitch](https://twitch.tv/buhrmitv).
+I'm a web developer who sometimes streams [on Twitch](https://twitch.tv/buhrmitv).
 
 ## Current projects
 
