@@ -2,7 +2,7 @@
 
 I'm a web developer and am currently planning my [streamer debut](https://twitch.tv/buhrmitv) because the world needs more Twitch streamers.
 
-Punch & Pie
+Come on over. Punch & Pie.
 
 ## Current projects
 
