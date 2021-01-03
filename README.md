@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer and am currently planning my [streamer debut](https://twitch.tv/buhrmitv) because the world needs more Twitch streamers.
+I'm a web developer and a [Twitch streamer](https://twitch.tv/buhrmitv).
 
 Come on over. Punch & Pie.
 
