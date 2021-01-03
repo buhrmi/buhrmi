@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer and a [Twitch streamer](https://twitch.tv/buhrmitv).
-
-Come on over. Punch & Pie.
+I'm not a [Twitch streamer](https://twitch.tv/buhrmitv). Clicking this link will not result in anything.
 
 ## Current projects
 
