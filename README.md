@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm buhrmi. Luckily for you I'm not a [Twitch streamer](https://twitch.tv/buhrmitv). Clicking this link will not result in anything. Not yet.
+Luckily for you I'm not a [Twitch streamer](https://twitch.tv/buhrmitv). Clicking this link will not result in anything. Not yet.
 
 ## Current projects
 
