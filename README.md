@@ -6,7 +6,7 @@ Luckily for you I'm not a [Twitch streamer](https://twitch.tv/buhrmitv). Clickin
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-Purchase any Twitch streamer on the Ethereum blockchain, upgrade them with awesome gear, and lead them to glory.
+Turn any Twitch streamer into your personal simp, upgrade their metadata with cool items, and lead them to glory.
 
 ### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
