@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer person thingy. You can watch me do weird things [on Twitch](https://twitch.tv/buhrmitv) (back soon).
+I'm a web developer person thingy. I like doing weird things [on Twitch](https://twitch.tv/buhrmitv) for fun and profit (back soon).
 
 ## Current projects
 
