@@ -2,7 +2,7 @@
 
 You have reached the GitHub profile of buhrmi, a web developer person thingy.
 
-Here is my [Twitch channel](https://twitch.tv/buhrmitv). Currently inactive. But here is a message to both my followers: Stay tuned, I'll be back.
+Here is my [Twitch channel](https://twitch.tv/buhrmitv). Currently inactive. But read this message to both my followers: Stay tuned, I'll be back.
 
 ## Current projects
 
