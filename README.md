@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a web developer person thingy. Here is my [Twitch channel](https://twitch.tv/buhrmitv) (will be back soon, please stay tuned my dear 2 followers).
+You have reached the GitHub profile of buhrmi, a web developer person thingy.
+
+Here is my [Twitch channel](https://twitch.tv/buhrmitv). Currently inactive. But here is a message to both my followers: Stay tuned, I'll be back.
 
 ## Current projects
 
