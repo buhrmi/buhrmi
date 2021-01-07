@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-You have reached the GitHub profile of buhrmi, a web developer person thingy.
+You have reached my GitHub profile. As you can see, everything here is highly professional.
 
-I enjoy live coding and trolling in my [Twitch channel](https://twitch.tv/buhrmitv). Currently inactive. But read this message to both of my followers: **Stay tuned, I'll be back**.
+Please come over into my [Twitch channel](https://twitch.tv/buhrmitv). It's currently inactive, but read this message to both of my followers: **Stay tuned, I'll be back**.
 
 ## Current projects
 
