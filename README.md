@@ -2,7 +2,7 @@
 
 You have reached my GitHub profile. As you can see, everything here is highly professional.
 
-Grab some popcorn, snuggle yourself into a blanket, and hop into my [Twitch channel](https://twitch.tv/buhrmitv) where we dive deep into mysterious adventures and uncover life's stories (currently inactive, but read this message to both of my followers: **Stay tuned, I'll be back**)
+Grab some popcorn, snuggle yourself into a blanket, and hop into my [Twitch channel](https://twitch.tv/buhrmitv) where we dive deep into mysterious adventures and uncover life's stories (currently inactive, but **stay tuned, it'll be back**)
 
 ## Current projects
 
