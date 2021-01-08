@@ -2,7 +2,7 @@
 
 You have reached my GitHub profile. As you can see, everything here is highly professional.
 
-Come join my [Twitch channel](https://twitch.tv/buhrmitv) where we talk shit and uncover life's stories (currently inactive, but **stay tuned, it'll be back**)
+Come join my [Twitch channel](https://twitch.tv/buhrmitv) where we talk shit, trade simps, and uncover life's stories (currently inactive, but **stay tuned, it'll be back**)
 
 ## Current projects
 
