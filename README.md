@@ -8,7 +8,7 @@ Please drop by my [Twitch channel](https://twitch.tv/buhrmitv) where we're uncov
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-Turn any Twitch streamer into your personal simp, improve their [NFT metadata](https://docs.opensea.io/docs/metadata-standards), and lead them to glory.
+Improve the [NFT metadata](https://docs.opensea.io/docs/metadata-standards) of your favourite ~~simps~~ streamers and lead them to glory.
 
 ### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
