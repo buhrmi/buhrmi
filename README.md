@@ -2,7 +2,7 @@
 
 You have reached my GitHub profile. As you can see, everything here is highly professional.
 
-Please drop by my [Twitch channel](https://twitch.tv/buhrmitv) where we'll talk shitcoins, do some coding, trade simps, and uncover life's mysteries (currently inactive, but **stay tuned, it'll be back.**)
+Please drop by my [Twitch channel](https://twitch.tv/buhrmitv) where we're uncovering life's mysteries by talking shitcoins, coding, and tradeing simps (currently inactive, but **stay tuned, it'll be back.**)
 
 ## Current projects
 
