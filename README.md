@@ -2,7 +2,7 @@
 
 You have reached my GitHub profile. As you can see, everything here is highly professional.
 
-Please drop by my [Twitch channel](https://twitch.tv/buhrmi_tv) where we try to uncover life's mysteries by talking shitcoins, coding, and trading simps.
+I'm a Software Developer, who slacks a lot. I enjoy showing what I work on in my [Twitch channel](https://twitch.tv/buhrmi_tv).
 
 ## Current projects
 
