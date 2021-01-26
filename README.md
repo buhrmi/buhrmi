@@ -1,4 +1,4 @@
-## Hello wanderer 👋
+## Hello Simp 👋
 
 You have reached my GitHub profile. As you can see, everything here is highly professional.
 
