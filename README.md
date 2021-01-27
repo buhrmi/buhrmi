@@ -1,8 +1,8 @@
-## Hello Simp 👋
+## Hello Wanderer 👋
 
-You have reached my GitHub profile. As you can see, everything here is highly professional.
+Welcome to my GitHub profile. As you can see, everything here is highly professional. I am a web developer dabbling with Ruby on Rails, Svelte and Ethereum.
 
-Please visit me in my [Twitch channel](https://twitch.tv/buhrmi_tv), where I'm mostly busy working on the projects you see below.
+I'm now trying to put everything I've learned to good use in my [Twitch channel](https://twitch.tv/buhrmi_tv), where you can find me working on the projects below.
 
 ## Current projects
 
