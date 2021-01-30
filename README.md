@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile. As you can see, everything here is highly professional. 
 
-I am a web developer dabbling in Ruby on Rails, Svelte and Ethereum, trying to put everything I've learned so far to good use in my [Twitch channel](https://twitch.tv/buhrmi_tv), where you can sometimes find me working on the projects below.
+I am a web developer who enjoys dabbling in Ruby on Rails, Svelte and Ethereum.
+Sometimes I chill in my [Twitch channel](https://twitch.tv/buhrmi_tv) while dabbling in crypto currencies and get some development done.
 
 ## Current projects
 
