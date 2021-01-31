@@ -9,7 +9,7 @@ Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you're into that s
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-A game about improving the [NFT metadata](https://docs.opensea.io/docs/metadata-standards) of your favourite ~~simps~~ streamers.
+Take control of your favourite Twitch streamers, turn them into Simps, and send them off into the Arena to fight for honor and glory.
 
 ### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
