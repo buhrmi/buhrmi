@@ -8,7 +8,7 @@ Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like trolling,
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-Turn your favourite Twitch streamers into your personal Simps and send them to the moon.
+Tokenize Twitch streamers on the Ethereum blockchain and send them to the moon.
 
 ### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
 
