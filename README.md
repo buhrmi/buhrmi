@@ -12,9 +12,9 @@ Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like trolling,
 
 Moon Tokens are a utility token on the Ethereum blockchain. They can be used to increase the on-chain powerlevel of your simps and help them fight against the FUD in the great [SimpWars](https://github.com/buhrmi/simpwars)
 
-### [AuctionsBot](https://github.com/buhrmi/twitch-tools) (in development)
+## Past projects
 
-A bot for streamers who want to sell artwork on Twitch. It enables viewers to bid on items and it keeps track of the highest bid and so forth.
+(coming soon)
 
 ### New Projects
 
