@@ -16,6 +16,6 @@ Moon Tokens are a utility token on the Ethereum blockchain. They can be used to 
 
 (coming soon)
 
-### New Projects
+## New Projects
 
 You have a cool idea what to work on? Right on, [get in touch](mailto:buhrmi@gmail.com).
