@@ -6,7 +6,7 @@ Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like trolling,
 
 ## Current projects
 
-### [Moon Tokens](https://github.com/buhrmi/simpwars) (in development)
+### [Moon Token](https://github.com/buhrmi/simpwars) (in development)
 
 <img src="https://github.com/buhrmi/simpwars/blob/main/app/assets/images/moontoken.png" width="110">
 
