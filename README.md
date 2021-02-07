@@ -6,11 +6,9 @@ Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like trolling,
 
 ## Current projects
 
-### [Moon Token](https://github.com/buhrmi/simpwars) (in development)
+### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
-<img src="https://github.com/buhrmi/simpwars/blob/main/app/assets/images/moontoken.png" width="110">
-
-Moon Tokens are a utility token on the Ethereum blockchain. They can be used to increase the on-chain powerlevel of your simps and help them fight against the FUD in the great [SimpWars](https://github.com/buhrmi/simpwars)
+Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, collect moon tokens, and participate in the great war against the FUD.
 
 ## Past projects
 
