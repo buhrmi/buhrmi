@@ -12,7 +12,7 @@ Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, col
 
 ## Retired projects
 
-### Shitcoins(https://github.com/buhrmi/shitcoins)
+### [Shitcoins](https://github.com/buhrmi/shitcoins)
 
 ICO launch platform with a built-in trading engine.
 
