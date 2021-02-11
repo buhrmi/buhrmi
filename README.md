@@ -16,7 +16,7 @@ A poker game written in Svelte that we never finished.
 
 ### [Shitcoins](https://github.com/buhrmi/shitcoins)
 
-ICO launch platform with a built-in trading engine.
+ICO launch platform with a built-in trading engine that never got any traction.
 
 ## New Projects
 
