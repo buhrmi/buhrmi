@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile. As you can see, everything here is highly professional. 
 
-I enjoy talking about Shitcoins.
-
 ## Current projects
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
