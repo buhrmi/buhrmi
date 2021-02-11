@@ -10,9 +10,11 @@ Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like trolling,
 
 Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, collect moon tokens, and participate in the great war against the FUD.
 
-## Past projects
+## Retired projects
 
-(coming soon)
+### Shitcoins(https://github.com/buhrmi/shitcoins)
+
+ICO launch platform with a built-in trading engine.
 
 ## New Projects
 
