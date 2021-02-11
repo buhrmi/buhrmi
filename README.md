@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. As you can see, everything here is highly professional. 
 
-Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like trolling, programming, crypto currencies and that kinda thing.
+Come join my [Twitch channel](https://twitch.tv/buhrmi_tv) if you like shitcoins.
 
 ## Current projects
 
