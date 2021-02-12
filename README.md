@@ -8,6 +8,10 @@ Welcome to my GitHub profile. As you can see, everything here is highly professi
 
 Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, collect moon tokens, and participate in the great war against the FUD.
 
+### [ステファン株式会社](https://github.com/buhrmi/stefan.co.jp) (in development)
+
+A company registered in Japan to provide IT consulting services and promotion for integrated resorts.
+
 ## Retired projects
 
 ### [Svelte Poker](https://github.com/buhrmi/svelte-poker)
