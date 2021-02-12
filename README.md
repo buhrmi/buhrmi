@@ -10,7 +10,7 @@ Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, col
 
 ### [ステファン株式会社](https://github.com/buhrmi/stefan.co.jp) (in development)
 
-A company registered in Japan to provide IT consulting services and promotion for integrated resorts.
+A company registered in Japan to provide IT and promotion for integrated resorts.
 
 ## Retired projects
 
