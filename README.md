@@ -4,6 +4,10 @@ You have reached the GitHub profile of the Founder of ステファン株式会�
 
 ## Current projects
 
+### Shitcoin Swap
+
+Social shitcoin trading platform, currently in planning stages
+
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
 Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, collect moon tokens, and participate in the great war against the FUD.
