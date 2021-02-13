@@ -1,12 +1,12 @@
 ## Hello Wanderer 👋
 
-Welcome to my GitHub profile. I'm a web developer who does [weird things](https://youtu.be/lFtz99Y7_nM) from time to time. I hope you're having a great day.
+Welcome to my GitHub profile. I'm a web developer (Rails, Svelte) who does [weird things](https://youtu.be/lFtz99Y7_nM) from time to time. I hope you're having a great day.
 
 ## Current projects
 
 ### [Shitcoin Swap](https://github.com/shitcoinswap)
 
-Social shitcoin trading platform currently in planning stages
+Everybody loves shitcoins, so we are building a social shitcoin trading platform.
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
