@@ -1,12 +1,12 @@
 ## Hello Wanderer 👋
 
-You have reached the GitHub profile of the Founder of ステファン株式会社. We specialize in the trade of shitcoins. We are all just tiny shitcoins on the blockchain of life.
+Welcome to my GitHub profile. I hope you're having a great time.
 
 ## Current projects
 
-### Shitcoin Swap
+### [Shitcoin Swap](https://github.com/shitcoinswap)
 
-Social shitcoin trading platform, currently in planning stages
+Social shitcoin trading platform currently in planning stages
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
