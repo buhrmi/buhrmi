@@ -1,6 +1,6 @@
 ## Hello Wanderer 👋
 
-Welcome to my GitHub profile. I'm a web developer, who does [weird things](https://youtu.be/lFtz99Y7_nM) from time to time. I hope you're having a great day.
+Welcome to my GitHub profile. I'm a web developer who does [weird things](https://youtu.be/lFtz99Y7_nM) from time to time. I hope you're having a great day.
 
 ## Current projects
 
