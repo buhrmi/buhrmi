@@ -1,6 +1,6 @@
 ## Hello Wanderer 👋
 
-You have reached the GitHub profile of the CEO of ステファン株式会社. We specialize in the trade of shitcoins.
+You have reached the GitHub profile of the Founder of ステファン株式会社. We provide blockchain development services and specialize in the trade of shitcoins. We are all just tiny shitcoins on the blockchain of life.
 
 ## Current projects
 
