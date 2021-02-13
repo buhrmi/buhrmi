@@ -1,6 +1,6 @@
 ## Hello Wanderer 👋
 
-Strange times ahead. You have reached the GitHub profile of the CEO of ステファン株式会社. We specialize in the trade of shitcoins.
+You have reached the GitHub profile of the CEO of ステファン株式会社. We specialize in the trade of shitcoins.
 
 ## Current projects
 
