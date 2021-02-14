@@ -4,9 +4,9 @@ Welcome to my GitHub profile. I'm a web developer (Rails, Svelte) who does [weir
 
 ## Current projects
 
-### [Shitcoin Swap](https://github.com/shitcoinswap)
+### [Shitcoin Society](https://github.com/shitcoinsociety)
 
-Social Shitcoin Trading. Currently in planning stages.
+Uniting all the shitcoin traders of the world for a glorious future.
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
