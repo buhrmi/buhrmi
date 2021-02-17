@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a web developer (Rails, Svelte) who does [weir
 
 ### [Shitcoin Society](https://github.com/shitcoinsociety)
 
-We trade shitcoins so you don't have to.
+Making my own shitty blockchain that nobody cares about. Or maybe it's a tangle? Who fucking knows.
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
