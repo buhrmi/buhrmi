@@ -6,7 +6,7 @@ Hold on to your shitcoins. You have reached the GitHub profile of buhrmi, a Rail
 
 ### [Shitcoin Society](https://github.com/shitcoinsociety)
 
-Shitcoin is the real Ethereum.
+On a mission to launch the world's greatest shitcoin.
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
