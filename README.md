@@ -6,7 +6,7 @@ Hold on to your shitcoins. You have reached the GitHub profile of buhrmi, a Rail
 
 ### [Shitcoin Society](https://github.com/shitcoinsociety)
 
-On a mission to launch the world's greatest shitcoin.
+The future of France is here.
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
