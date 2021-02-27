@@ -4,9 +4,9 @@ Hold on to your shitcoins. You have reached the GitHub profile of buhrmi, a Rail
 
 ## Current projects
 
-### [Shitcoin Society](https://github.com/shitcoinsociety)
+### [Cheap Socks](https://github.com/buhrmi/cheapsocks)
 
-The future of France is here.
+A collection of 500 cheap unique socks that you can buy and sell using digital currency.
 
 ### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
 
