@@ -1,6 +1,6 @@
-## Hello Wanderer 👋
+## Hold on to your shitcoins!
 
-Hold on to your shitcoins. You have reached the GitHub profile of buhrmi, a Rails & Svelte developer who does [weird things](https://youtu.be/lFtz99Y7_nM) from time to time.
+You have reached the GitHub profile of buhrmi, a Rails & Svelte developer who does [weird things](https://youtu.be/lFtz99Y7_nM) from time to time.
 
 ## Current projects
 
