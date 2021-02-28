@@ -18,7 +18,7 @@ Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, col
 
 A poker game written in Svelte that we never finished.
 
-### [Shitcoins](https://github.com/buhrmi/shitcoins)
+### [Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)
 
 ICO launch platform with a built-in trading engine that never got any traction.
 
