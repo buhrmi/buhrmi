@@ -8,7 +8,7 @@ Hold on to your shitcoins. You have reached the GitHub profile of buhrmi, a Rail
 
 A collection of 500 cheap unique socks that you can buy and sell using digital currency.
 
-### [SimpWars](https://github.com/buhrmi/simpwars) (in development)
+### [SimpWars](https://github.com/buhrmi/simpwars)
 
 Tokenize Twitch streamers on the Ethereum blockchain, send them to the moon, collect moon tokens, and participate in the great war against the FUD.
 
