@@ -1,6 +1,6 @@
 ## Hallo und herzlich willkommen bei buhrmi IT Service
 
-Wir hier bei buhrmi IT Service sind einfach die geilsten. Ist halt so. Kann man nix machen.
+Wir sind einfach die geilsten. Ist halt so. Kann man nix machen.
 
 ### Services
 
