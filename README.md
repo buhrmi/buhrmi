@@ -1,6 +1,6 @@
 ## Hallo und herzlich willkommen bei buhrmi.de
 
-Wir sind einfach die geilsten. Ist halt so. Kann man nix machen.
+Wir sind einfach die geilsten. Ist halt so. Waren wir schon immer. Kann man nix machen.
 
 ### Services
 
