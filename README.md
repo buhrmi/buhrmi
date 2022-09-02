@@ -10,4 +10,4 @@ Haben Sie Angst vor Trollen und [selbsternannten möchtegern-Datenschutzanwälte
 
 #### Webentwicklung
 
-Responsive Webdevelopment mit Ruby on Rails und Svelte/SvelteKit, blablabla usw.
+Responsive Webdevelopment mit Ruby on Rails und Svelte/SvelteKit
