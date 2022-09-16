@@ -1,6 +1,6 @@
-## Hallo und herzlich willkommen bei buhrmi.de
+## Hallo und herzlich willkommen auf meinem GitHub Profil
 
-Wir sind die geilsten IT Dienstleister der Welt. Ist halt so. Kann man nix machen.
+Derzeit in Vollzeit beschäftigt bei [https://cdmn.de](CDMM GmbH).
 
 ### Services
 
