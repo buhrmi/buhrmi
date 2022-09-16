@@ -1,6 +1,6 @@
 ## Hallo und herzlich willkommen auf meinem GitHub Profil
 
-Derzeit in Vollzeit beschäftigt bei [https://cdmn.de](CDMM GmbH).
+Derzeit in Vollzeit beschäftigt bei [CDMM GmbH](https://cdmn.de).
 
 ### Services
 
