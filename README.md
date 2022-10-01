@@ -1,6 +1,6 @@
-# Hallo und herzlich willkommen auf buhrmi.de
+# Hallo ich bin der buhrmi
 
-Wir sind die geilsten IT Dienstleister der Welt. Ist halt so. Kann man nix machen. Tut mir leid.
+I enjoy creating open-source stuff that nobody needs.
 
 ## Projects
 
