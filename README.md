@@ -4,7 +4,7 @@ Here you can find a selection of open source stuff that I'm currently working on
 
 ### [ActionStore](https://github.com/buhrmi/actionstore)
 
-The (maybe) best thing to happen to Rails since remote javascript.
+The (hopefully) best thing to happen to Rails since remote javascript.
 
 
 ### [Google Fonts Proxy](https://github.com/buhrmi/google-fonts-proxy)
