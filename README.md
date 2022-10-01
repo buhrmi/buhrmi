@@ -1,12 +1,12 @@
 # Hi there I'm buhrmi
 
-I enjoy creating open-source stuff that nobody needs.
+Here you can find a selection of open source stuff that I'm currently working on. Enjoy.
 
 ## Projects
 
 ### [ActionStore](https://github.com/buhrmi/actionstore)
 
-The best thing to happen to Rails since remote javascript.
+The (maybe) best thing to happen to Rails since remote javascript.
 
 
 ### [Google Fonts Proxy](https://github.com/buhrmi/google-fonts-proxy)
