@@ -1,4 +1,4 @@
-# Hallo ich bin der buhrmi
+# Hi there I'm buhrmi
 
 I enjoy creating open-source stuff that nobody needs.
 
