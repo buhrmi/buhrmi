@@ -1,6 +1,10 @@
 # Hi there I'm buhrmi
 
-I'm currently working on [Vibe Tokyo](https://vibe.tokyo), the futuristic booking agency. Here you can find a selection of open source stuff that I'm currently working on.
+I'm currently working on [Vibe Tokyo](https://vibe.tokyo), the futuristic booking agency. 
+
+## Open Source Stuff
+
+Here you can find a selection of open source stuff that I'm currently working on.
 
 ### [ActionStore](https://github.com/buhrmi/actionstore)
 
