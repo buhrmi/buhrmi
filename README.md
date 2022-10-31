@@ -1,6 +1,6 @@
 # Hi there I'm buhrmi
 
-I'm currently working on [Vibe Tokyo](https://vibe.tokyo), the futuristic booking agency. 
+I'm a software developer who also likes raves and music festivals. That's why I'm currently putting together [VibeVan](https://twitter.com/thevibevan), the traveling online music festival.
 
 ## Open Source Stuff
 
