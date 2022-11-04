@@ -13,6 +13,6 @@ Real-time Svelte stores for Rails. IMHO it's the best thing to happen to Rails s
 
 ### [Google Fonts Proxy](https://github.com/buhrmi/google-fonts-proxy)
 
-Haben Sie Angst vor Trollen und [selbsternannten möchtegern-Datenschutzanwälten](https://www.datenschutzanwalt.eu), die Abmahnungen wegen Google Fonts verschicken? Dann ist unser [Google Fonts Proxy](https://github.com/buhrmi/google-fonts-proxy) perfekt für Sie. Ersetzen Sie einfach `https://fonts.googleapis.com` durch `https://fonts.buhrmi.de`, und Ihre Besucher schicken ihre IP Adresse an mich, anstatt an die bösen Google Server. Problem gelöst.
+A proxy for everyone who is concerned about [self-proclaimed "privacy lawyers"](https://www.datenschutzanwalt.eu), that send letters of cease-and-desist ("Abmahnungen") because of the usage of Google Fonts. With this proxy, your users will send their IP address to me, instead of the evil evil Google servers. Problem solved.
 
-Und sollten Sie bereits eine Abmahnung erhalten haben, leiten Sie diese gerne an uns weiter. Wir stecken sie in den dafür vorgesehenen Reißwolf und veröffentlichen das Video auf YouTube.
+If you already received a cease-and-desist, please send it to me. I'll forward it into the designated trash can and upload the video of it to YouTube.
