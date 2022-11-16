@@ -1,6 +1,6 @@
 # Hi there, this is buhrmi
 
-I'm a software developer who also likes music festivals. That's why I'm currently putting together [VibeVan](https://github.com/buhrmi/vibevan), a traveling music festival and expression of tranquility.
+I'm a software developer who also likes music festivals. That's why I'm currently putting together [VibeVan](https://github.com/buhrmi/vibevan), a traveling music festival.
 
 ## Open Source Stuff
 
