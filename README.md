@@ -1,6 +1,6 @@
-# Hi there, do you like music?
+# Do you like music?
 
-I'm working on my own music festival built around the [VibeVan](https://github.com/buhrmi/vibevan). If you like music, come check it out.
+Come join the [VibeVan Festival](https://twitter.com/thevibevan).
 
 ## Do you like open source stuff?
 
