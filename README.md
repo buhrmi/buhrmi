@@ -1,6 +1,6 @@
-# Hi there, this is buhrmi
+# Hi there, do you like music?
 
-I'm a software developer who also likes music festivals. That's why I'm currently putting together [VibeVan](https://github.com/buhrmi/vibevan), a traveling music festival.
+I'm working on my own music festival built around the [VibeVan](https://github.com/buhrmi/vibevan). If you like music, come check it out.
 
 ## Do you like open source stuff?
 
