@@ -2,7 +2,7 @@
 
 ### Do you like music?
 
-Come join the [VibeVan Festival](https://twitter.com/thevibevan).
+Come join the [Open DJ Booth](https://twitter.com/opendjbooth).
 
 ### Do you like open source stuff?
 
