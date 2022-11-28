@@ -2,7 +2,7 @@
 
 ### Do you like music?
 
-Come join the [Open DJ Booth](https://twitter.com/opendjbooth).
+Come check out my [Open DJ Booth](https://www.opendjbooth.com) project.
 
 ### Do you like open source stuff?
 
@@ -19,8 +19,8 @@ A proxy for everyone who is concerned about [self-proclaimed "privacy lawyers"](
 
 If you already received a cease-and-desist, please send it to me. I'll forward it into the designated trash can and upload the video of it to YouTube.
 
-## Do you like hard trap?
+### Do you like hard trap?
 
-Here you can find some mashups, remixes and maybe some day even original tunes
+Check out my mashups and maybe even original tunes some day
 
 https://soundcloud.com/buhrmi
