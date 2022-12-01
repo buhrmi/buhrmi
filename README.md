@@ -21,6 +21,5 @@ If you already received a cease-and-desist, please send it to me. I'll forward i
 
 ### Do you like hard trap?
 
-Check out my mashups and maybe even original tunes some day
+On my [SoundCloud](https://soundcloud.com/buhrmi) you can find some mashups and someday maybe even original tunes
 
-https://soundcloud.com/buhrmi
