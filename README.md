@@ -19,6 +19,10 @@ A proxy for everyone who is concerned about [self-proclaimed "privacy lawyers"](
 
 If you already received a cease-and-desist, please send it to me. I'll forward it into the designated trash can and upload the video of it to YouTube.
 
+#### Contributions
+
+I'm a contributor to [Svelte](https://svelte.dev) and [Inertia](https://inertiajs.com)
+
 ### Do you like hard trap?
 
 On my [SoundCloud](https://soundcloud.com/buhrmi) you can find some mashups and someday maybe even original tunes
