@@ -4,6 +4,10 @@
 
 Come check out my [Open DJ Booth](https://www.opendjbooth.com) project.
 
+### Do you like shitcoins?
+
+I'm currently developing (planning stages) a social [shitcoin trading platform](https://shitcoinsociety.com)
+
 ### Do you like open source stuff?
 
 Here you can find a selection of open source stuff that I'm currently working on.
