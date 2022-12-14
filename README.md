@@ -1,5 +1,7 @@
 # Hi there 👋
 
+I'm a freelancing Rails and Svelte developer.
+
 ### Do you like music?
 
 Come check out my [Open DJ Booth](https://www.opendjbooth.com) project.
