@@ -6,9 +6,9 @@ Welcome to buhrmi software development.
 
 Come check out my [Open DJ Booth](https://www.opendjbooth.com) project.
 
-### Do you like shitcoins?
+### Do you like crypto currency?
 
-Still looking for help developing a [social shitcoin trading platform](https://shitcoinsociety.com)
+Come join the [Shitcoin Society](https://shitcoinsociety.com), the social shitcoin trading platform
 
 ### Do you like open source stuff?
 
