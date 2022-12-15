@@ -6,10 +6,6 @@ Welcome to buhrmi software development.
 
 Come check out my [Open DJ Booth](https://www.opendjbooth.com) project.
 
-### Are you into Shitcoin trading?
-
-Come join the [Shitcoin Society](https://shitcoinsociety.com), the social shitcoin trading platform
-
 ### Do you like open source stuff?
 
 Here you can find a selection of open source stuff that I'm currently working on.
