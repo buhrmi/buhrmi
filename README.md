@@ -28,4 +28,3 @@ I'm a contributor to [Svelte](https://svelte.dev) and [Inertia](https://inertiaj
 ### Do you like hard trap?
 
 On my [SoundCloud](https://soundcloud.com/buhrmi) you can find some mashups and someday maybe even original tunes
-
