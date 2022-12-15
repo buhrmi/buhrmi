@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to buhrmi software development.
+Welcome to buhrmi software development. I'm a freelancing developer specializing in Ruby on Rails and Svelte.
 
 ### Do you like music?
 
