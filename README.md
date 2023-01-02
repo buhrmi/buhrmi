@@ -4,7 +4,7 @@ I'm a freelancing developer specializing in Ruby on Rails and Svelte.
 
 ### Do you like music?
 
-Come check out my [Open DJ Booth](https://www.opendjbooth.com) project.
+I'm currently rearranging my atoms to create the [Open DJ Booth](https://www.opendjbooth.com), a traveling DJ booth.
 
 ### Do you like open source stuff?
 
