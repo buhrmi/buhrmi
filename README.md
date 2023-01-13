@@ -25,6 +25,7 @@ If you already received a cease-and-desist, please send it to me. I'll forward i
 
 I'm a contributor to [Svelte](https://svelte.dev) and [Inertia](https://inertiajs.com)
 
-### Do you like hard trap?
+### Do you like Shitposts
 
-On my [SoundCloud](https://soundcloud.com/buhrmi) you can find some mashups and someday maybe even original tunes
+Please say hi on [Twitter](https://www.twitter.com/einbuhrmi)
+
