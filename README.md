@@ -1,31 +1,4 @@
 # Hi there 👋
 
-I'm a freelancing developer specializing in Ruby on Rails and Svelte.
-
-### Do you like music?
-
-I'm currently rearranging my atoms to create the [Open DJ Booth](https://www.opendjbooth.com), a traveling DJ booth.
-
-### Do you like open source stuff?
-
-Here you can find a selection of open source stuff that I'm currently working on.
-
-#### [ActionStore](https://github.com/buhrmi/actionstore)
-
-Real-time Svelte stores for Rails. IMHO it's the best thing to happen to Rails since remote javascript.
-
-
-#### [Google Fonts Proxy](https://github.com/buhrmi/google-fonts-proxy)
-
-A proxy for everyone who is concerned about [self-proclaimed "privacy lawyers"](https://www.datenschutzanwalt.eu), that send letters of cease-and-desist ("Abmahnungen") because of the usage of Google Fonts. With this proxy, your users will send their IP address to me, instead of the evil evil Google servers. Problem solved.
-
-If you already received a cease-and-desist, please send it to me. I'll forward it into the designated trash can and upload the video of it to YouTube.
-
-#### Contributions
-
-I'm a contributor to [Svelte](https://svelte.dev) and [Inertia](https://inertiajs.com)
-
-### Do you like Shitposts
-
-Please say hi on [Twitter](https://www.twitter.com/einbuhrmi)
+I'm a Rails and Svelte developer currently working on [Shitcoin Swap](https://www.shitcoinswap.com). Come join the greatest community of shitcoin traders.
 
