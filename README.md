@@ -1,4 +1,4 @@
 # Hi there 👋
 
-This is the GitHub profile of a Rails and Svelte developer currently working on [Shitcoin Swap](https://www.shitcoinswap.com). Come join the greatest community of shitcoin traders.
+I used to be a freelancing Ruby on Rails developer with open source contributions to [Inertia](https://inertiajs.com) and [Svelte](https://svelte.dev). But these days I'm focussing on [Shitcoin Swap](https://www.shitcoinswap.com) - the greatest community of shitcoin traders.
 
