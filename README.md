@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Ruby on Rails developer and founder of the Shitcoin Development Foundation. We develop a cryptographic ledger to store Shitcoins.
+I'm a Ruby on Rails developer and Representative Director of the Shitcoin Development Foundation. We develop a cryptographic ledger to store Shitcoin.
 
 ## Earn Shitcoins
 
