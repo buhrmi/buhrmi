@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm a Ruby on Rails developer and Representative Director of the Shitcoin Development Foundation. We develop a cryptographic ledger to store Shitcoin.
+I'm a Ruby on Rails developer and Representative Director of the Shitcoin Society. We develop a cryptographic ledger that stores Shitcoin.
 
-## Earn Shitcoins
+## Earn Shitcoin
 
-[Shitcoin Swap](https://www.shitcoinswap.com) is the only and official website of the Shitcoin Development Foundation. You can use it to check your Shitcoin and altcoin balances and earn more Shitcoins.
+You need an account with the [Shitcoin Society](https://www.shitcoinsociety.com). It's the only place in the world where you can earn Shitcoin. Here, you can also view your balances and trade with other Shitcoiners.
