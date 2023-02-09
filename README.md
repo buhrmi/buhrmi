@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Ruby on Rails developer and Representative Director of the Shitcoin Society. We develop a cryptographic ledger that stores Shitcoin.
+I'm a Ruby on Rails developer and Ralso the CEO of the Shitcoin Society. We develop a cryptographic ledger that stores Shitcoin.
 
 ## Earn Shitcoin
 
