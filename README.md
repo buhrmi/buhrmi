@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Ruby on Rails developer and also the Founder of the [Shitcoin Society](https://www.shitcoinsociety.com). The future of finance is here! Currently I work as a full-time web developer at [CDMN GmbH](https://cdmn.netlify.app).
+I'm a Ruby on Rails developer and browser-based game maker, currently working on the [Shitcoin Society](https://www.shitcoinsociety.com). The future of finance is here! Besides that I also work as a full-time web developer for [CDMN GmbH](https://cdmn.netlify.app).
 
 ## 2022 Portfolio
 
