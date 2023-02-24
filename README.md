@@ -1,6 +1,6 @@
-# Hi there
+# Hi there ✌️
 
-This is the GitHub profile of a web developer from Germany who enjoys [vlogging about VanLife](https://youtube.com/@stefanbuhrmester) and [putting up music festivals](https://twitch.tv/opendjbooth).
+I'm a web developer from Germany who enjoys [vlogging about VanLife](https://youtube.com/@stefanbuhrmester) and [putting on music festivals](https://twitch.tv/opendjbooth).
 
 In my spare time I work on the [Shitcoin Society](https://www.shitcoinsociety.com), a game about mining shitcoin. Lots of shitcoin.
 
