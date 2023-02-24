@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a web developer from Germany [vlogging about VanLife](https://youtube.com/@stefanbuhrmester) and [putting up music festivals](https://twitch.tv/opendjbooth).
+I'm a web developer from Germany [vlogging about VanLife](https://youtube.com/@stefanbuhrmester) and [putting up music festivals](https://twitch.tv/opendjbooth). In my spare time I work on the [Shitcoin Society](https://www.shitcoinsociety.com), a game about mining shitcoin. Lots of shitcoin.
 
 ## 2022 Portfolio
 
