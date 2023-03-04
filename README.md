@@ -1,6 +1,6 @@
 # Hi there ✌️
 
-I'm a web developer working in the real estate industry. In my spare time I enjoy [vlogging about VanLife](https://youtube.com/@stefanbuhrmester) and [putting on music festivals](https://twitch.tv/opendjbooth). I'm also the founder of [Shitcoin Swap](https://www.shitcoinswap.com), the world's best place to launch new crypto projects and trade them with friends. So if you have a cool idea for a crypto project, reach out!
+I'm a web developer working in the real estate industry. In my spare time I enjoy [vlogging about VanLife](https://youtube.com/@stefanbuhrmester) and [putting on music festivals](https://twitch.tv/opendjbooth). I'm also the founder of [Shitcoin Swap](https://www.shitcoinswap.com), the world's best place to discover crypto projects and trade them with friends.
 
 ## Portfolio
 
