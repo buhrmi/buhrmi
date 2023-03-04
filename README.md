@@ -8,7 +8,7 @@ I'm a web developer working in the real estate marketing industry. In my spare t
 
 - [East Side Cubes](https://escneu.netlify.app)
 - [Shitcoin Swap](https://www.shitcoinswap.com)
-- 
+
 ### 2022
 
 - [The Wellem Residences](https://www.thewellemresidences.com)
