@@ -7,7 +7,6 @@ I'm a web developer working in the real estate marketing industry. In my spare t
 ### 2023
 
 - [East Side Cubes](https://escneu.netlify.app)
-- [Shitcoin Swap](https://www.shitcoinswap.com)
 
 ### 2022
 
