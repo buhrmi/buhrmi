@@ -8,6 +8,7 @@ You can catch me [streaming on Twitch](https://twitch.tv/@einbuhrmi) or [trading
 
 ### 2023
 
+- [Shitcoin Swap](https://www.shitcoinswap.com)
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [East Side Cubes](https://escneu.netlify.app)
 
@@ -16,4 +17,3 @@ You can catch me [streaming on Twitch](https://twitch.tv/@einbuhrmi) or [trading
 - [The Wellem Residences](https://www.thewellemresidences.com)
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
-- [CDMN Real Estate Marketing](https://cdmn.netlify.app)
