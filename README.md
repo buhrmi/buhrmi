@@ -1,6 +1,8 @@
 # Hi there ✌️
 
-I'm a web developer working in real estate marketing at CDMN GmbH. In my spare time I enjoy [streaming open DJ booth events](https://twitch.tv/@einbuhrmi) and trade shitcoins on [Shitcoin Swap](https://www.shitcoinswap.com/@einbuhrmi).
+I'm a web developer working in real estate marketing at CDMN GmbH.
+
+You can catch me [streaming open DJ booth events](https://twitch.tv/@einbuhrmi) or [trading shitcoins on Shitcoin Swap](https://www.shitcoinswap.com/@einbuhrmi).
 
 ## Portfolio
 
