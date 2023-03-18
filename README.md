@@ -8,7 +8,6 @@ You can catch me [streaming on Twitch](https://twitch.tv/@einbuhrmi) or [trading
 
 ### 2023
 
-- [Shitcoin Swap](https://www.shitcoinswap.com)
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [East Side Cubes](https://escneu.netlify.app)
 
