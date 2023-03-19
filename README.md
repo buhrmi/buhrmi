@@ -8,8 +8,8 @@ You can catch me [streaming on Twitch](https://twitch.tv/@einbuhrmi) or [trading
 
 ### 2023
 
-- [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [East Side Cubes](https://www.east-side-cubes.de)
+- [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 
 ### 2022
 
