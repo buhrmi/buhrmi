@@ -19,4 +19,4 @@ You can catch me [streaming on Twitch](https://twitch.tv/@einbuhrmi) or [trading
 
 ### < 2022
 
-- 💩
+- mostly 💩
