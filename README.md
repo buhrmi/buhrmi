@@ -2,7 +2,7 @@
 
 I'm a web developer working in real estate marketing at CDMN GmbH.
 
-You can catch me [streaming on Twitch](https://twitch.tv/einbuhrmi) or [trading shitcoins on Shitcoin Swap](https://www.shitcoinswap.com/@einbuhrmi).
+You can catch me [streaming on opendjbooth.com](https://www.opendjbooth.com) or [trading shitcoins on Shitcoin Swap](https://www.shitcoinswap.com/@einbuhrmi).
 
 ## Portfolio
 
