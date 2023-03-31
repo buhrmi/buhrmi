@@ -2,7 +2,13 @@
 
 I'm a web developer working in real estate marketing at CDMN GmbH.
 
-In my spare time I work on [OPEN DJ BOOTH](https://www.opendjbooth.com) and [trade shitcoins on Shitcoin Swap](https://www.shitcoinswap.com/@einbuhrmi).
+## Side projects
+
+- [OPEN DJ BOOTH](https://www.opendjbooth.com)<br>
+  A traveling music festival streaming on Twitch
+  
+- [Shitcoin Swap](https://www.shitcoinswap.com)<br>
+  Discover interesting crypto projects and trade them with friends
 
 ## Portfolio
 
