@@ -2,7 +2,7 @@
 
 I'm a web developer working in real estate marketing at CDMN GmbH.
 
-## Hobby projects
+## Personal projects
 
 - [OPEN DJ BOOTH](https://www.opendjbooth.com)<br>
   A traveling music festival streaming on Twitch
