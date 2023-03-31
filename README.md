@@ -2,7 +2,7 @@
 
 I'm a web developer working in real estate marketing at CDMN GmbH.
 
-## Side projects
+## Hobby projects
 
 - [OPEN DJ BOOTH](https://www.opendjbooth.com)<br>
   A traveling music festival streaming on Twitch
@@ -10,7 +10,7 @@ I'm a web developer working in real estate marketing at CDMN GmbH.
 - [Shitcoin Swap](https://www.shitcoinswap.com)<br>
   Discover interesting crypto projects and trade them with friends
 
-## Portfolio
+## Work projects
 
 ### 2023
 
