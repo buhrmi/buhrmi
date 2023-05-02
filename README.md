@@ -2,7 +2,15 @@
 
 You've reached the profile of a web developer working in real estate marketing at CDMN GmbH.
 
-## Latest work projects
+## Personal projects
+
+- [OPEN DJ BOOTH](https://www.opendjbooth.com)<br>
+  A traveling music festival streaming on Twitch
+
+- [Shitcoin Swap](https://www.shitcoinswap.com)<br>
+  Discover interesting crypto projects and trade them with friends
+
+## Work projects
 
 ### 2023
 
