@@ -16,14 +16,6 @@ You've reached the profile of a web developer working in real estate marketing a
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-## Some personal projects
-
-- [OPEN DJ BOOTH](https://www.opendjbooth.com)<br>
-  A traveling music festival streaming on Twitch
-  
-- [Shitcoin Swap](https://www.shitcoinswap.com)<br>
-  Discover interesting crypto projects and trade them with friends
-
 ## Need some real estate marketing?
 
 Reach out at buhrmester@cdmn.de to start your real estate marketing endeavours.
