@@ -26,4 +26,4 @@ You've reached the profile of a web developer working in real estate marketing a
 
 ## Need some real estate marketing?
 
-Get your real estate marketing in the only direction that promises success: hello@cdmn.de
+Reach out at buhrmester@cdmn.de to start your real estate marketing endeavours.
