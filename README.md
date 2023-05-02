@@ -18,4 +18,4 @@ You've reached the profile of a web developer working in real estate marketing a
 
 ## Need some real estate marketing?
 
-Reach out at buhrmester@cdmn.de to start your real estate marketing endeavours.
+Reach out at buhrmester@cdmn.de to start your next real estate marketing endeavour.
