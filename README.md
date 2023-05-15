@@ -1,8 +1,8 @@
 # Hi there
 
-I'm a web developer working in real estate marketing at CDMN GmbH. Contact me at buhrmester@cdmn.de
+I'm a web developer working in real estate marketing at CDMN GmbH. Are you a project developer in need of marketing? Reach out at buhrmester@cdmn.de or info@cdmn.de and let's get stuff done.
 
-## Work projects
+## References
 
 ### 2023
 
