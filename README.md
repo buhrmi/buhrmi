@@ -1,8 +1,8 @@
 # Hi there
 
-I'm a a web developer working in real estate marketing at CDMN GmbH. Are you a project developer? Feel free to reach out at info@cdmn.de and let's get stuff done.
+I'm a a web developer working in real estate marketing. In my spare time I like to travel and stream [DJ sets on Twitch](https://twitch.tv/einbuhrmi).
 
-## References
+## Work Projects
 
 ### 2023
 
@@ -18,11 +18,3 @@ I'm a a web developer working in real estate marketing at CDMN GmbH. Are you a p
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-
-## Personal projects
-
-- [OPEN DJ BOOTH](https://www.opendjbooth.com)<br>
-  A traveling music festival streaming on Twitch
-
-- [Shitcoin Swap](https://www.shitcoinswap.com)<br>
-  Discover interesting crypto projects and trade them with friends
