@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a a web developer working in real estate. In my spare time I like to travel and stream [DJ sets on Twitch](https://twitch.tv/einbuhrmi).
+I'm a a web developer working in real estate.
 
 ## Work Projects
 
