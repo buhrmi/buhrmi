@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a a web developer working in real estate.
+I'm a a web developer working in real estate but would rather do something with music.
 
 ## Work Projects
 
