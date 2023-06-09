@@ -20,5 +20,5 @@ I'm a a web developer and this is my portfolio.
 
 ## Open Source contributions to prove that I'm very cool
 
-- [Scaling for Svelte Crossfades](https://github.com/sveltejs/svelte/pull/3175)
+- [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
