@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a a web developer and this is my portfolio.
+I'm a web developer. You can catch me working or making music on Twitch: https://twitch.tv/einbuhrmi
 
 ## Work Projects
 
