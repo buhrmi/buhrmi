@@ -7,10 +7,9 @@ I'm a web developer. Feel free to catch me on Twitch: https://twitch.tv/einbuhrm
 ### 2023
 
 - [Tender](https://tender.estate) (in development)
-- [Super Natural Office](https://super-natural-office.netlify.app)
-- [Sophie Hamburg](https://sophie.hamburg)
 - [East Side Cubes](https://www.east-side-cubes.de)
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
+- [Sophie Hamburg](https://sophie.hamburg)
 
 ### 2022
 
