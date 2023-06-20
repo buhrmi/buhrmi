@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a web developer. Feel free to catch me on Twitch: https://twitch.tv/djbuhrmi
+I make websites and stream music on Twitch: https://twitch.tv/djbuhrmi
 
 ## Work Projects
 
