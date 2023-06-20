@@ -1,6 +1,6 @@
 # Hi there
 
-I make websites and stream music on Twitch: https://twitch.tv/djbuhrmi
+I make websites and stream music on Twitch: https://twitch.tv/opendjbooth
 
 ## Work Projects
 
