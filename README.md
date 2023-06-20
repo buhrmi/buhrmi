@@ -1,6 +1,6 @@
 # Hi there
 
-I make websites and stream music on Twitch: https://twitch.tv/opendjbooth
+I make websites and apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev) and stream music on Twitch: https://twitch.tv/opendjbooth
 
 ## Work Projects
 
