@@ -1,6 +1,6 @@
 # Hi there
 
-I make websites and apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev).
+I make websites and apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev) and stream music stuff on Twitch: https://twitch.tv/djbuhrmi
 
 ## Work Projects
 
