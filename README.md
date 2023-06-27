@@ -1,6 +1,6 @@
 # Hi there
 
-I make web apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev) and sometimes stream retarded stuff on Twitch https://twitch.tv/djbuhrmi. Come say hi.
+I make web apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev). Check out my YouTube channel with the world's best content https://www.youtube.com/@einbuhrmi.
 
 ## Work Projects
 
