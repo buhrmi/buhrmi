@@ -1,6 +1,6 @@
 # Hi there
 
-I make web apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev). Check out my YouTube channel with the world's best content https://www.youtube.com/@einbuhrmi.
+I make web apps with [Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev).
 
 ## Work Projects
 
