@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a very legit web developer and vanlife blogger.
+I'm a very legit web developer and [vanlife blogger](https://youtube.com/@stefanbuhrmester).
 
 ## Open Source contributions to prove that I'm very cool
 
