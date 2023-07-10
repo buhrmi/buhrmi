@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a web developer and [vanlife blogger](https://youtube.com/@stefanbuhrmester).
+I'm a web developer, bedroom DJ, [vanlife blogger](https://youtube.com/@stefanbuhrmester), and co-founder of [Shitcoin Swap](https://www.shitcoinswap.com).
 
 ## Work Projects
 
