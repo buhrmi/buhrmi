@@ -17,7 +17,7 @@ This is buhrmi, a web developer, bedroom DJ, [vanlife blogger](https://youtube.c
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-## Open Source contributions to prove that I'm very cool
+## Open Source contributions to prove that I'm very cool 🫠
 
 - [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
