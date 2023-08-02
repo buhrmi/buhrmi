@@ -1,12 +1,11 @@
 # Hi there
 
-This is buhrmi, a web developer, [bedroom producer](https://soundcloud.com/buhrmi), [vanlife blogger](https://youtube.com/@stefanbuhrmester), and the co-founder of [Shitcoin Swap](https://www.shitcoinswap.com).
+This is buhrmi, a web developer and browser-based game maker
 
 ## Work Projects
 
 ### 2023
 
-- [Tender](https://tender.estate) (in development)
 - [East Side Cubes](https://www.east-side-cubes.de)
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [Sophie Hamburg](https://sophie.hamburg)
