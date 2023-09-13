@@ -2,7 +2,7 @@
 
 This is buhrmi, a web developer and browser-based game maker.
 
-## Hobby Projects
+## Current Personal Projects
 
 - [Gladiators Reloaded](https://gladi.buhrmi.de)
   The reincarnation of a very old and beloved browser-based game.
