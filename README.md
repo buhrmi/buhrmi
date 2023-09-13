@@ -2,7 +2,7 @@
 
 This is buhrmi, a web developer and browser-based game maker. 
 
-Get ready for the reincarnation of an old and beloved browser-based game. Get ready for [Gladiators Reloaded](https://gladi.buhrmi.de).
+It's time for the reincarnation of an old and beloved browser-based game. It's time for [Gladiators Reloaded](https://gladi.buhrmi.de) (currently in development)
 
 ## Work Projects
 
