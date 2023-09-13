@@ -1,10 +1,8 @@
 # Hi there
 
-This is buhrmi, a web developer and browser-based game maker.
+This is buhrmi, a web developer and browser-based game maker. 
 
-## Current Personal Projects
-
-- [Gladiators Reloaded](https://gladi.buhrmi.de)<br>The reincarnation of a very old and beloved browser-based game.
+Get ready for the reincarnation of an old and beloved browser-based game. Get ready for [Gladiators Reloaded](https://gladi.buhrmi.de).
 
 ## Work Projects
 
