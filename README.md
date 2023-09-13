@@ -4,7 +4,7 @@ This is buhrmi, a web developer and browser-based game maker.
 
 ## Big Happy Announcement!
 
-I decided that it's time for the reincarnation of an old and beloved browser-based game. So that's why I'm happy to announce that [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development.
+I decided that it's time for the reincarnation of an old and beloved browser-based game. So that's why I'm happy to announce that [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development. Head over to https://gladi.buhrmi.de/about for some more info.
 
 ## Work Projects
 
