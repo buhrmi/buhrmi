@@ -4,7 +4,7 @@ This is buhrmi, a web developer and browser-based game maker.
 
 ## Gladiators Reloaded
 
-Get ready for the reincarnation of an old and beloved browser-based game. So I'm happy to announce that [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
+Get ready for the reincarnation of an old and beloved browser-based game. [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
 
 ## Work Projects
 
