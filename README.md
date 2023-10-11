@@ -1,12 +1,12 @@
 # Hi there
 
-This is buhrmi, a web developer and browser-based game maker. 
+This is buhrmi, a web developer, bedroom DJ, and browser-based game maker. 
 
 ## Gladiators Reloaded
 
-Get ready for the reincarnation of an old and beloved browser-based game. [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
+The reincarnation of an old and beloved browser-based game. [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
 
-## Work Projects
+## Work Portfolio
 
 These projects are copyrighted by CDMN GmbH and their respective clients.
 
