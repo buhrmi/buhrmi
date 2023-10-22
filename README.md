@@ -2,15 +2,21 @@
 
 This is buhrmi, a web developer, bedroom DJ, and browser-based game maker. 
 
-## Gladiators Reloaded
+## Work together?
+
+Currently open for new positions. [Reach out](mailto:buhrmi@gmail.com) if you're looking for an UI/UX implementor.
+
+## Past and current projects
+
+### Gladiators Reloaded
 
 The reincarnation of an old and beloved browser-based game. [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
 
-## Work Portfolio
+### Work Portfolio
 
 These projects are copyrighted by CDMN GmbH and their respective clients.
 
-### 2023
+#### 2023
 
 - [HOM12 - Offices am Rheinpark](https://www.hom12.de)
 - [Schlossufer Benrath](https://www.schlossufer-benrath.de)
@@ -18,7 +24,7 @@ These projects are copyrighted by CDMN GmbH and their respective clients.
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [Sophie Hamburg](https://sophie.hamburg)
 
-### 2022
+#### 2022
 
 - [The Wellem Residences](https://www.thewellemresidences.com)
 - [Remise Bonn](https://www.remise-bonn.de)
@@ -28,3 +34,4 @@ These projects are copyrighted by CDMN GmbH and their respective clients.
 
 - [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
+
