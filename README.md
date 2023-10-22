@@ -12,7 +12,7 @@ Currently open for new positions. [Reach out](mailto:buhrmi@gmail.com) if you're
 
 The reincarnation of an old and beloved browser-based game. [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
 
-### Work Portfolio
+### Work projects
 
 These projects are copyrighted by CDMN GmbH and their respective clients.
 
