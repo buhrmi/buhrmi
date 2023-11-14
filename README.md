@@ -8,9 +8,17 @@ Currently open for new positions. [Reach out](mailto:buhrmi@gmail.com) if you're
 
 ## Past and current projects
 
+### Shitcoin Swap
+
+Social Crypto Trading. Currently invitation-only.
+
+https://www.shitcoinswap.com
+
 ### Gladiators Reloaded
 
-The reincarnation and reimagination of an old browser-based game. [Gladiators Reloaded](https://gladi.buhrmi.de) is now in development, and for the first time in 15 years I'm starting a [dev blog](https://gladi.buhrmi.de/blog) again (in German). Have fun.
+The reincarnation and reimagination of an old browser-based game.
+
+https://gladi.buhrmi.de
 
 ### Work projects
 
