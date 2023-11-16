@@ -1,6 +1,6 @@
 # Hi there
 
-This is buhrmi, a web developer, bedroom DJ, and browser-based game maker. 
+This is buhrmi, a web developer and bedroom DJ. 
 
 ## Work together?
 
