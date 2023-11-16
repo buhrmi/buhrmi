@@ -4,7 +4,7 @@ This is buhrmi, a web developer, bedroom DJ, and browser-based game maker.
 
 ## Work together?
 
-Currently open for new positions. [Reach out](mailto:buhrmi@gmail.com) if you're looking for an UI/UX implementor or technical co-founder.
+Currently open for new positions. Feel free to [reach out](mailto:buhrmi@gmail.com) if you're looking for a technical co-founder or UI/UX implementor.
 
 ## Past and current projects
 
