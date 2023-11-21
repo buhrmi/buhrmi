@@ -26,6 +26,7 @@ These projects are copyrighted by CDMN GmbH and their respective clients.
 
 #### 2023
 
+- [CDMN GmbH](https://cdmn.de)
 - [HOM12 - Offices am Rheinpark](https://www.hom12.de)
 - [Schlossufer Benrath](https://www.schlossufer-benrath.de)
 - [East Side Cubes](https://www.east-side-cubes.de)
