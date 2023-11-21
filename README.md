@@ -1,6 +1,6 @@
-# Hi there
+# Well met
 
-This is buhrmi, a web developer and bedroom DJ. 
+I am buhrmi, a totally legit web developer and the founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com).
 
 ## Ready to work
 
