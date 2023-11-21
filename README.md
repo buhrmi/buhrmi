@@ -8,12 +8,6 @@ Do you have an app idea? Feel like starting up? Feel free to [reach out](mailto:
 
 ## Past and current projects
 
-### Shitcoin Swap
-
-Social Crypto Trading. Currently invitation-only.
-
-https://www.shitcoinswap.com
-
 ### Gladiators Reloaded
 
 The reincarnation and reimagination of an old browser-based game.
