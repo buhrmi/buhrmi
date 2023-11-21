@@ -1,6 +1,6 @@
-# Well met
+# Hi there
 
-I am buhrmi, a totally legit web developer and the founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com).
+This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com).
 
 ## Ready to work
 
