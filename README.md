@@ -2,9 +2,9 @@
 
 This is buhrmi, a web developer and bedroom DJ. 
 
-## Work together?
+## Ready to work
 
-Currently open for new positions. Feel free to [reach out](mailto:buhrmi@gmail.com) if you're looking for a technical co-founder or UI/UX implementor.
+Do you have an app idea? Feel like starting up? Feel free to [reach out](mailto:buhrmi@gmail.com) if you're looking for a technical co-founder or UI/UX implementor.
 
 ## Past and current projects
 
