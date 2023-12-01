@@ -6,11 +6,11 @@ This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](ht
 
 Feel like working together? Feel free to [reach out](mailto:buhrmi@gmail.com) if you'd like to join a project or are looking for a technical co-founder or UI/UX implementor.
 
-### Past projects
+## Past projects
 
 These projects are copyrighted by CDMN GmbH and their respective clients.
 
-#### 2023
+### 2023
 
 - [CDMN GmbH](https://cdmn.de)
 - [HOM12 - Offices am Rheinpark](https://www.hom12.de)
@@ -19,7 +19,7 @@ These projects are copyrighted by CDMN GmbH and their respective clients.
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [Sophie Hamburg](https://sophie.hamburg)
 
-#### 2022
+### 2022
 
 - [The Wellem Residences](https://www.thewellemresidences.com)
 - [Remise Bonn](https://www.remise-bonn.de)
