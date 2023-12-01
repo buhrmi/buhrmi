@@ -2,19 +2,11 @@
 
 This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com).
 
-## Ready to work
+## Ready to collaborate?
 
-Do you have an app idea? Feel like starting up? Feel free to [reach out](mailto:buhrmi@gmail.com) if you're looking for a technical co-founder or UI/UX implementor.
+Feel like working together? Feel free to [reach out](mailto:buhrmi@gmail.com) if you'd like to join a project or are looking for a technical co-founder or UI/UX implementor.
 
-## Past and current projects
-
-### Gladiators Reloaded
-
-The reincarnation and reimagination of an old browser-based game.
-
-https://gladi.buhrmi.de
-
-### Work projects
+### Past projects
 
 These projects are copyrighted by CDMN GmbH and their respective clients.
 
