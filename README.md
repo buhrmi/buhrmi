@@ -4,7 +4,7 @@ This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](ht
 
 ## Ready to collaborate?
 
-Want to join a project? Or do you have your own project idea and are looking for a technical co-founder or UI/UX implementor? Feel free to [reach out](mailto:buhrmi@gmail.com).
+Want to join a project? Or do you have your own project idea and are looking for a technical co-founder or UI/UX implementor? Feel free to [send an email](mailto:buhrmi@gmail.com).
 
 ## Past projects
 
