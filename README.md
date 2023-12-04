@@ -1,10 +1,6 @@
 # Hi there
 
-This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com). Still welcoming founding partners for these projects. If you're interested in crypto trading or DJing, get in touch to hear the pitches.
-
-## Ready to collaborate?
-
-Want to join a project? Or do you have your own project idea and are looking for a technical co-founder or UI/UX implementor? Feel free to [send an email](mailto:buhrmi@gmail.com).
+This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com). Still welcoming founding partners for these projects. If you're interested in crypto trading or DJing, feel free to [get in touch](mailto:buhrmi@gmail.com) to hear the pitches.
 
 ## Past projects
 
