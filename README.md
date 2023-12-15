@@ -1,8 +1,8 @@
 # Hi there
 
-This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](https://twitter.com/shitcoinswap) and [@opendjbooth](https://www.opendjbooth.com). Still welcoming founding partners for these projects. If you're interested in crypto trading or DJing, feel free to [get in touch](mailto:buhrmi@gmail.com) to hear the pitches.
+This is buhrmi, a totally legit web developer, and founder of [@shitcoinswap](https://twitter.com/shitcoinswap).
 
-## Past projects
+## Work projects
 
 These projects are copyrighted by CDMN GmbH and their respective clients.
 
