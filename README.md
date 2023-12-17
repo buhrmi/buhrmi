@@ -1,6 +1,6 @@
 # Hi there
 
-This is buhrmi, a totally legit web developer, and the founder of [Shitcoin Swap](https://www.shitcoinswap.com).
+This is buhrmi, a totally legit web developer, and the founder of [Shitcoin Swap](https://www.shitcoinswap.com). I'm always looking for talented blockchain- and digital asset developers to partner with. Feel free to reach out on social media.
 
 Besides that, I also do "regular" web development. The projects below are all copyrighted by CDMN GmbH (my employer) and their respective clients.
 
