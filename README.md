@@ -2,7 +2,7 @@
 
 This is buhrmi, a totally legit web developer.
 
-Currently busy bootstrapping [Shitcoin Swap](https://www.shitcoinswap.com), the ultimate wealth generation engine. If you are a digital asset developer (blockchain or other DLTs) and are interested in working together, please reach out at [partners@shitcoinswap.com](mailto:partners@shitcoinswap.com).
+Currently bootstrapping [Shitcoin Swap](https://www.shitcoinswap.com).
 
 Besides that, I also do "regular" web development. The projects below are all copyrighted by CDMN GmbH (my employer) and their respective clients.
 
