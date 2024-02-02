@@ -1,10 +1,12 @@
 # Hi there
 
-I'm buhrmi, a totally legit web developer.
+I'm buhrmi, a totally legit web developer and bedroom DJ.
 
 Currently bootstrapping [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 
-Besides that, I also do "regular" web development. The projects below are all copyrighted by CDMN GmbH and their respective clients.
+## Work
+
+The projects below are all copyrighted by CDMN GmbH and their respective clients.
 
 ### 2023
 
