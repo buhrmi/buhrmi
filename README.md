@@ -4,7 +4,7 @@ I'm buhrmi, a totally legit web developer.
 
 Currently bootstrapping [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 
-Follow [Buhrmi TV](https://buhrmi.tv) for important news and announcements.
+Also, please follow my [DJ shenanigans](https://youtube.com/@buhrmitv) on YouTube.
 
 ## Work
 
