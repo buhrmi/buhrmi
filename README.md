@@ -1,6 +1,6 @@
 # Hi there
 
-I'm buhrmi, a totally legit web developer.
+I'm buhrmi, a totally legit web developer and beginner DJ.
 
 Currently bootstrapping [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 
