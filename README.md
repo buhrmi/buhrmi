@@ -2,7 +2,7 @@
 
 I'm buhrmi, a totally legit web developer and bedroom DJ.
 
-Currently bootstrapping [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
+When I'm not outside [bootstrapping my DJ carrer](https://youtube.com/@buhrmitv) you can find me working on [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 
 ## Work
 
