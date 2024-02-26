@@ -6,7 +6,7 @@ I'm buhrmi, a totally legit web developer and bedroom DJ.
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 - [Vibe Tokyo](https://vibe.tokyo), a futuristic artist booking agency.
 
-## Work
+## Freelance work
 
 The projects below are all copyrighted by CDMN GmbH and their respective clients.
 
