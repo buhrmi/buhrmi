@@ -1,6 +1,6 @@
 # Hi there
 
-I'm buhrmi, a totally legit web developer and bedroom DJ.
+I'm buhrmi, a degenerate web developer and bedroom DJ.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
