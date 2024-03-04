@@ -4,7 +4,7 @@ I'm buhrmi, a totally legit web developer.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
-- [Vibe Tokyo](https://vibe.tokyo), a futuristic artist booking agency. You can even book [your's truly](https://app.vibe.tokyo/users/2).
+- [Vibe Tokyo](https://vibe.tokyo), a futuristic artist booking agency. You can even book [your's truly](https://app.vibe.tokyo/profiles/2).
 
 ## Portfolio
 
