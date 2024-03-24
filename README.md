@@ -1,6 +1,6 @@
 # Hi there
 
-I'm buhrmi, a totally legit web developer.
+I'm buhrmi, a web developer who's always testing new startup ideas hoping to come up with something useful some day.
 
 ## Currently bootstrapping
 - [Adlify](https://www.adlify.me), a platform to create and sell advertising space directly on your stream.
