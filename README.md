@@ -1,6 +1,6 @@
 # Hi there
 
-I'm buhrmi, a web developer who's always testing new startup ideas hoping to come up with something useful some day.
+I'm buhrmi, a web developer and consultant specializing in Svelte and Ruby on Rails. Need help with Svelte and/or Rails? Consider purchasing a <a href="https://buhrmester.dev">Consultation Package</a>!
 
 ## Currently bootstrapping
 - [Adlify](https://www.adlify.me), a platform to create and sell advertising space directly on your stream.
