@@ -3,9 +3,9 @@
 I'm buhrmi, a web developer and consultant specializing in Svelte and Ruby on Rails. Need help with Svelte and/or Rails? Consider purchasing a <a href="https://buhrmester.dev">Consultation Package</a>!
 
 ## Currently bootstrapping
+- [VIBE](https://vibe.tokyo), the futuristic artist booking platform. You can even book [your's truly](https://app.vibe.tokyo/profiles/2).
 - [Adlify](https://www.adlify.me), a platform to create and sell advertising space directly on your stream.
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
-- [Vibe Tokyo](https://vibe.tokyo), a futuristic artist booking agency. You can even book [your's truly](https://app.vibe.tokyo/profiles/2).
 
 ## Portfolio
 
