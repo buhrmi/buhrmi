@@ -1,6 +1,6 @@
 # Hi there
 
-I'm buhrmi, a web developer and consultant specializing in Svelte and Ruby on Rails. Need help with Svelte and/or Rails? Consider purchasing a <a href="https://buhrmester.dev">Consultation Package</a>!
+I'm buhrmi, a web developer and consultant specializing in Svelte and Ruby on Rails.
 
 ## Currently bootstrapping
 - [VIBE](https://vibe.tokyo), the futuristic artist booking platform. You can even book [your's truly](https://app.vibe.tokyo/profiles/2).
