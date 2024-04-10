@@ -25,9 +25,9 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-## Obligatory Open Source contributions to prove that I'm cool or whatever
+## Open Source projects to prove that I'm very cool 🫠
 
-- [Bun-Plugin-Svelte](https://github.com/buhrmi/bun-plugin-svelte)
+- [Inertia with Frames](https://github.com/buhrmi/inertia)
 - [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
 
