@@ -3,9 +3,9 @@
 I'm buhrmi, a web developer and consultant specializing in Svelte and Ruby on Rails.
 
 ## Currently bootstrapping
+- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 - [VIBE](https://vibe.tokyo), the futuristic artist booking platform. You can even book [your's truly](https://app.vibe.tokyo/profiles/2).
 - [Adlify](https://www.adlify.me), a platform to create and sell advertising space directly on your stream.
-- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 
 ## Portfolio
 
