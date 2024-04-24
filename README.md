@@ -1,6 +1,6 @@
-# Hi there
+# Quack quack I'm a duck
 
-I'm buhrmi, a web developer and consultant specializing in Svelte and Ruby on Rails.
+Ask me anything about Ruby on Rails or Svelte.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
