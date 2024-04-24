@@ -4,7 +4,7 @@ I'm a duck with web development superpowers.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
-- [VIBE](https://vibe.tokyo), a platform for music event organization and promotion.
+- [VIBE](https://vibe.tokyo), a platform for music event organization and promotion, launching in Tokyo.
 
 ## Portfolio
 
