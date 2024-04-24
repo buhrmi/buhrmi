@@ -1,7 +1,3 @@
-# Quack quack I'm a duck
-
-Ask me anything about Ruby on Rails or Svelte.
-
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
 - [VIBE](https://vibe.tokyo), a platform for music event organization and promotion.
@@ -30,3 +26,6 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
 
+## Work with me?
+
+Ever worked together wirh a duck? Purchase a [24-hour consulting package](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN) and get your project going.
