@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a buhrmi. A very legit web developer helping clients get their projects going using Ruby on Rails and Svelte.
+I'm a buhrmi. Buhrmis are very legit web developers always helping clients get their projects going using Ruby on Rails and Svelte.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
