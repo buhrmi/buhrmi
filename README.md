@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a buhrmi. Buhrmis are very legit web developers always helping clients get their projects going using Ruby on Rails and Svelte.
+I'm a duck with web development superpowers.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
@@ -30,6 +30,6 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
 
-## Consulting Services
+## Spectacular consulting services
 
-Feel free to purchase a [24-hour consulting package](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN). Together we get your project started, no problem.
+Got an idea stuck in your head? Buy the [24-hour consulting flatrate](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN) and let's get cracking.
