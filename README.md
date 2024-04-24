@@ -32,4 +32,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ## Consulting Services
 
-Purchase a [24-hour consulting package](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN) and get your project going with super duck powers.
+Feel free to purchase a [24-hour consulting package](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN). Together we get your project started, no problem.
