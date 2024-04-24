@@ -12,10 +12,10 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ### 2023
 
+- [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
+- [East Side Cubes](https://www.east-side-cubes.de)
 - [HOM12 - Offices am Rheinpark](https://www.hom12.de)
 - [Schlossufer Benrath](https://www.schlossufer-benrath.de)
-- [East Side Cubes](https://www.east-side-cubes.de)
-- [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [Sophie Hamburg](https://sophie.hamburg)
 
 ### 2022
