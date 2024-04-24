@@ -4,7 +4,7 @@ Ask me anything about Ruby on Rails or Svelte.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
-- [VIBE](https://vibe.tokyo), a music event organization and promoting platform.
+- [VIBE](https://vibe.tokyo), a platform for music event organization and promotion.
 
 ## Portfolio
 
