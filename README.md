@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a duck with web development superpowers.
+I once wanted to become the world's most famous DJ, but then I thought "quack it" and became a web developer instead.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://github.com/shitcoinswap/launchpad), my very own poop-branded crypto community.
@@ -32,4 +32,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ## Spectacular consulting services
 
-Got an idea stuck in your head? Buy the [24-hour consulting flatrate](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN) and let's get cracking.
+Got an idea stuck in your head? Buy the [24-hour consulting flatrate](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN) and let's get quacking.
