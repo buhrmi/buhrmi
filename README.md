@@ -3,7 +3,7 @@
 Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But instead I became a web developer.
 
 ## Currently bootstrapping
-- [Shitcoin Swap](https://github.com/shitcoinswap/launchpad), my very own poop-branded trading platform.
+- [Shitcoin Swap](https://github.com/shitcoinswap/launchpad/tree/master?tab=readme-ov-file#shitcoin-swap), my very own poop-branded trading platform.
 - [VIBE](https://vibe.tokyo), a platform for music event organization and promotion, launching in Tokyo.
 
 ## Portfolio
