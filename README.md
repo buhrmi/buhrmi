@@ -1,6 +1,6 @@
 # Hi there
 
-Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But instead I became a web developer.
+Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then Shaq stole my show and I resorted to becoming a web developer.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://github.com/shitcoinswap/launchpad/tree/master?tab=readme-ov-file#shitcoin-swap), my very own poop-branded trading platform.
