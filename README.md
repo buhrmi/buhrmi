@@ -1,6 +1,6 @@
 # Hi there
 
-I once wanted to become the world's most famous DJ, but then I thought "quack it" and became a web developer instead.
+Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I became a web developer instead.
 
 ## Currently bootstrapping
 - [Shitcoin Swap](https://github.com/shitcoinswap/launchpad), my very own poop-branded crypto community.
