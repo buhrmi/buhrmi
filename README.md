@@ -26,7 +26,7 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ## Open Source projects to prove that I'm very cool 🫠
 
-- [Inertia with Frames](https://github.com/buhrmi/inertia)
+- [Inertia X](https://github.com/buhrmi/inertia)
 - [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
 - [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
 
