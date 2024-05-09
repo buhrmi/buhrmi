@@ -32,4 +32,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ## Spectacular consulting services
 
-Got an idea stuck in your head? Buy the [24-hour consulting flatrate](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN) and let's get quacking.
+Need some help with Rails, Inertia, or Svelte? Buy the [24-hour consulting flatrate](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN).
