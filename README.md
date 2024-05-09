@@ -32,4 +32,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ## Spectacular consulting services
 
-Need some help with Rails, Inertia, or Svelte? Buy the [24-hour consulting flatrate](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN).
+Need some help with Rails, Inertia, or Svelte? Buy the [24-hour consulting package](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN). You'll get 24 hours of direct support via email, chat, voice, video (whatever you prefer). That includes consultation, planning, and programming a new feature in an existing project or even bootstrapping a completely new project. If you're not satisfied you'll get your money back.
