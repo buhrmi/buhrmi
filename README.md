@@ -2,8 +2,10 @@
 
 Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer.
 
-## Currently bootstrapping
-- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading platform.
+## Current projects
+
+- [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
+- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
 - [VIBE](https://vibe.tokyo), a platform for music event organization and promotion, launching in Tokyo.
 
 ## Portfolio
@@ -23,12 +25,6 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [The Wellem Residences](https://www.thewellemresidences.com)
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
-
-## Open Source projects
-
-- [Inertia X](https://github.com/buhrmi/inertia)
-- [Crossfade Scaling for Svelte](https://github.com/sveltejs/svelte/pull/3175)
-- [Svelte SSR for Inertia](https://github.com/inertiajs/inertia/pull/1349)
 
 ## Spectacular consulting services
 
