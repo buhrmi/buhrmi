@@ -4,8 +4,8 @@ Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But
 
 ## Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
 - [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
+- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
 - [VIBE](https://vibe.tokyo), a platform for music event organization and promotion, launching in Tokyo.
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
