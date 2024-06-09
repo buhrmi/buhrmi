@@ -4,9 +4,10 @@ Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But
 
 ## Current projects
 
-- [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
+- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 - [VIBE](https://vibe.tokyo), a platform for music event organization and promotion, launching in Tokyo.
+- [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
 ## Portfolio
 
@@ -26,6 +27,3 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-## Spectacular consulting services
-
-Need some help with Rails, Inertia, or Svelte? Buy the [24-hour consulting package](https://www.paypal.com/ncp/payment/DT7QS3QN5YTCN). You'll get 24 hours of direct support via email, chat, voice, video (whatever you prefer). That includes consultation, planning, and programming a new feature in an existing project or even bootstrapping a completely new project. If you're not satisfied you'll get your money back.
