@@ -27,3 +27,6 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
+## Contact
+
+If you'd like to reach out to me, please use my super professional business email address stefan@shitcoinswap.com.
