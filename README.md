@@ -1,4 +1,4 @@
-# Hi there
+# Hi I'm buhrmi
 
 Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer.
 
