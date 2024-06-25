@@ -15,7 +15,7 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and our r
 
 ### 2024
 
-- This year I'm focusing on personal projects (see above).
+(This year I'm focusing on personal projects (see above))
 
 ### 2023
 
