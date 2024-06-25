@@ -11,7 +11,7 @@ Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But
 
 ## Portfolio
 
-The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
+The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and our respective clients.
 
 ### 2024
 
