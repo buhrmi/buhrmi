@@ -1,6 +1,6 @@
 # Hi I'm buhrmi
 
-Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer. Oh, and I'm also CEO and representative directory of the [Shitty Investments Group](https://www.shitcoinswap.com/about).
+Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer. Oh, and I'm also CEO and representative director of the [Shitty Investments Group](https://www.shitcoinswap.com/about).
 
 ## Current projects
 
