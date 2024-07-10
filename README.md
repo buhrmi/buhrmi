@@ -1,12 +1,16 @@
 # Hi I'm buhrmi
 
-Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer. Oh, and I'm also CEO and representative director of the [Shitty Investments Group](https://www.shitcoinswap.com/about).
+I used to be a web developer, but these days I'm trying to become independent as a crypto broker and travel the world.
+
+Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to join the team.
 
 ## Current projects
 
 - [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
-- [VIBE](https://vibe.tokyo), a platform for music event organization and promotion, launching in Tokyo.
+  
+## Open Source
+
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
 ## Portfolio
