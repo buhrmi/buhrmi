@@ -1,6 +1,6 @@
 # Hi I'm buhrmi
 
-I used to be a web developer, but these days I'm trying to become independent as a crypto broker and travel the world.
+I used to be a web developer, but then I founded the Shitty Investments Club. Now I work as an independent crypto broker and travel the world.
 
 Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to join the team.
 
