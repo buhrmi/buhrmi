@@ -1,12 +1,12 @@
 # Hi I'm buhrmi
 
-I'm a web developer and crypto broker working for the Shitty Investments Club. Our goal is to connect you with interesting and promising crypto projects. For this purpose we are currently building Shitcoin Swap, our very own trading platform.
+I'm a web developer and crypto broker working for the Shitty Investments Club. Our goal is to connect you with interesting and promising crypto projects. For this purpose we are currently building [Shitcoin Swap](https://www.shitcoinswap.com), our very own trading platform.
 
-Follow me on [Shitcoin Swap](https://www.shitcoinswap.com/@buhrmi) or feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to join the team.
+Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to join the team.
 
 ## Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
+- [Shitcoin Swap](https://www.shitcoinswap.com), the trading platform powered by the Shitty Investments Group
   
 ## Open Source
 
