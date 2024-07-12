@@ -6,11 +6,11 @@ Follow me on [Shitcoin Swap](https://www.shitcoinswap.com/@buhrmi) or feel free 
 
 ## Current projects
 
-- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded, open-source trading platform.
   
 ## Open Source
 
+- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
 ## Portfolio
