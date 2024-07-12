@@ -6,7 +6,7 @@ Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to jo
 
 ## Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), the trading platform powered by the Shitty Investments Group
+- [Shitcoin Swap](https://www.shitcoinswap.com), the trading platform created by the Shitty Investments Club.
   
 ## Open Source
 
