@@ -1,6 +1,6 @@
 # Hi I'm buhrmi
 
-I'm a web developer and crypto broker working for the Shitty Investments Club. Our goal is to connect you with interesting and promising crypto projects. For this purpose we are currently building [Shitcoin Swap](https://www.shitcoinswap.com), our very own trading platform.
+Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I founded the Shitty Investments Club. Our goal is to connect you with interesting and promising crypto projects. For this purpose we are currently building [Shitcoin Swap](https://www.shitcoinswap.com), our very own trading platform.
 
 Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to join the team.
 
