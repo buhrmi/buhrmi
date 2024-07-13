@@ -13,13 +13,9 @@ Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to jo
 - [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
-## Portfolio
+## Old stuff
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and our respective clients.
-
-### 2024
-
-(This year I'm focusing on personal projects (see above))
 
 ### 2023
 
