@@ -7,6 +7,7 @@ Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to jo
 ## Current projects
 
 - [Shitcoin Swap](https://www.shitcoinswap.com), the trading platform created by the Shitty Investments Club.
+- [Vibe Tokyo](https://vibe.tokyo), an event booking platform for artists, DJs and organizers, launching in Tokyo.
   
 ## Open Source
 
