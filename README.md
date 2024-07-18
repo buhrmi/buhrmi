@@ -1,12 +1,10 @@
 # Hi I'm buhrmi
 
-Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I founded the Shitty Investments Club. Our goal is to connect you with interesting and promising crypto projects. For this purpose we are currently building [Shitcoin Swap](https://www.shitcoinswap.com), our very own trading platform.
-
-Feel free to [reach out](https://www.shitcoinswap.com/about) if you'd like to join the team.
+Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer.
 
 ## Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), the trading platform created by the Shitty Investments Club.
+- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading and investment platform.
 - [Vibe Tokyo](https://vibe.tokyo), an event booking platform for artists, DJs and organizers, launching in Tokyo.
   
 ## Open Source
