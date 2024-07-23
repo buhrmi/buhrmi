@@ -8,7 +8,7 @@ Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But
   
 ## Open Source
 
-- [LiveStores](https://github.com/buhrmi/livestores), real-time data updates for Svelte and Ruby on Rails
+- [LiveStores](https://github.com/buhrmi/livestores), rethinking real-time data with Svelte and Ruby on Rails
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 - [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 
