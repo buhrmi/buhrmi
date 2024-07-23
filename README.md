@@ -5,16 +5,16 @@ Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But
 ## Current projects
 
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading and investment platform.
-- [Vibe Tokyo](https://vibe.tokyo), an event booking platform for artists, DJs and organizers, launching in Tokyo.
   
 ## Open Source
 
-- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
+- [LiveStores](https://github.com/buhrmi/livestores), real-time data updates for Svelte and Ruby on Rails
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
+- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 
-## Old stuff
+## Old portfolio stuff
 
-The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and our respective clients.
+The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
 ### 2023
 
