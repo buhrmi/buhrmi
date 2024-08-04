@@ -4,13 +4,18 @@ Here you can find some stuff I've been working on.
 
 ## Current projects
 
-### [Momentum](https://github.com/momentum-foundation/whitepaper)
+### Momentum
 
-Did you miss out on Bitcoin? No problem, just invest in this experimental blockchain platform implementing Proof-of-Popularity (PoP). 
+Did you miss out on Bitcoin? No problem, just invest in this experimental blockchain implementing Proof-of-Popularity (PoP).
 
-### [Shitcoin Swap](https://www.shitcoinswap.com)
+- Whitepaper: https://github.com/momentum-foundation/whitepaper
+- Code: https://github.com/momentum-foundation/momentum-go
+
+### Shitcoin Swap
 
 The ultimate place to trade and invest into experimental crypto assets.
+
+- Website: https://www.shitcoinswap.com
 
 ## Other stuff
 
