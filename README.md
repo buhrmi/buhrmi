@@ -1,18 +1,18 @@
 # Hi I'm buhrmi
 
-Once upon a time I wanted to become the world's greatest tearout dubstep DJ. But then I settled for web developer.
+Here you can find some stuff I'm currently working on.
 
 ## Current projects
 
+- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 - [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading and investment platform.
   
-## Open Source
+## Other stuff
 
 - [LiveStores](https://github.com/buhrmi/livestores), rethinking real-time data with Svelte and Ruby on Rails
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
-- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
 
-## Old portfolio stuff
+## Old web dev portfolio
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
