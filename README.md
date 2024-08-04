@@ -1,12 +1,17 @@
 # Hi I'm buhrmi
 
-Here you can find some stuff I'm currently working on.
+Here you can find some stuff I've been working on.
 
 ## Current projects
 
-- [Momentum](https://github.com/momentum-foundation/whitepaper), an experimental blockchain platform implementing Proof-of-Popularity (PoP). 
-- [Shitcoin Swap](https://www.shitcoinswap.com), my very own poop-branded trading and investment platform.
-  
+### [Momentum](https://github.com/momentum-foundation/whitepaper)
+
+Did you miss out on Bitcoin? No problem, just invest in this experimental blockchain platform implementing Proof-of-Popularity (PoP). 
+
+### [Shitcoin Swap](https://www.shitcoinswap.com)
+
+The ultimate place to trade and invest into experimental crypto assets.
+
 ## Other stuff
 
 - [LiveStores](https://github.com/buhrmi/livestores), rethinking real-time data with Svelte and Ruby on Rails
