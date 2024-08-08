@@ -6,7 +6,7 @@ Here you can find some stuff I've been working on.
 
 ### Momentum
 
-Did you miss out on Bitcoin? No problem, just invest in this experimental blockchain implementing Proof-of-Popularity (PoP).
+An experimental blockchain implementing Proof-of-Popularity (PoP).
 
 - Whitepaper: https://github.com/momentum-foundation/whitepaper
 - Code: https://github.com/momentum-foundation/momentum-go
