@@ -8,8 +8,8 @@ Here you can find some stuff I've been working on.
 
 An experimental blockchain implementing Proof-of-Popularity (PoP).
 
-- Whitepaper: https://github.com/momentum-foundation/whitepaper
-- Code: https://github.com/momentum-foundation/momentum-go
+- Whitepaper: https://github.com/momentum-chain/whitepaper
+- Code: https://github.com/momentum-chain/momentum-go
 
 ### Shitcoin Swap
 
