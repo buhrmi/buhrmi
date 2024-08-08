@@ -13,16 +13,16 @@ Did you miss out on Bitcoin? No problem, just invest in this experimental blockc
 
 ### Shitcoin Swap
 
-The ultimate place to trade and invest into experimental crypto assets.
+Join the ranks of world class investors and put all your money into questionable crypto projects.
 
 - Website: https://www.shitcoinswap.com
 
-## Other stuff
+## Open Source
 
 - [LiveStores](https://github.com/buhrmi/livestores), rethinking real-time data with Svelte and Ruby on Rails
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
-## Old web dev portfolio
+## Old portfolio stuff
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
