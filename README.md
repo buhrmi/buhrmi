@@ -1,6 +1,6 @@
 # Hi I'm buhrmi
 
-Here you can find some stuff I've been working on.
+I'm a freelancing web app developer. Here you can find some projects I'm currently working on.
 
 ## Current projects
 
