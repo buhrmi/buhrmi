@@ -2,6 +2,8 @@
 
 I'm a freelancing web app developer. Here you can find some projects I'm currently working on.
 
+Business Enquiries: stefan@buhrmi.de
+
 ## Current projects
 
 ### Momentum
@@ -19,7 +21,7 @@ Join the ranks of world class investors and put all your money into questionable
 
 ## Open Source
 
-- [LiveStores](https://github.com/buhrmi/livestores), rethinking real-time data with Svelte and Ruby on Rails
+- [LiveStores](https://github.com/buhrmi/livestores), a new aproach to real-time data with Svelte and Ruby on Rails
 - [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
 
 ## Old portfolio stuff
@@ -40,6 +42,3 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-## Contact
-
-If you'd like to reach out to me, please use my super professional business email address stefan@shitcoinswap.com.
