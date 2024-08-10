@@ -4,7 +4,13 @@ I'm a freelancing web app developer. Here you can find some projects I'm current
 
 Business Enquiries: stefan@buhrmi.de
 
-## Current projects
+## Current Projects
+
+### Shitcoin Swap
+
+Join the ranks of world class investors and put all your money into questionable crypto projects.
+
+- Website: https://www.shitcoinswap.com
 
 ### Momentum
 
@@ -13,16 +19,17 @@ An experimental blockchain implementing Proof-of-Popularity (PoP).
 - Whitepaper: https://github.com/momentum-chain/whitepaper
 - Code: https://github.com/momentum-chain/momentum-go
 
-### Shitcoin Swap
+### LiveStores (Open Source)
 
-Join the ranks of world class investors and put all your money into questionable crypto projects.
+A new aproach to real-time data with Svelte and Ruby on Rails
 
-- Website: https://www.shitcoinswap.com
+- Website: https://github.com/buhrmi/livestores
 
-## Open Source
+### Inertia X (Open Source) 
 
-- [LiveStores](https://github.com/buhrmi/livestores), a new aproach to real-time data with Svelte and Ruby on Rails
-- [Inertia X](https://github.com/buhrmi/inertia), a fork of [Inertia](https://inertiajs.com) with additional features.
+A fork of [Inertia](https://inertiajs.com) with additional features.
+
+- Website: https://github.com/buhrmi/inertia
 
 ## Old portfolio stuff
 
