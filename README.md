@@ -2,7 +2,7 @@
 
 I'm a freelancing web app developer from Germany. Here you can find some projects I'm currently working on.
 
-Business Enquiries: stefan@buhrmi.de
+For business: hello@buhrmi.de
 
 ## Current Projects
 
