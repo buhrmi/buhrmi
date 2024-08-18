@@ -1,9 +1,3 @@
-# Hi I'm buhrmi
-
-I'm a freelancing web app developer from Germany. Here you can find some projects I'm currently working on.
-
-For business: hello@buhrmi.de
-
 ## Current Projects
 
 ### Shitcoin Swap
