@@ -1,33 +1,27 @@
-## Current Projects
+Welcome, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
-### Shitcoin Swap
+Here at the Shitcoin Society we offer bespoke blockchain development and integration services.
 
-Join the ranks of world class investors and put all your money into questionable crypto projects.
+You can task us with the development of your very own blockchain and have it integrated in exchanges such as our very own [Shitcoin Swap](https://www.shitcoinswap.com) (shameless plug).
 
-- Website: https://www.shitcoinswap.com
+We shamelessly utilize open source for our projects, so of course we love to contribute back. Below you can find some of our open source efforts:
 
-### Momentum
+## Open Source
 
-An experimental blockchain implementing Proof-of-Popularity (PoP).
-
-- Whitepaper: https://github.com/momentum-chain/whitepaper
-- Code: https://github.com/momentum-chain/momentum-go
-
-### LiveStores (Open Source)
+### LiveStores
 
 A new aproach to real-time data with Svelte and Ruby on Rails
 
 - Website: https://github.com/buhrmi/livestores
 
-### Inertia X (Open Source) 
-
+### Inertia X
 A fork of [Inertia](https://inertiajs.com) with additional features.
 
 - Website: https://github.com/buhrmi/inertia
 
 ## Old portfolio stuff
 
-The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
+Stemming from my time as web developer, the projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
 ### 2023
 
