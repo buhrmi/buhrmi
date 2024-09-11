@@ -1,4 +1,6 @@
-Welcome, I'm buhrmi, the founder and CEO of the Shitcoin Society.
+## Welcome to the Shitcoin Society
+
+Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
 Here at the Shitcoin Society we offer bespoke blockchain development and integration services.
 
