@@ -2,9 +2,9 @@
 
 Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we offer bespoke blockchain development and integration services.
+Here at the Shitcoin Society we offer bespoke blockchain development and platform integration services.
 
-You can task us with the development of your very own blockchain and have it integrated in exchanges and trading platforms such as our very own [Shitcoin Swap](https://www.shitcoinswap.com) (shameless plug).
+You can task us with the development of your very own blockchain and have it integrated in exchanges and trading platforms such as our very own [Shitcoin Swap](https://www.shitcoinswap.com).
 
 Feel free to contact us at [hello@shitcoinsociety.com](hello@shitcoinsociety.com) at any time.
 
@@ -19,6 +19,7 @@ A new aproach to real-time data with Svelte and Ruby on Rails
 - Website: https://github.com/buhrmi/livestores
 
 ### Inertia X
+
 A fork of [Inertia](https://inertiajs.com) with additional features.
 
 - Website: https://github.com/buhrmi/inertia
