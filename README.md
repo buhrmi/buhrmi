@@ -12,17 +12,17 @@ Feel free to contact us at [hello@shitcoinsociety.com](hello@shitcoinsociety.com
 
 We shamelessly utilize open source for our projects, so of course we love to contribute back. Below you can find some of our open source efforts:
 
-### LiveStores
+### [LiveStores](https://github.com/buhrmi/livestores)
 
 A new aproach to real-time data with Svelte and Ruby on Rails
 
-- Website: https://github.com/buhrmi/livestores
+### [Inertia X](https://github.com/buhrmi/inertia)
 
-### Inertia X
+An experimental fork of [Inertia](https://inertiajs.com) with additional features.
 
-A fork of [Inertia](https://inertiajs.com) with additional features.
+### [Thumb UI](https://github.com/buhrmi/thumb-ui)
 
-- Website: https://github.com/buhrmi/inertia
+A collection of Svelte components for creating thumb-driven user interfaces.
 
 ## Old portfolio stuff
 
