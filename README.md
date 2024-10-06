@@ -4,8 +4,6 @@ Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
 Here at the Shitcoin Society we offer bespoke blockchain development and platform integration services.
 
-You can task us with the development of your very own blockchain and have it integrated in exchanges and trading platforms such as our very own [Shitcoin Swap](https://www.shitcoinswap.com).
-
 Feel free to contact us at [hello@shitcoinsociety.com](hello@shitcoinsociety.com) at any time.
 
 ## Open Source
