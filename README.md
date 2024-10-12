@@ -14,7 +14,7 @@ We shamelessly utilize open source for our projects, so of course we love to con
 
 A new aproach to real-time data with Svelte and Ruby on Rails
 
-### [X Æ A-Xii](https://github.com/buhrmi/inertiax)
+### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
 A fork of [Inertia 2.0](https://inertiajs.com) with additional features.
 
