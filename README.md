@@ -16,7 +16,7 @@ A new aproach to real-time data with Svelte and Ruby on Rails
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
-A fork of [Inertia 2.0](https://inertiajs.com) with additional features.
+A fork of [Inertia 2.0](https://inertiajs.com) with additional features for Svelte 5
 
 ### [Thumb UI](https://github.com/buhrmi/thumb-ui)
 
