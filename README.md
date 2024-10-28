@@ -10,7 +10,7 @@ Are you an inspiring blockchain or DLT developer and interested in integrating w
 
 ## Open Source
 
-We shamelessly utilize open source for our projects, so of course we love to contribute back. Below you can find some of our open source efforts:
+We shamelessly utilize open source to build our platform, so of course we love to contribute back. Below you can find some of our open source efforts:
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
@@ -20,9 +20,6 @@ A fork of [Inertia 2.0](https://inertiajs.com) with additional features for Svel
 
 A new aproach to real-time data with Svelte and Ruby on Rails
 
-### [Thumb UI](https://github.com/buhrmi/thumb-ui)
-
-A collection of Svelte components for creating thumb-driven user interfaces. Currently working on Thumb UI 2.0 which will be built on top of Inertia X.
 
 ## Old portfolio stuff
 
