@@ -8,7 +8,7 @@ Here at the Shitcoin Society our mission is to build the world's greatest invest
 
 Are you an aspiring blockchain or DLT developer? Integration expert? Web developer? Broker? 
 
-[Sign up now](https://testing.shitcoinsociety.com) for the pre-alpha of the Shitcoin Society Platform. Take it for a spin and [get in touch](mailto:buhrmi@shitcoinsociety.com) if you'd like to collaborate. 
+The [Shitcoin Society Platform](https://testing.shitcoinsociety.com) is now in pre-alpha. Sign up and take it for a test-drive. [Get in touch](mailto:buhrmi@shitcoinsociety.com) if you'd like to collaborate. 
 We're always looking for new projects to add to the platform.
 
 ## Open Source
