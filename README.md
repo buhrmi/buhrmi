@@ -2,7 +2,7 @@
 
 Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society our mission is to build the world's greatest investment platform for blockchain and DLT developers.
+Here at the Shitcoin Society our mission is to build the world's greatest investment platform for blockchain and DLT projects.
 
 ### Platform Pre-Alpha
 
