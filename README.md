@@ -2,14 +2,13 @@
 
 Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society our mission is to build the world's greatest investment platform for blockchain and DLT projects.
+Here at the Shitcoin Society our mission is to offer you the world's greatest investment platform for blockchain and DLT projects.
 
 ### Platform Pre-Alpha
 
 Are you an aspiring blockchain or DLT developer? Integration expert? Web developer? Broker? 
 
-The [Shitcoin Society Platform](https://testing.shitcoinsociety.com) is now in pre-alpha. Sign up and take it for a test-drive. [Get in touch](mailto:buhrmi@shitcoinsociety.com) if you'd like to collaborate. 
-We're always looking for new projects to add to the platform.
+Sign up for the [Shitcoin Society](https://testing.shitcoinsociety.com) pre-alpha. As an alpha user you get to test all the features before anyone else. Also, we're always looking for new projects to add to the platform. [Get in touch](mailto:buhrmi@shitcoinsociety.com) if you'd like to collaborate. 
 
 ## Open Source
 
