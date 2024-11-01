@@ -6,9 +6,9 @@ Here at the Shitcoin Society our mission is to offer you the world's greatest in
 
 ### Pre-Alpha
 
-Shitcoin Society is launching in pre-alpha and we're looking for interesting projects to integrate. Are you an aspiring blockchain or DLT developer? Web developer? Broker? Even if you're just looking for new opportunities, let's [get in touch](mailto:buhrmi@shitcoinsociety.com).
+Shitcoin Society is launching in pre-alpha and we're looking for interesting projects to integrate. Are you an aspiring blockchain or DLT developer? Web developer? Broker? Even if you're just looking for new opportunities, feel free to [get in touch](mailto:buhrmi@shitcoinsociety.com). Or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
-And of course, don't forget to [sign up](https://www.shitcoinsociety.com). 
+Oh, and of course make sure to head over to https://www.shitcoinsociety.com and sign up 🚀
 
 ## Open Source
 
