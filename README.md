@@ -10,6 +10,8 @@ Shitcoin Society is launching in pre-alpha and we're looking for interesting pro
 
 Oh, and of course make sure to head over to https://www.shitcoinsociety.com and sign up 🚀
 
+See you at the party 🥳
+
 ## Open Source
 
 We shamelessly utilize open source to build our platform, so of course we love to contribute back. Below you can find some of our open source efforts:
