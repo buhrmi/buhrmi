@@ -14,7 +14,7 @@ See you at the party 🥳
 
 ## Open Source
 
-We shamelessly utilize open source to build our platform, so of course we love to contribute back. Below you can find some of our open source efforts:
+Shitcoin Society wouldn't exist without open source, so of course we love to contribute back. Below you can find some of our open source efforts:
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
