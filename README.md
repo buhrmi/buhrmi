@@ -4,11 +4,11 @@ Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
 
 Here at the Shitcoin Society our mission is to build the world's greatest platform to integrate new blockchain and DLT projects.
 
-### Pre-Alpha
+### Join the fun
 
-Shitcoin Society is currently in pre-alpha and still looking for interesting projects. Are you an aspiring blockchain or DLT developer? Community manager? Broker? In case you're looking for new opportunities, feel free to [get in touch](mailto:buhrmi@shitcoinsociety.com). Or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Shitcoin Society is currently in pre-alpha and still looking for interesting projects. Are you an aspiring blockchain or DLT developer? Community manager? Broker? Or just looking for new opportunities? Feel free to [get in touch](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
-Oh, and of course make sure to head over to https://www.shitcoinsociety.com and sign up 🚀
+Oh, and of course make sure to sign up on https://www.shitcoinsociety.com 🚀
 
 See you at the party 🥳
 
