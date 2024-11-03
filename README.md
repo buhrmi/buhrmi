@@ -1,8 +1,8 @@
 ## Welcome to the Shitcoin Society
 
-Hi there, I'm buhrmi, the founder and CEO of the Shitcoin Society.
+Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
-Here at the Shitcoin Society we are building the world's greatest platform for your blockchain and DLT projects.
+Here at the Shitcoin Society our goal is to build the world's greatest platform for your blockchain and DLT projects.
 
 ### Join the fun
 
