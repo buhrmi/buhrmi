@@ -2,11 +2,11 @@
 
 Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
-Here at the Shitcoin Society our goal is to build the world's greatest platform for your blockchain and DLT projects.
+Here at the Shitcoin Society our goal is to build the world's greatest platform for your blockchain, DLT, and tokenization projects.
 
-### Join the fun
+### Get involved
 
-We are currently in pre-alpha and are looking for interesting projects. Are you an aspiring blockchain or DLT developer? Community manager? Broker? Or just looking for new opportunities? Feel free to [get in touch](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+We're currently in the pre-alpha testing phase and always on the lookout for interesting project ideas. Do you consider yourself a visionary? Or even a developer? We want to hear from you! [Get in touch](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com 🚀
 
