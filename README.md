@@ -6,7 +6,7 @@ Here at the Shitcoin Society our goal is to build the world's greatest fundraisi
 
 ### Get involved
 
-We're currently in the pre-alpha testing phase and always on the lookout for dumb people with big ideas that don't work. Do you consider yourself a visionary? Or even a developer? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+We're currently in the pre-alpha testing phase and always on the lookout for people with big ideas that won't work. Do you consider yourself a visionary? Or even a developer? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com 🚀
 
