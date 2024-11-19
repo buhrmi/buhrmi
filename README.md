@@ -2,7 +2,7 @@
 
 Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
-Here at the Shitcoin Society our goal is to build the world's greatest fundraising platform for your tokenization projects.
+Here at the Shitcoin Society our goal is to build the world's greatest fundraising platform for your shitty crypto project.
 
 ### Get involved
 
