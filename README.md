@@ -31,6 +31,7 @@ Stemming from my time as web developer, the projects below are all copyrighted b
 
 ### 2023
 
+- [CDMN GmbH](https://cdmn.de)
 - [Nº3 Schinkelplatz](https://no3-schinkelplatz.cdmn.de/en)
 - [East Side Cubes](https://www.east-side-cubes.de)
 - [HOM12 - Offices am Rheinpark](https://www.hom12.de)
