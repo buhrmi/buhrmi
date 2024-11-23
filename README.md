@@ -2,7 +2,7 @@
 
 Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
-The Shitcoin Society is your ultimate partner for your next tokenization and/or crypto projects. We offer full-stack web and app development services, directly integrated with our token launch platform.
+The Shitcoin Society is your ultimate partner for your next tokenization project. We offer full-stack web and app development services, directly integrated with our [token launch platform](https://www.shitcoinsociety.com).
 
 ### Get started with the Shitcoin Society
 
