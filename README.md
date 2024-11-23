@@ -6,7 +6,7 @@ The Shitcoin Society is the ultimate platform for your next tokenization project
 
 ### List your project
 
-We're currently in pre-alpha testing and looking for people with interesting ideas. Do you have a project idea that could benefit from tokenization? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+We're currently in pre-alpha testing and looking for people with interesting ideas. Do you have a project idea that could benefit from tokenization? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit an idea.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
