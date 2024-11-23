@@ -2,7 +2,7 @@
 
 Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
-The Shitcoin Society is your ultimate partner for your next tokenization and/or crypto projects. We offer full-stack web and app development services, directly integrated with our token launch platform.
+Based in Da Nang, Vietnam, the Shitcoin Society is your ultimate partner for your next tokenization and/or crypto projects. We offer full-stack web and app development services, directly integrated with our token launch platform.
 
 ### Get started with the Shitcoin Society
 
