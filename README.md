@@ -2,9 +2,9 @@
 
 Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
-The Shitcoin Society is your ultimate partner for your next tokenization project. We offer full-stack web and app development services, directly integrated with our [token launch platform](https://www.shitcoinsociety.com).
+The Shitcoin Society is the ultimate platform for your next tokenization project. We offer full-stack web and app development services, directly integrated with our [token launch platform](https://www.shitcoinsociety.com). Utilizing our API you can easily create custom experiences for token holders and investors.
 
-### Get started with the Shitcoin Society
+### List your project
 
 We're currently in pre-alpha testing and looking for people with interesting ideas. Do you have a project idea that could benefit from tokenization? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
