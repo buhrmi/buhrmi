@@ -4,11 +4,11 @@ Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
 
 Here at the Shitcoin Society we offer full-stack web and app development services for tokenization projects, directly integrated with our [investment platform](https://www.shitcoinsociety.com) (currently in developer preview).
 
-Our platform's APIs allow you to easily implement custom experiences for token holders and investors. Once your project is ready for graduation, you can migrate to a supported blockchain of your choice with a single click. All without losing any functionality.
+Our platform's APIs allow you to easily implement custom experiences for token holders and investors, and migrate to a supported blockchain of your choice with a single click. All without losing any functionality.
 
 ### Open for collaboration
 
-Do you consider yourself a visionary? Do you have a project idea that could benefit from tokenization? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit an idea.
+Do you have a project idea that could benefit from tokenization, or a blockchain suitable for integration? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit an idea.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
