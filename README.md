@@ -1,12 +1,12 @@
 ## Welcome to the Shitcoin Society
 
-Hi there, I'm buhrmi, your humble founder of the Shitcoin Society.
+Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we offer full-stack web and app development services for tokenization projects, tightly integrated with our very own [trading platform](https://www.shitcoinsociety.com) (currently available as a developer preview).
+Here at the Shitcoin Society we move things forward through the power of tokenization. We offer full-stack web and app development services for tokenized projects and startups, tightly integrated with our very own [trading platform](https://www.shitcoinsociety.com) (currently available as a developer preview).
 
 ### Open for collaboration
 
-Do you have a project idea that could benefit from tokenization? Let's get in touch! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit an idea.
+Do you have a startup or project idea that could benefit from tokenization? Feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit your project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
