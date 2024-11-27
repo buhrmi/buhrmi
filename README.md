@@ -6,7 +6,7 @@ Here at the Shitcoin Society we use the power of tokenization to move things for
 
 ### Tokenize your startup
 
-Tokenization makes a lot of sense for early and pre-seed startups. Its the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. Are you interested in launching a tokenized project
+Tokenization makes a lot of sense for early and pre-seed startups. It's the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. Are you interested in launching a tokenized project
 or startup? Feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
