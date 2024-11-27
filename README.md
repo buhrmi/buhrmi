@@ -2,7 +2,7 @@
 
 Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we use the power of tokenization to move things forward. We offer full-stack web and app development support for tokenization projects, tightly integrated with our very own [investment platform](https://www.shitcoinsociety.com) (currently available as a developer preview).
+Here at the Shitcoin Society we offer full-stack web and app development support for tokenization projects, tightly integrated with our very own [investment platform](https://www.shitcoinsociety.com) (currently available as a developer preview).
 
 ### Tokenize your startup
 
