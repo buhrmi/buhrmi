@@ -2,11 +2,11 @@
 
 Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com) so you can join the ranks of world class investors. We offer free app development support for promising projects and startups that are interested in utilizing our platform and integrate with it.
+Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com). We offer free app development support for promising projects and startups that are interested in utilizing our platform and integrate with it.
 
 ### What's tokenization?
 
-Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for early stage startups. 
+Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for early stage startups.
 
 ### That's cool and all, but how do you make money?
 
@@ -22,7 +22,7 @@ See you at the party 🚀🥳
 
 ## Open Source
 
-Shitcoin Society wouldn't exist without open source, so of course we love to contribute back. Below you can find some of our open source efforts:
+Shitcoin Society wouldn't exist without open source, so of course we love to contribute back. Here you can find some of our open source projects that we're using to build our product:
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
