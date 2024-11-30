@@ -16,7 +16,7 @@ Glad you asked! It all comes down to the business model. The business model of t
 
 ### Okay, how do I get started?
 
-Are you interested in launching your own tokenized project? Or tokenize an existing startup? Awesome, let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Are you interested in launching your own tokenized project? Or do you just want to put some money on the table for a piece of the action? Whatever your ask, feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
