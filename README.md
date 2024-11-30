@@ -2,7 +2,7 @@
 
 Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com). We offer free app development support for promising projects and startups that are interested in utilizing our platform and integrate with it.
+Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com) for you to join the ranks of world class investors. We offer free app development support for promising projects and startups that are interested in utilizing our platform and integrate with it.
 
 ## Frequently asked questions
 
