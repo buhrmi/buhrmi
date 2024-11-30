@@ -6,7 +6,7 @@ Here at the Shitcoin Society we're building the ultimate [tokenization platform]
 
 ### What is tokenization?
 
-Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for projects in early stages. Are you interested in launching a tokenized project or startup? Feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for early stage startups. Are you interested in launching a tokenized project or startup? Feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
