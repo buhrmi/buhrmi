@@ -26,12 +26,11 @@ Shitcoin Society wouldn't exist without open source, so of course we love to con
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
-A fork of [Inertia 2.0](https://inertiajs.com) with additional features for Svelte 5
+An alternative to Hotwire, Inertia X is our preferred tool to build native-feeling progressive web apps using Ruby on Rails.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
-A new aproach to real-time data with Svelte and Ruby on Rails
-
+LiveStores augment Rails' ActionCable Channels with methods to directly update Svelte stores from the backend. It's a new way to build real-time apps with Ruby on Rails and Svelte, and works seamlessly with Inertia X.
 
 ## Old portfolio stuff
 
