@@ -26,7 +26,7 @@ Shitcoin Society wouldn't exist without open source, so of course we love to con
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
-An alternative to Hotwire, Inertia X is our preferred tool to build native-feeling progressive web apps using Ruby on Rails.
+An alternative to Hotwire, Inertia X is our preferred library to build native-feeling progressive web apps using Ruby on Rails.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
