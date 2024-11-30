@@ -4,6 +4,8 @@ Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
 Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com). We offer free app development support for promising projects and startups that are interested in utilizing our platform and integrate with it.
 
+## Frequently asked questions
+
 ### What's tokenization?
 
 Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for early stage startups.
