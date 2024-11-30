@@ -12,9 +12,9 @@ Tokenization is the modern way to find business partners, investors and sharehol
 
 Glad you asked! It all comes down to the business model. The business model of the Shitcoin Society is to provide free app development support in exchange for company tokens. These tokens represent ownership of company shares that can be sold and traded, and entitle the holder to dividends and other project-specific benefits - not unlike conventional stock that is traded on stock exchanges. This structure incentivizes all involved parties to build useful and functional apps that people love to use. Even the Shitcoin Society itself is about to be tokenized. Stat tuned - you won't want to miss that announcement.
 
-### Tokenize your project
+### Okay, how do I get started?
 
-Are you interested in launching your own tokenized project? Or tokenize an existing startup? Let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Are you interested in launching your own tokenized project? Or tokenize an existing startup? Awesome, let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
