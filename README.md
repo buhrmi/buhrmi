@@ -2,12 +2,11 @@
 
 Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we offer full-stack web and app development support for tokenization projects, tightly integrated with our very own [investment platform](https://www.shitcoinsociety.com) (currently available as a developer preview).
+Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com) so you can join the ranks of world class investors. We offer free development support for promising projects and startups that are interested in tokenization.
 
-### Tokenize your startup
+### What is tokenization?
 
-Tokenization makes a lot of sense for early and pre-seed startups. It's the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. Are you interested in launching a tokenized project
-or startup? Feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for projects in early stages. Are you interested in launching a tokenized project or startup? Feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
