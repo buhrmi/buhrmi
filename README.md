@@ -2,7 +2,13 @@
 
 Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com). Not only that, we also offer free development and consultation packages for promising projects and startups that are interested in utilizing our platform and integrating with it.
+Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com) and offer free development and consultation packages for promising projects and startups that are interested in utilizing our platform and integrating with it.
+
+Do you have an interesting idea for a project that can benefit from tokenization? Let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+
+Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
+
+See you at the party 🚀🥳
 
 ## Frequently asked questions
 
@@ -13,14 +19,6 @@ Oh, you're still here. That's cool. Tokenization is the modern way to find busin
 ### That's cool and all, but how does it make money?
 
 Glad you asked! It all comes down to the business model. The business model of the Shitcoin Society is to provide free app development support in exchange for company tokens. These tokens represent ownership of company shares that can be sold and traded, and entitle the holder to dividends and other project-specific benefits - not unlike conventional stock that is traded on stock exchanges. This structure incentivizes all involved parties to build useful and functional apps that people love to use. Even the Shitcoin Society itself is about to be tokenized. Stay tuned - you won't want to miss that announcement.
-
-### Okay, how do I get started?
-
-Are you interested in launching your own tokenized project? Or do you just want to put some money on the table for a piece of the action? Whatever your ask, feel free to reach out! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
-
-Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
-
-See you at the party 🚀🥳
 
 ## Open Source
 
