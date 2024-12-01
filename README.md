@@ -22,7 +22,7 @@ It all comes down to the business model. The business model of the Shitcoin Soci
 
 ### How do I create these company tokens?
 
-At this time this is still a manual process done by us. [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to get started. In the near future, you'll be able to create them yourself using our [tokenization platform](https://www.shitcoinsociety.com).
+At this time this is still a manual process done by us. [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to get started. In the near future, you'll be able to create them yourself directly on [shitcoinsociety.com](https://www.shitcoinsociety.com).
 
 ## Open Source
 
