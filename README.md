@@ -12,7 +12,7 @@ See you at the party 🚀🥳
 
 ## Frequently asked questions
 
-### Ok, what's tokenization?
+### What's tokenization?
 
 Oh, you're still here. That's cool. Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of ownership, and makes a lot of sense for early stage startups.
 
