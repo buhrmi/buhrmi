@@ -16,7 +16,7 @@ See you at the party 🚀🥳
 
 Oh, you're still here. That's cool. Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of ownership, and makes a lot of sense for early stage startups.
 
-### That's cool and all, but how does it make money?
+### OK, so how do you make money?
 
 Glad you asked! It all comes down to the business model. The business model of the Shitcoin Society is to provide free app development support in exchange for company tokens. These tokens represent ownership of company shares that can be sold and traded, and entitle the holder to dividends and other project-specific benefits - not unlike conventional stock that is traded on stock exchanges. This structure incentivizes all involved parties to build useful and functional apps that people love to use. Even the Shitcoin Society itself is about to be tokenized. Stay tuned - you won't want to miss that announcement.
 
