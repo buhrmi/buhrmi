@@ -4,7 +4,7 @@ Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
 Here at the Shitcoin Society we're building the ultimate [tokenization platform](https://www.shitcoinsociety.com) and offer free development and consultation packages for promising projects and startups that are interested in utilizing our platform and integrating with it.
 
-Do you have an interesting idea for a project that can benefit from tokenization? Let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Do you have an interesting project idea that can benefit from tokenization? Let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
@@ -14,7 +14,7 @@ See you at the party 🚀🥳
 
 ### Ok, what's tokenization?
 
-Oh, you're still here. That's cool. Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of share ownership, and makes a lot of sense for early stage startups.
+Oh, you're still here. That's cool. Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of ownership, and makes a lot of sense for early stage startups.
 
 ### That's cool and all, but how does it make money?
 
