@@ -8,21 +8,7 @@ Do you have an interesting project idea that can benefit from tokenization? Let'
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
-See you at the party 🚀🥳
-
-## Frequently asked questions
-
-### What's tokenization?
-
-Oh, you're still here. That's cool. Tokenization is the modern way to find business partners, investors and shareholders, pay dividends, and even build communities. It's a digital representation of ownership, and makes a lot of sense for early stage startups.
-
-### OK, so how do you make money?
-
-It all comes down to the business model. The business model of the Shitcoin Society is to provide free app development support in exchange for company tokens. These tokens represent ownership of company shares that can be sold and traded, and entitle the holder to dividends and other project-specific benefits - not unlike conventional stock that is traded on stock exchanges. This structure incentivizes all involved parties to build useful and functional apps that people love to use. Even the Shitcoin Society itself is about to be tokenized. Stay tuned - you won't want to miss that announcement.
-
-### How do I create these company tokens?
-
-At this time this is still a manual process done by us. [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to get started. In the near future, you'll be able to create them yourself directly on [shitcoinsociety.com](https://www.shitcoinsociety.com).
+See you at the shareholder party 🚀🥳
 
 ## Open Source
 
