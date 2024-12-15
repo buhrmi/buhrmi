@@ -12,7 +12,7 @@ See you at the shareholder party 🚀🥳
 
 ## Open Source
 
-Here you can find some open source efforts that are used to build the platform:
+Here you can find some of my own open source efforts that I use on a day-to-day basis.
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
