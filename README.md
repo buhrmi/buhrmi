@@ -16,7 +16,7 @@ Here you can find some of my own open source efforts that I use on a day-to-day 
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
-Positioned as an alternative to Hotwire, Inertia X is my preferred way to build native-feeling apps using Ruby on Rails.
+Positioned as an alternative to Hotwire, Inertia X is my preferred way to build native-feeling apps using Ruby on Rails. You can see it being used in production [here](https://app.vibe.tokyo).
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
