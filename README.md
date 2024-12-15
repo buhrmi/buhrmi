@@ -2,9 +2,9 @@
 
 Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
 
-Here at the Shitcoin Society we're building the ultimate [trading platform](https://www.shitcoinsociety.com) for tokenized projects and offer app development and consultation packages for projects and startups that are interested in integrating it.
+Here at the Shitcoin Society we're building the ultimate [trading platform](https://www.shitcoinsociety.com) and offer app development and consultation packages for projects and startups that are interested in integrating with it.
 
-Do you have a promising project idea that could benefit from tokenization? Let's team up! [Send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project.
+Shitcoin Society is ready for collaboration! Feel free to [send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project idea.
 
 Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
 
