@@ -16,11 +16,11 @@ Here you can find some of my own open source efforts that I use on a day-to-day 
 
 ### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
 
-Positioned as an alternative to Hotwire, Inertia X is our preferred way to build native-feeling apps using Ruby on Rails.
+Positioned as an alternative to Hotwire, Inertia X is my preferred way to build native-feeling apps using Ruby on Rails.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
-LiveStores augment Rails' ActionCable Channels with methods to directly update Svelte stores from the backend. It's a new way to build real-time local-first apps with Ruby on Rails and Svelte, and works seamlessly with Inertia X.
+LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time and works seamlessly with Inertia X.
 
 ## Old portfolio stuff
 
