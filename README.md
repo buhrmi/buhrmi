@@ -1,14 +1,6 @@
-## Welcome to the Shitcoin Society
+## Hi there I'm buhrmi
 
-Hi there, I'm buhrmi, Founder and CEO of the Shitcoin Society.
-
-Here at the Shitcoin Society we're building the ultimate [trading platform](https://www.shitcoinsociety.com) and offer app development and consultation packages for projects and startups that are interested in integrating with it.
-
-Shitcoin Society is ready for collaboration! Feel free to [send an email](mailto:buhrmi@shitcoinsociety.com), or use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdC9xZcfO4XTVPy7dY9nlHoYc6o1AtdZ6qYYeggH1xvaGr1Cw/viewform?usp=sf_link) to submit a project idea.
-
-Oh, and of course make sure to sign up on https://www.shitcoinsociety.com
-
-See you at the shareholder party 🚀🥳
+I'm best described as a full-stack app developer person specializing in Svelte and Ruby on Rails. Somehow [this guy](https://app.vibe.tokyo/@twztd) guy convinced me to start developing an artist booking app. So that's what I'm currently doing.
 
 ## Open Source
 
