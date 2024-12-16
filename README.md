@@ -1,6 +1,6 @@
 ## Hi there I'm buhrmi
 
-I'm best described as a full-stack app developer person specializing in [Ruby on Rails](https://www.rubyonrails.com) and [Svelte](https://svelte.dev). In my free time I'm currently developing an artist booking app together with [this guy](https://app.vibe.tokyo/@twztd).
+I'm best described as a full-stack app developer person specializing in [Ruby on Rails](https://www.rubyonrails.org) and [Svelte](https://svelte.dev). In my free time I'm currently developing an artist booking app together with [this guy](https://app.vibe.tokyo/@twztd).
 
 ## Open Source
 
