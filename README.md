@@ -12,7 +12,7 @@ Positioned as an alternative to Hotwire, Inertia X is my preferred way to build 
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
-LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time and works seamlessly with Inertia X.
+LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
 
 ## Old portfolio stuff
 
