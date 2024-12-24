@@ -2,7 +2,11 @@
 
 I'm best described as a full-stack app developer specializing in [Ruby on Rails](https://rubyonrails.org) and [Svelte](https://svelte.dev). 
 
-Currently developing an artist booking platform together with [this guy](https://app.vibe.tokyo/@twztd).
+## Current projects
+
+- [VIBE](https://app.vibe.tokyo)
+
+  Artist booking and promotion platform built with Ruby on Rails and Svelte
 
 ## Open Source
 
