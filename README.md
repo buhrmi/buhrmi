@@ -2,17 +2,11 @@
 
 I'm best described as a full-stack app developer specializing in [Ruby on Rails](https://rubyonrails.org) and [Svelte](https://svelte.dev). 
 
-## Current projects
-
-- [VIBE](https://app.vibe.tokyo)
-
-  Artist booking and promotion platform built with Ruby on Rails and Svelte
-
 ## Open Source
 
 Here you can find some of my own open source efforts that I use on a day-to-day basis.
 
-### [Inertia X Æ A-Xii](https://github.com/buhrmi/inertiax)
+### [Inertia X](https://github.com/buhrmi/inertiax)
 
 Positioned as an alternative to Hotwire, Inertia X is my preferred way to build native-feeling apps using Ruby on Rails.
 
@@ -22,7 +16,7 @@ LiveStores augment Rails' ActionCable Channels with methods to update Svelte sto
 
 ## Old portfolio stuff
 
-Stemming from my time as web developer, the projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
+The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
 ### 2023
 
