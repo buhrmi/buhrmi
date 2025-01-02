@@ -6,7 +6,7 @@ I'm best described as a full-stack app developer specializing in [Ruby on Rails]
 
 Here are some startups I'm currently working on:
 
-### [Hidden Base](https://www.hiddenbase.app)
+### [The Hidden Base](https://www.hiddenbase.app)
 
 Coming soon: The free-to-use Gigwell alternative that you should have scouted for earlier.
 
