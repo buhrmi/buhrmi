@@ -8,7 +8,7 @@ Here are some startups I'm currently working on:
 
 ### [Hidden Base](https://www.hiddenbase.app)
 
-A free-to-use Gigwell alternative with artist discovery.
+A free-to-use Gigwell alternative with artist and venue discovery.
 
 ### [VIBE](https://vibe.tokyo)
 
