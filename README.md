@@ -2,6 +2,18 @@
 
 I'm best described as a full-stack app developer specializing in [Ruby on Rails](https://rubyonrails.org) and [Svelte](https://svelte.dev). 
 
+## Startups
+
+Here are some startups I'm currently working on:
+
+### [Hidden Base](https://www.hiddenbase.app)
+
+A free-to-use Gigwell alternative with artist discovery.
+
+### [VIBE](https://vibe.tokyo)
+
+The futuristic artist booking agency.
+
 ## Open Source
 
 Here you can find some of my own open source efforts that I use on a day-to-day basis.
