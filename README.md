@@ -6,9 +6,9 @@ I'm best described as a full-stack app developer specializing in [Ruby on Rails]
 
 Here are some startups I'm currently working on:
 
-### [The Hidden Base](https://www.hiddenbase.app)
+### [Hidden Base](https://www.hiddenbase.app)
 
-Coming soon: The free-to-use Gigwell alternative that you should have scouted for earlier.
+Hidden Base is the ultimate productivity suite providing all the tools that modern artist agencies need to succeed. Currently in development.
 
 ### [VIBE](https://vibe.tokyo)
 
