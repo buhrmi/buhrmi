@@ -8,7 +8,7 @@ Here are some startups I'm currently working on:
 
 ### [Hidden Base](https://www.hiddenbase.app)
 
-Hidden Base is the ultimate productivity suite providing all the tools that modern artist agencies need to succeed. Currently in development.
+Hidden Base is a free-to-use productivity suite providing all the tools that modern artist agencies need to succeed. Currently in development.
 
 ### [VIBE](https://vibe.tokyo)
 
