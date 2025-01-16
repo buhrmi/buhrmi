@@ -4,15 +4,9 @@ I'm best described as a full-stack app developer specializing in [Ruby on Rails]
 
 ## Startups
 
-Here are some startups I'm currently working on:
-
-### [Hidden Base](https://www.hiddenbase.app)
-
-Hidden Base is a free-to-use productivity suite providing all the tools that modern artist agencies need to succeed. Currently in development.
-
 ### [VIBE](https://vibe.tokyo)
 
-The futuristic artist booking agency.
+The futuristic artist booking agency. Open for business in Vietnam and Japan.
 
 ## Open Source
 
