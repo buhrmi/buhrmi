@@ -6,12 +6,12 @@ This is buhrmi, Founder of Buhrmi Investments
 
 #### 🇯🇵 Japan
 
-* [GPPE](https://www.instagram.com/gppe_official)
+* [GPPE LLC](https://www.instagram.com/gppe_official)
 * [VIBE Tokyo](https://www.instagram.com/vibetokyohq)
 
 #### 🇻🇳 Vietnam
 
-* VIBE Entertainment Vietnam
+* VIBE Entertainment Vietnam Co., Ltd.
 
 [Join our roster or work with us](mailto:hello@buhrmi.de)
 
