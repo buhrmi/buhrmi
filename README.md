@@ -1,20 +1,25 @@
-## Hi there I'm buhrmi
+## Hi there, welcome to buhrmi productions
 
-I'm best described as a full-stack app developer specializing in [Ruby on Rails](https://rubyonrails.org) and [Svelte](https://svelte.dev). 
+A driving force behind developing the musical landscape in South East Asia and Japan.
 
-## Startups
+### Portfolio companies
 
-### [VIBE](https://vibe.tokyo)
+* [GPPE](https://www.instagram.com/gppe_official)
+* VIBE Entertainment Vietnam
 
-The futuristic artist booking agency. Open for business in Vietnam and Japan.
+[Join our roster](mailto:hello@buhrmi.de)
+
+## Development Services
+
+We provide full-stack app development services specializing in [Ruby on Rails](https://rubyonrails.org) and [Svelte](https://svelte.dev). 
 
 ## Open Source
 
-Here you can find some of my own open source efforts that I use on a day-to-day basis.
+Here you can find some of our own open source efforts that we use on a day-to-day basis.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
-Positioned as an alternative to Hotwire, Inertia X is my preferred way to build native-feeling apps using Ruby on Rails.
+Positioned as an alternative to Hotwire, Inertia X is our preferred way to build native-feeling apps using Ruby on Rails.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
