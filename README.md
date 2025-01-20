@@ -1,8 +1,6 @@
 ## Hi there
 
-I'm buhrmi, Representative Director and Owner of Buhrmi Investments
-
-For many years we have been contributing to the development of the musical landscape in South East Asia and Japan through our portfolio companies and targeted investments.
+This is buhrmi, Founder of Buhrmi Investments
 
 ### Portfolio Companies
 
