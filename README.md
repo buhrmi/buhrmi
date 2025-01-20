@@ -2,7 +2,7 @@
 
 I'm buhrmi, Representative Director and Owner of Buhrmi Investments
 
-Through targeted investments we help to develop the musical landscape in South East Asia and Japan through our main portfolio companies:
+Through our main portfolio companies and targeted investments we help develop the musical landscape in South East Asia and Japan.
 
 #### Japan
 
