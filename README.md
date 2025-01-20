@@ -1,6 +1,8 @@
-## Hi there, welcome to buhrmi productions
+## Hi there
 
-We're happy and proud to have been given the opportunity to establish ourselves as one of the driving forces behind developing the musical landscape in South East Asia and Japan. Please check out our portfolio companies that help us realize our vision.
+I'm buhrmi, Representative Director and Owner of buhrmi investments
+
+Through targeted investments we help to develop the musical landscape in South East Asia and Japan through our main portfolio companies:
 
 #### Japan
 
