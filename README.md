@@ -1,6 +1,6 @@
 ## Hi there, welcome to buhrmi productions
 
-A driving force behind developing the musical landscape in South East Asia and Japan.
+We're proud to have established ourselves as one of the driving forces behind developing the musical landscape in South East Asia and Japan.
 
 ### Portfolio companies
 
