@@ -4,12 +4,12 @@ This is buhrmi, Founder of Buhrmi Investments
 
 ### Portfolio Companies
 
-#### Japan
+#### 🇯🇵 Japan
 
 * [GPPE](https://www.instagram.com/gppe_official)
 * [VIBE Tokyo](https://www.instagram.com/vibetokyohq)
 
-#### Vietnam
+#### 🇻🇳 Vietnam
 
 * VIBE Entertainment Vietnam
 
