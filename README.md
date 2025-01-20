@@ -2,7 +2,9 @@
 
 I'm buhrmi, Representative Director and Owner of Buhrmi Investments
 
-Through our main portfolio companies and targeted investments we help develop the musical landscape in South East Asia and Japan.
+For many years we have been contributing to the development of the musical landscape in South East Asia and Japan through our portfolio companies and targeted investments.
+
+### Portfolio Companies
 
 #### Japan
 
@@ -15,13 +17,9 @@ Through our main portfolio companies and targeted investments we help develop th
 
 [Join our roster or work with us](mailto:hello@buhrmi.de)
 
-## Development Services
-
-We provide full-stack app development services specializing in [Ruby on Rails](https://rubyonrails.org) and [Svelte](https://svelte.dev). 
-
 ## Open Source
 
-Here you can find some of our own open source efforts that we use on a day-to-day basis.
+Here you can find some of our open source efforts that we use on a day-to-day basis.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
