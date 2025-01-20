@@ -1,6 +1,6 @@
 ## Hi there, welcome to buhrmi productions
 
-We're happy and proud to have been given the opportunity to establish ourselves as one of the driving forces behind developing the musical landscape in South East Asia and Japan. Please check out one of our portfolio companies that help us realize this vision.
+We're happy and proud to have been given the opportunity to establish ourselves as one of the driving forces behind developing the musical landscape in South East Asia and Japan. Please check out our portfolio companies that help us realize this vision.
 
 #### Japan
 
