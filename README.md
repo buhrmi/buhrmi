@@ -5,7 +5,7 @@ We're happy and proud to have been given the opportunity to establish ourselves 
 #### Japan
 
 * [GPPE](https://www.instagram.com/gppe_official)
-* VIBE Tokyo
+* [VIBE Tokyo](https://www.instagram.com/vibetokyohq)
 
 #### Vietnam
 
