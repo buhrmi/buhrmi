@@ -1,7 +1,7 @@
 ![Buhrmi Investments](https://pbs.twimg.com/profile_banners/709371380098183168/1714393264/1500x500)
 ## Hi there
 
-Welcome to the investors club
+Welcome to the Investors Club
 
 ### Portfolio Companies
 
