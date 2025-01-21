@@ -1,7 +1,7 @@
 ![Buhrmi Investments](https://pbs.twimg.com/profile_banners/709371380098183168/1714393264/1500x500)
 ## Hi there
 
-Welcome to buhrmi's Investment Club. We always put our money where our mouth is, and push the musical landscape in South East Asia and Japan into healthy and sustainable direction.
+Welcome to buhrmi's Investment Club. We always put our money where our mouth is, and help push the musical landscape in South East Asia and Japan into healthy and sustainable direction.
 
 ### Portfolio Companies
 
