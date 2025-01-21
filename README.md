@@ -1,7 +1,7 @@
 ![Buhrmi Investments](https://pbs.twimg.com/profile_banners/709371380098183168/1714393264/1500x500)
 ## Hi there
 
-Welcome to the Investors Club. Come join us and help us develop the musical landscape in South East Asia and Japan.
+Welcome to the Investors Club. Come join us and push the musical landscape in South East Asia and Japan into a healthy and sustainable direction.
 
 ### Portfolio Companies
 
