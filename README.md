@@ -14,7 +14,9 @@ Welcome to Buhrmi's Investment Club, the only investment club with a focus on th
 
 * VIBE Entertainment Vietnam Co., Ltd.
 
-[Join our roster or work with us](mailto:hello@buhrmi.de)
+### Work with us
+
+Want to join our artist roster? Become a shareholder? Other ideas? Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
 
 ## Open Source
 
