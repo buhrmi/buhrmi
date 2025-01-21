@@ -18,7 +18,7 @@ Welcome to the Investors Club. Come join us and push the musical landscape in So
 
 ## Open Source
 
-Here you can find some of our open source efforts that we use on a day-to-day basis.
+Here you can find some of our open source efforts that we use on a day-to-day basis to develop the Investors Club.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
