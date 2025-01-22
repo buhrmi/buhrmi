@@ -16,7 +16,7 @@ Welcome to Buhrmi's Investment Club, the only investment club with a focus on th
 
 ### Work with us
 
-Join the roster and party with us at the next shareholder meeting: [hello@buhrmi.de](mailto:hello@buhrmi.de)
+Would you like to join the roster and party with us at the next shareholder meeting? Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
 
 ## Open Source
 
