@@ -16,7 +16,7 @@ Welcome to Buhrmi's Investment Club, the only investment club with a focus on th
 
 ### Work with us
 
-Want to join our artist roster? Become a shareholder? Other ideas? Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
+Join the roster and party with us at the next shareholder meeting: [hello@buhrmi.de](mailto:hello@buhrmi.de)
 
 ## Open Source
 
