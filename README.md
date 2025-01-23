@@ -16,7 +16,7 @@ Welcome to Buhrmi's Investment Club, where we casually disrupt the musical lands
 
 ### Work with us
 
-Would you like to join the roster and party with us at the next shareholder meeting? Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
+We're open for all kinds of collaboration. Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
 
 ## Open Source
 
