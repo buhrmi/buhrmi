@@ -1,7 +1,7 @@
 ![Buhrmi Investments](https://pbs.twimg.com/profile_banners/709371380098183168/1714393264/1500x500)
 ## Hi there
 
-Welcome to Buhrmi's Investment Club. We invest in startups that change the musical landscape in South East Asia and Japan.
+Welcome to Buhrmi's Investment Club, where we casually disrupt the musical landscape in South East Asia and Japan.
 
 ### Portfolio Companies
 
