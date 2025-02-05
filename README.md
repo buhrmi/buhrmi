@@ -3,6 +3,10 @@
 
 Welcome to Buhrmi's Investment Club, where we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies, we provide venue communication and visa services for foreign artists.
 
+### Latest News
+
+* [VIBE Vietnam launches Free Stays for Artists program](https://vibe.buhrmi.de/posts/1-free-stays-for-artists)
+
 ### Portfolio Companies
 
 #### 🇯🇵 Japan
