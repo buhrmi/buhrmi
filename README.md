@@ -12,7 +12,7 @@ Welcome to Buhrmi's Investment Club, where we casually disrupt the musical lands
 
 #### 🇻🇳 Vietnam
 
-* VIBE Entertainment Vietnam Co., Ltd.
+* [VIBE Entertainment Vietnam Co., Ltd.](https://vibe.buhrmi.de)
 
 ### Work with us
 
