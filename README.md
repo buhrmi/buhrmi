@@ -5,6 +5,7 @@ Welcome to Buhrmi's Investment Club, where we casually disrupt the musical lands
 
 ### Latest News
 
+* [VIBE partners with GPPE to streamline Japan artist visa process](https://vibe.buhrmi.de/posts/2-japan-artist-visa)
 * [VIBE Vietnam launches Free Stays for Artists program](https://vibe.buhrmi.de/posts/1-free-stays-for-artists)
 
 ### Portfolio Companies
