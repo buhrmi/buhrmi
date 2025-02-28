@@ -16,8 +16,7 @@ Welcome to Buhrmi's Investment Club, where we casually disrupt the musical lands
 
 ### Latest News
 
-* [VIBE Vietnam to host EDM DJ Auditions at Pink Beach Stage Da Nang](https://vibe.tokyo/posts/3-vibe-vietnam-pink-beach-edm-dj-auditions) 
-* [VIBE Tokyo partners with GPPE to streamline Japan artist visa process](https://vibe.buhrmi.de/posts/2-japan-artist-visa)
+* [GPPE to streamline Japan artist visa process](https://vibe.buhrmi.de/posts/2-japan-artist-visa)
 * [VIBE Vietnam launches Free Stays for Artists program](https://vibe.buhrmi.de/posts/1-free-stays-for-artists)
 
 ### Work with us
