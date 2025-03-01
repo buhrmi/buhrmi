@@ -1,18 +1,18 @@
 ![Buhrmi Investments](https://pbs.twimg.com/profile_banners/709371380098183168/1714393264/1500x500)
 ## Hi there
 
-Welcome to Buhrmi's Development Club, where we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies, we provide venue communication and visa services for foreign artists.
+Welcome to Buhrmi's Development Club, where we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies and apps, we provide venue communication and visa support for foreign artists.
 
 ### Our Companies
+
+#### 🇻🇳 Vietnam
+
+* [VIBE Entertainment Vietnam Co., Ltd.](https://vibe.buhrmi.de)
 
 #### 🇯🇵 Japan
 
 * [GPPE LLC](https://www.instagram.com/gppe_official)
 * [VIBE Tokyo](https://www.instagram.com/vibetokyohq)
-
-#### 🇻🇳 Vietnam
-
-* [VIBE Entertainment Vietnam Co., Ltd.](https://vibe.buhrmi.de)
 
 ### Latest News
 
