@@ -1,7 +1,8 @@
-![Buhrmi Investments](https://pbs.twimg.com/profile_banners/709371380098183168/1714393264/1500x500)
-## Hi there
+![Buhrmi's Rave](https://github.com/user-attachments/assets/6fde0062-0912-4952-9a9f-973b48a703c2)
 
-Welcome to Buhrmi's Development Club, where we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies and apps, we provide venue communication and visa support for foreign artists.
+## Welcome to my Rave
+
+Here at the rave we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies and apps, we offer venue communication and visa support for international artists.
 
 ### Our Companies
 
