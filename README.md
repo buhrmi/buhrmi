@@ -2,7 +2,7 @@
 
 ## Hi, I'm buhrmi. Welcome to my rave!
 
-Here at the rave we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies and apps, we offer venue communication and visa support for international artists.
+Here at the rave we build companies and apps to rock the musical landscape in South East Asia and Japan. We do this by offering venue communication and visa support for international artists.
 
 ### Companies dedicated to the rave
 
