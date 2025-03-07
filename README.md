@@ -1,26 +1,25 @@
 ![Buhrmi's Rave](https://github.com/user-attachments/assets/6fde0062-0912-4952-9a9f-973b48a703c2)
 
-## Hi, I'm buhrmi. Welcome to my rave!
+## Hi, welcome to buhrmi's rave!
 
-Here at the rave we build companies and apps that revolutionize the musical landscape in South East Asia and Japan. We do this by offering venue communication and visa support for international artists.
+Here at the rave we build companies and apps to revolutionize the musical landscape in South East Asia and Japan.
 
-### Companies dedicated to the rave
-
-#### 🇻🇳 Vietnam
+### 🇻🇳 Vietnam
 
 * [VIBE Entertainment Vietnam Co., Ltd.](https://vibe.buhrmi.de)
 
-#### 🇯🇵 Japan
+### 🇯🇵 Japan
 
 * [GPPE LLC](https://www.instagram.com/gppe_official)
+  
 * [VIBE Tokyo](https://www.instagram.com/vibetokyohq)
 
-### Latest News
+## Latest News
 
 * [GPPE to streamline Japan artist visa process](https://vibe.buhrmi.de/posts/2-japan-artist-visa)
 * [VIBE Vietnam launches Free Stays for Artists program](https://vibe.buhrmi.de/posts/1-free-stays-for-artists)
 
-### Work with us
+## Work with us
 
 We're open for all kinds of collaboration. Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
 
