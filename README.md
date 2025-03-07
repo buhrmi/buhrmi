@@ -1,6 +1,6 @@
 ![Buhrmi's Rave](https://github.com/user-attachments/assets/6fde0062-0912-4952-9a9f-973b48a703c2)
 
-## Welcome to the rave
+## Hi, I'm buhrmi. Welcome to my rave!
 
 Here at the rave we casually disrupt the musical landscape in South East Asia and Japan. With the help of our portfolio companies and apps, we offer venue communication and visa support for international artists.
 
