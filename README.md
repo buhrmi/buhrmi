@@ -1,39 +1,18 @@
-![Buhrmi's Rave](https://github.com/user-attachments/assets/6fde0062-0912-4952-9a9f-973b48a703c2)
+# Hi, I'm buhrmi
 
-## Hi, welcome to buhrmi's rave!
-
-Here at the rave we build companies and apps to revolutionize the musical landscape in South East Asia and Japan.
-
-### 🇻🇳 Vietnam
-
-* [VIBE Entertainment Vietnam Co., Ltd.](https://vibe.buhrmi.de)
-
-### 🇯🇵 Japan
-
-* [GPPE LLC](https://www.instagram.com/gppe_official)
-  
-* [VIBE Tokyo](https://www.instagram.com/vibetokyohq)
-
-## Latest News
-
-* [GPPE to streamline Japan artist visa process](https://vibe.buhrmi.de/posts/2-japan-artist-visa)
-* [VIBE Vietnam launches Free Stays for Artists program](https://vibe.buhrmi.de/posts/1-free-stays-for-artists)
-
-## Work with us
-
-We're open for all kinds of collaboration. Reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de)
-
-## Open Source
-
-Here you can find some of our open source efforts that we use on a day-to-day basis to develop our apps.
+I'm a web developer currently based in Da Nang, Vietnam. Here you can find some open source stuff.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
-Positioned as an alternative to Hotwire, Inertia X is our preferred way to build native-feeling apps using Ruby on Rails.
+Positioned as an alternative to Hotwire, Inertia X is a fork of Inertia with additional features.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
 LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
+
+## Contact
+
+If you'd like to chat, feel free to reach out at hello@buhrmi.de
 
 ## Old portfolio stuff
 
