@@ -12,7 +12,7 @@ LiveStores augment Rails' ActionCable Channels with methods to update Svelte sto
 
 ## Contact
 
-If you'd like to chat, feel free to reach out at hello@buhrmi.de
+If you'd like to chat, feel free to reach out at hello@buhrmi.de or hit me up on [LinkedIn](https://www.linkedin.com/in/buhrmi/)
 
 ## Old portfolio stuff
 
