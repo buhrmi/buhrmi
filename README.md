@@ -1,6 +1,6 @@
 # Hi, I'm buhrmi
 
-I'm a web developer currently based in Da Nang, Vietnam. Here you can find some open source stuff.
+I'm a web developer currently living in Da Nang, Vietnam. Here you can find some open source stuff.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
