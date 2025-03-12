@@ -10,6 +10,16 @@ Positioned as an alternative to Hotwire, Inertia X is a fork of Inertia with add
 
 LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
 
+## Current Projects
+
+### [Shitcoin Society](https://www.shitcoinsociety.com)
+
+A startup developing apps that favor the brave
+
+### [VIBE Entertainment](https://vibe.tokyo)
+
+Another startup focusing on putting on electronic dance music events in South East Asia and Japan.
+
 ## Contact
 
 If you'd like to chat, feel free to reach out at hello@buhrmi.de or hit me up on [LinkedIn](https://www.linkedin.com/in/buhrmi/)
