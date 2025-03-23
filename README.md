@@ -16,9 +16,9 @@ LiveStores augment Rails' ActionCable Channels with methods to update Svelte sto
 
 A startup developing apps that favor the brave
 
-### [VIBE Entertainment](https://vibe.tokyo)
+### [VIBE](https://vibe.tokyo)
 
-Another startup focusing on putting on electronic dance music events in South East Asia and Japan.
+Another startup putting on music events in South East Asia and Japan.
 
 ## Contact
 
