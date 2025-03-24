@@ -10,6 +10,12 @@ Positioned as an alternative to Hotwire, Inertia X is a fork of Inertia with add
 
 LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
 
+## Current Projects
+
+### [VIBE](https://vibe.tokyo)
+
+A platform for DJs and artists to find gigs and new venues to perform
+
 ## Contact
 
 If you'd like to chat, feel free to reach out at hello@buhrmi.de or hit me up on [LinkedIn](https://www.linkedin.com/in/buhrmi/)
