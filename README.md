@@ -12,6 +12,10 @@ LiveStores augment Rails' ActionCable Channels with methods to update Svelte sto
 
 ## Current Projects
 
+### [Shitcoin Society](https://www.shitcoinsociety.com)
+
+The ultimate crypto trading community
+
 ### [VIBE](https://vibe.tokyo)
 
 A platform for DJs and artists to find gigs and new venues to perform
