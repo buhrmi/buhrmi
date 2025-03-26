@@ -1,6 +1,6 @@
 # Hi, I'm buhrmi
 
-I'm a web developer currently living in Da Nang, Vietnam. Here you can find some open source stuff.
+I'm a web developer and founder of the [Shitcoin Society](https://www.shitcoinsociety.com). Currently living in Da Nang, Vietnam. Here you can find some open source stuff.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
@@ -9,16 +9,6 @@ Positioned as an alternative to Hotwire, Inertia X is a fork of Inertia with add
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
 LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
-
-## Current Projects
-
-### [Shitcoin Society](https://www.shitcoinsociety.com)
-
-The ultimate crypto trading community
-
-### [VIBE](https://vibe.tokyo)
-
-A platform for DJs and artists to find gigs and new venues to perform
 
 ## Contact
 
