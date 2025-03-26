@@ -1,6 +1,6 @@
 # Hi, I'm buhrmi
 
-I'm a web developer and founder of the [Shitcoin Society](https://www.shitcoinsociety.com). Currently living in Da Nang, Vietnam. Here you can find some open source stuff.
+I'm the founder of the [Shitcoin Society](https://www.shitcoinsociety.com). Currently living in Da Nang, Vietnam, where I write my useless code and occasionally [stream music on Twitch](https://buhrmi.tv). Here you can find some open source stuff:
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
