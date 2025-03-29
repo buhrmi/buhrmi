@@ -1,6 +1,6 @@
 # Hi, I'm buhrmi
 
-I'm a web developer based in Da Nang, Vietnam. Currently I'm hacking on the [Shitcoin Society](https://www.shitcoinsociety.com), trying to turn it into a real thing. Occasionally [stream music on Twitch](https://buhrmi.tv).
+I'm a web developer based in Da Nang, Vietnam. Currently I'm hacking on the [Shitcoin Society](https://www.shitcoinsociety.com), trying to turn it into a real thing. Occasionally I [stream DJ sets on Twitch](https://buhrmi.tv).
 
 Here you can find some open source stuff that I wrote that help me with my projects. Hopefully they help you too, or provide some inspiration.
 
