@@ -6,7 +6,7 @@ Here you can find some open source stuff that I wrote that help me with my proje
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
-Positioned as an alternative to Hotwire, Inertia X is a fork of Inertia with additional features.
+Inspired by Hotwire's Turbo Frames, Inertia X is a fork of Inertia that implements the `<Frame>` component.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
