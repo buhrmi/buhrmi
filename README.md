@@ -6,6 +6,8 @@ Currently working on my startup, [Shitcoin Society](https://www.shitcoinsociety.
 
 Sometimes you can also find me streaming DJ sets [on Twitch](https://buhrmi.tv).
 
+## Projects
+
 Here you can find some open source projects that I use in my projects. Maybe they're useful to you too.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
