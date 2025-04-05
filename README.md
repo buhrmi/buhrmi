@@ -2,9 +2,9 @@
 
 I'm a web developer based in Da Nang, Vietnam.
 
-Currently working on my startup, [Shitcoin Society](https://www.shitcoinsociety.com), and its very first product, [Shitcoin Swap](https://www.shitcoinswap.com).
+Currently working on my startup [Shitcoin Society](https://www.shitcoinsociety.com), and its very first product: [Shitcoin Swap](https://www.shitcoinswap.com).
 
-Sometimes you can also find me streaming DJ sets [on Twitch](https://buhrmi.tv).
+If you like drum n bass, you should come over to my [Twitch channel](https://twitch.com/therealbuhrmi) where I sometimes do IRL jungling streams.
 
 ## Projects
 
