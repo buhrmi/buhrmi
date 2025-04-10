@@ -8,7 +8,7 @@ One of these startups is [Shitcoin Society](https://www.shitcoinsociety.com), an
 
 Another one is [VIBE](https://vibe.buhrmi.de), a music festival brand for electronic dance music.
 
-Oh, and if you like IRL jungling streams, please come over to my [Twitch channel](https://twitch.com/therealbuhrmi).
+Oh, and if you like IRL jungling streams, please subscribe to my [channel](https://twitch.com/therealbuhrmi) 😅
 
 ## Projects
 
