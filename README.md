@@ -6,6 +6,8 @@ These days I'm busy working on startup ideas that might or might not work (mostl
 
 One of these startups is [Shitcoin Society](https://www.shitcoinsociety.com), and its very first product: [Shitcoin Swap](https://www.shitcoinswap.com).
 
+Another one is [VIBE](https://vibe.buhrmi.de), a music festival brand for electronic dance music.
+
 Oh, and if you like drum n bass, you should come over to my [Twitch channel](https://twitch.com/therealbuhrmi) where I sometimes do IRL jungling streams.
 
 ## Projects
