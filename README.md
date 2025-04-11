@@ -1,14 +1,12 @@
 # Hi, I'm buhrmi
 
-I'm a web developer based in Da Nang, Vietnam.
-
-These days I'm busy working on startup ideas that might or might not work (mostly not).
+I'm a web developer based in Da Nang, Vietnam, working on startup ideas that almost never work.
 
 One of these startups is [Shitcoin Society](https://www.shitcoinsociety.com), and its very first product: [Shitcoin Swap](https://www.shitcoinswap.com).
 
 Another one is [VIBE](https://vibe.buhrmi.de), a music festival brand for electronic dance music.
 
-## Projects
+## Open source stuff
 
 Here you can find some open source projects. Maybe they're useful to you too.
 
