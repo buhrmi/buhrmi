@@ -1,14 +1,12 @@
 # Hi, I'm buhrmi
 
-I'm a web developer based in Da Nang, Vietnam, working on startup ideas that almost never work.
+I'm a web developer based in Da Nang, Vietnam, currently working on the following projects:
 
-One of these startups is [Shitcoin Society](https://www.shitcoinsociety.com), and its very first product: [Shitcoin Swap](https://www.shitcoinswap.com).
+- [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Binance, Coinbase, etc.
 
-Another one is [VIBE](https://vibe.buhrmi.de), a music festival brand for electronic dance music.
+- [VIBE Vietnam](https://vibe.buhrmi.de), a music festival brand for electronic dance music.
 
-## Open source stuff
-
-Here you can find some open source projects. Maybe they're useful to you too.
+## Open source projects
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
