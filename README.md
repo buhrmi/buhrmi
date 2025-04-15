@@ -1,4 +1,4 @@
-# Hi, I'm buhrmi
+# What's up?!
 
 I'm a web developer based in Da Nang, Vietnam, currently working on the following projects:
 
@@ -10,7 +10,7 @@ I'm a web developer based in Da Nang, Vietnam, currently working on the followin
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
-Inspired by Hotwire's Turbo Frames, Inertia X is a fork of Inertia that implements the `<Frame>` component.
+Inertia X is a fork of Inertia that implements the `<Frame>` component, inspired by Hotwire's Turbo Frames.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
