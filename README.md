@@ -1,4 +1,4 @@
-# What's up?!
+# Hi there
 
 I'm a web developer based in Da Nang, Vietnam, currently working on the following projects:
 
