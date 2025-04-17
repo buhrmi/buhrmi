@@ -12,6 +12,10 @@ I'm a web developer based in Da Nang, Vietnam, currently working on the followin
 
 Inertia X is a fork of Inertia that implements the `<Frame>` component, inspired by Hotwire's Turbo Frames.
 
+### Inertia X NavStack (coming soon)
+
+A Svelte 5 component library offering buttery smooth native-like navigation for Inertia X apps.
+
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
 LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
