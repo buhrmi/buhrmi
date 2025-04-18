@@ -4,7 +4,7 @@ I'm a web developer based in Da Nang, Vietnam, currently working on the followin
 
 - [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Binance, Coinbase, etc.
 
-- [VIBE Vietnam](https://x.com/vibevietnam), a music festival brand for electronic dance music.
+- [VIBE Vietnam](https://instagram.com/vibe_vietnam), a music festival brand for electronic dance music.
 
 ## Open source projects
 
