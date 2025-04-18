@@ -20,7 +20,7 @@ A Svelte 5 component library offering buttery smooth native-like navigation for 
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
-LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time.
+LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for offline-capable apps.
 
 
 ## Old portfolio stuff
