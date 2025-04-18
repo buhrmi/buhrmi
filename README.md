@@ -8,6 +8,8 @@ I'm a web developer based in Da Nang, Vietnam, currently working on the followin
 
 ## Open source projects
 
+The overarching goal of these projects is to enable offline-capable, native-feeling web apps using Ruby on Rails (or Laravel), Inertia, and Svelte.
+
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
 Inertia X is a fork of Inertia that implements the `<Frame>` component, inspired by Hotwire's Turbo Frames.
