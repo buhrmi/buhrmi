@@ -8,7 +8,7 @@ I'm a web developer based in Da Nang, Vietnam, currently working on the followin
 
 ## Open source projects
 
-The overarching goal of these projects is to enable offline-capable, native-feeling web apps using Ruby on Rails, Inertia, and Svelte.
+I've been developing a lot of useless crap in the past, but these are the projects I am a little bit proud of. They are designed to make it fun and easy to build offline-capable, native-feeling web apps using Ruby on Rails, Inertia, and Svelte.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
