@@ -8,15 +8,15 @@ I'm a web developer based in Da Nang, Vietnam, currently working on the followin
 
 ## Open source projects
 
-The overarching goal of these projects is to enable offline-capable, native-feeling web apps using Ruby on Rails (or Laravel), Inertia, and Svelte.
+The overarching goal of these projects is to enable offline-capable, native-feeling web apps using Ruby on Rails, Inertia, and Svelte.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
-Inertia X is a fork of Inertia that implements the `<Frame>` component, inspired by Hotwire's Turbo Frames.
+Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
 
 ### Inertia X NavStack (coming soon)
 
-A Svelte 5 component library offering buttery smooth native-like navigation for Inertia X apps.
+A component library offering buttery smooth native-like navigation for Inertia X apps.
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
