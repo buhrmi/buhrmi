@@ -1,14 +1,14 @@
 # Hi there
 
-I'm a web developer based in Da Nang, Vietnam, currently working on the following projects:
+I'm a web developer based in Da Nang, Vietnam, currently working on startup ideas.
 
 - [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Binance, Coinbase, etc.
 
 - [VIBE Vietnam](https://instagram.com/vibe_vietnam), a music festival brand for electronic dance music.
 
-## Open source projects
+## Open source stuff
 
-I've been developing a lot of useless crap in the past, but these are the projects I am a little bit proud of. They are designed to make it fun and easy to build offline-capable, native-feeling web apps using Ruby on Rails, Inertia, and Svelte.
+The overarching goal of these projects is to enable offline-capable, native-feeling web apps using Ruby on Rails, Inertia, and Svelte.
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
