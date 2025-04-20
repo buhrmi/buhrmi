@@ -8,7 +8,7 @@ I'm a web developer based in Da Nang, Vietnam, currently working on startup idea
 
 ## Open source stuff
 
-The overarching goal of these projects is to enable offline-capable, native-feeling web apps using Ruby on Rails, Inertia, and Svelte.
+For the above startup ideas I am currently looking for a good way to implement offline-capable, native-feeling web apps using my favourite tools: Ruby on Rails on Svelte. These days, the Rails community is pushing Hotwire Native to develop native apps. Unfortunately, I'm not a fan of HTML-over-the-wire (Hotwire). So I'm developing my own open source "dream stack" that does not use Hotwire. It consists of these projects:
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
