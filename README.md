@@ -1,14 +1,17 @@
-# Hi there
+## Hi there
 
-I'm a web developer based in Da Nang, Vietnam, currently working on startup ideas.
+I'm a freelancing web developer from Germany, currently living in Da Nang, Vietnam. Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply to develop first-class **native-feeling, offline-capable web apps**.
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Binance, Coinbase, etc.
+The only drawback is that I prefer to use **my own tech stack built with Ruby on Rails and Svelte**. While many people behave like sheep and flock to React or other frameworks, I tend to go my own route. Even within my own beloved Rails community, there is a push these days to use Hotwire Native to develop native apps, which I don't like. Hotwire Native still uses server-side rendered templates, which is goes against my understanding of "offline-capable".
 
-- [VIBE Vietnam](https://instagram.com/vibe_vietnam), a music festival brand for electronic dance music.
+That's why I'm promoting my own stack these days. It offers the following features:
 
-## Open source stuff
+- Buttery smooth native-feeling navigation that works within mobile and web
+- Data-over-the-wire, locally cachable for offline-support
+- SSR support for SEO optimization
+- All while using standard Rails controllers and actions, without having to develop an API
 
-For the above startup ideas I've been looking for a good way to implement offline-capable, native-feeling web apps using my favourite tools: Ruby on Rails and Svelte. These days, the Rails community is pushing for Hotwire Native to develop native apps. Unfortunately, I'm not a fan of HTML-over-the-wire (Hotwire) and server-side rendered templates - that goes against the concept of offline-first. So I'm developing my own open source "dream stack" that does not use Hotwire. It consists of these projects:
+This is made possible by the following libraries and frameworks:
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
@@ -20,8 +23,15 @@ A component library offering buttery smooth native-like navigation for Inertia X
 
 ### [LiveStores](https://github.com/buhrmi/livestores)
 
-LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for offline-capable apps.
+LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
 
+## Current Startups
+
+The startups I'm working on kind of constantly change. Still waiting for something to finally stick.
+
+- [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Binance, Coinbase, etc.
+
+- [VIBE Vietnam](https://instagram.com/vibe_vietnam), a music festival brand for electronic dance music.
 
 ## Old portfolio stuff
 
