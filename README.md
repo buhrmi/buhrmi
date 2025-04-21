@@ -2,18 +2,18 @@
 
 I'm a freelancing developer from Germany, currently living in Da Nang, Vietnam, specializing in first class, **native-feeling, offline-capable web apps**.
 
-Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply 🤪.
+Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month [Send me an email](mailto:hello@buhrmi.de) if you're interested 🤪.
 
-The only drawback is that I prefer to use **my own tech stack built with Ruby on Rails and Svelte**. While many people behave like sheep and flock to React or other frameworks, I tend to go my own route. Even within my own beloved Rails community, there is a push these days to use Hotwire Native to develop native apps, which I don't like. Hotwire Native still uses server-side rendered templates, which is goes against my understanding of "offline-capable".
+The only drawback is that I'm very picky when it comes to the technology I'm working with: I work **exclusively with Ruby on Rails and Svelte**. While many people behave like sheep and flock to React or other frameworks, I tend to go my own route. Even within my own beloved Rails community, there is a push these days to use Hotwire Native to develop native apps, which I don't like. Hotwire Native still uses server-side rendered templates, which goes against my understanding of "offline-capable".
 
-That's why I'm promoting my own stack these days. It offers the following features:
+That's why I'm developing my own stack. It offers the following benefits:
 
 - Buttery smooth native-feeling navigation that works within mobile and web
 - Data-over-the-wire, locally cachable for offline-support
-- SSR support for SEO optimization
+- SSR support for search engine optimizations
 - All while using standard Rails controllers and actions, without having to develop an API
 
-This is made possible by the following libraries and frameworks:
+This stack consists of the following libraries and frameworks:
 
 ### [Inertia X](https://github.com/buhrmi/inertiax)
 
