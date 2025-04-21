@@ -4,7 +4,7 @@ I'm a full-stack web developer from Germany, currently living in Da Nang, Vietna
 
 Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month.
 
-I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages.
+I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
