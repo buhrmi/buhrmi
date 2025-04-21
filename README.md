@@ -1,3 +1,5 @@
+![PXL_20250421_102135504 PANO](https://github.com/user-attachments/assets/0cc78974-9fb4-48cf-9cec-f3341678b770)
+
 ## Hi there
 
 I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam.
