@@ -8,12 +8,12 @@ The only drawback is that I'm very picky when it comes to the technology I'm wor
 
 That's why I'm developing my own stack. It offers the following benefits:
 
-- Buttery smooth native-feeling navigation that works within mobile and web
+- Buttery smooth native-feeling navigation that works on mobile (using Capacitor.js) and web
 - Data-over-the-wire, locally cachable for offline-support
 - SSR support for search engine optimizations
 - All while using standard Rails controllers and actions, without having to develop an API
 
-This stack consists of the following libraries and frameworks:
+Building on Ruby on Rails, Svelte, and Capacitor.js, this stack introduces of the following libraries and frameworks:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
