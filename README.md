@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm a freelancing developer from Germany, currently living in Da Nang, Vietnam, specializing in first class, **native-feeling, offline-capable web apps**.
+I'm a freelancing developer from Germany, currently living in Da Nang, Vietnam, developing first class, **native-feeling, offline-capable web apps**.
 
 Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month. [Send me an email](mailto:hello@buhrmi.de) if you're interested 🤪.
 
