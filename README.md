@@ -24,9 +24,9 @@ Building on Ruby on Rails, Svelte, and Capacitor.js, this stack introduces of th
 - [LiveStores](https://github.com/buhrmi/livestores)<br>
   LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
 
-### Demo
+### Demo apps
 
-I'm currently developing [Shitcoin Swap](https://www.shitcoinswap.com) as a demo and proof-of-viability. Feel free to check it out and play around.
+Demo apps are currently in development. Check back later 🙃
 
 ## Old portfolio stuff
 
