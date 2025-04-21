@@ -1,10 +1,10 @@
 ## Hi there
 
-I'm a web developer from Germany, currently living in Da Nang, Vietnam.
+I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam.
 
 Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month.
 
-I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source libraries:
+I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages.
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
@@ -17,13 +17,13 @@ I specialize in developing **native-feeling, offline-capable web apps** using Ru
 
 Together, this gives you:
 
-- Buttery smooth native-feeling navigation on mobile as well as browsers
-- Data-over-the-wire, locally cachable for offline-support
+- Buttery smooth native-feeling navigations and interactions on mobile as well as in browsers
+- Locally cacheable data for true offline-support
 - SSR support for search engine optimizations
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? Reach out with your ideas to [hello@buhrmi.de](mailto:hello@buhrmi.de) to get started.
+Intrigued? Feel free to reach me with your ideas at [hello@buhrmi.de](mailto:hello@buhrmi.de) to get a quote.
 
 ### Demo apps
 
