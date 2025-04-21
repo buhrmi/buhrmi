@@ -26,7 +26,7 @@ This stack consists of the following libraries and frameworks:
 
 ### Demo
 
-I'm currently developing [Shitcoin Swap](https://www.shitcoinswap.com) as a proof-of-concept for the viability of this stack. Feel free to check it out and play around.
+I'm currently developing [Shitcoin Swap](https://www.shitcoinswap.com) as a demo and proof-of-viability. Feel free to check it out and play around.
 
 ## Old portfolio stuff
 
