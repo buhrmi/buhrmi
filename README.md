@@ -27,14 +27,6 @@ A component library offering buttery smooth native-like navigation for Inertia X
 
 LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
 
-## Current Startups
-
-The startups I'm working on kind of constantly change. Still waiting for something to finally stick.
-
-- [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Binance, Coinbase, etc.
-
-- [VIBE Vietnam](https://instagram.com/vibe_vietnam), a music festival brand for electronic dance music.
-
 ## Old portfolio stuff
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
