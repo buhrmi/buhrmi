@@ -1,19 +1,10 @@
 ## Hi there
 
-I'm a web developer from Germany, currently living in Da Nang, Vietnam. I can help you develop **first class, native-feeling, offline-capable web apps**.
+I'm a web developer from Germany, currently living in Da Nang, Vietnam.
 
 Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month. [Send me an email](mailto:hello@buhrmi.de) if you're interested 🤪.
 
-The only drawback is that I'm very picky when it comes to the technology I'm working with: I work **exclusively with Ruby on Rails and Svelte**. While many people behave like sheep and flock to React or other frameworks, I tend to go my own route. Even within my own beloved Rails community, there is a push these days to use Hotwire Native to develop native apps, which I don't like. Hotwire Native still uses server-side rendered templates, which goes against my understanding of "offline-capable".
-
-That's why I'm developing my own stack. It offers the following benefits:
-
-- Buttery smooth native-feeling navigation that works on mobile (using Capacitor.js) and web
-- Data-over-the-wire, locally cachable for offline-support
-- SSR support for search engine optimizations
-- All while using standard Rails controllers and actions, without having to develop an API
-
-Building on Ruby on Rails, Svelte, and Capacitor.js, this stack introduces of the following libraries and frameworks:
+I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source libraries:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
@@ -23,6 +14,16 @@ Building on Ruby on Rails, Svelte, and Capacitor.js, this stack introduces of th
 
 - [LiveStores](https://github.com/buhrmi/livestores)<br>
   LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
+
+Together, this gives you:
+
+- Buttery smooth native-feeling navigation on mobile as well as browsers
+- Data-over-the-wire, locally cachable for offline-support
+- SSR support for search engine optimizations
+- All while using standard Rails controllers and actions, without having to develop an API
+- Easily testable and extremely maintainable code
+
+Intrigued? Reach out with your ideas to [hello@buhrmi.de](mailto:hello@buhrmi.de) to get started.
 
 ### Demo apps
 
