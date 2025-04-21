@@ -15,17 +15,18 @@ That's why I'm developing my own stack. It offers the following benefits:
 
 This stack consists of the following libraries and frameworks:
 
-### [Inertia X](https://github.com/buhrmi/inertiax)
+- [Inertia X](https://github.com/buhrmi/inertiax)<br>
+  Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
 
-Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
+- Inertia X NavStack (coming soon)<br>
+  A component library offering buttery smooth native-like navigation for Inertia X apps.
 
-### Inertia X NavStack (coming soon)
+- [LiveStores](https://github.com/buhrmi/livestores)<br>
+  LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
 
-A component library offering buttery smooth native-like navigation for Inertia X apps.
+### Demo
 
-### [LiveStores](https://github.com/buhrmi/livestores)
-
-LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
+I'm currently developing [Shitcoin Swap](https://www.shitcoinswap.com) as a proof-of-concept for the viability of this stack. Feel free to check it out and play around.
 
 ## Old portfolio stuff
 
