@@ -2,7 +2,7 @@
 
 I'm a web developer from Germany, currently living in Da Nang, Vietnam.
 
-Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month. [Send me an email](mailto:hello@buhrmi.de) if you're interested 🤪.
+Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply. Think $1,000 USD/month.
 
 I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source libraries:
 
