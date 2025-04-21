@@ -1,6 +1,8 @@
 ## Hi there
 
-I'm a freelancing web developer from Germany, currently living in Da Nang, Vietnam. Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply to develop first-class **native-feeling, offline-capable web apps**.
+I'm a freelancing developer from Germany, currently living in Da Nang, Vietnam, specializing in first class, **native-feeling, offline-capable web apps**.
+
+Here in Vietnam the cost of living is relatively low, meaning that you can hire me very cheaply 🤪.
 
 The only drawback is that I prefer to use **my own tech stack built with Ruby on Rails and Svelte**. While many people behave like sheep and flock to React or other frameworks, I tend to go my own route. Even within my own beloved Rails community, there is a push these days to use Hotwire Native to develop native apps, which I don't like. Hotwire Native still uses server-side rendered templates, which is goes against my understanding of "offline-capable".
 
