@@ -13,7 +13,7 @@ I specialize in developing **native-feeling, offline-capable web apps** using Ru
   A component library offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
 
 - [LiveStores](https://github.com/buhrmi/livestores)<br>
-  LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be persisted locally for true offline-support.
+  LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be cached locally for true offline-support.
 
 Together, this gives you:
 
