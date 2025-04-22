@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam.
+I'm a full-stack developer from Germany, currently living in Da Nang, Vietnam.
 
 I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
 
@@ -23,7 +23,7 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [email](mailto:hello@buhrmi.de). The usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation is free of course.
+Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [email](mailto:hello@buhrmi.de). The usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation is free of course. I'm also available for hire full-time.
 
 ### Demo apps
 
