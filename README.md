@@ -23,7 +23,7 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? Feel free to reach out with your ideas at [hello@buhrmi.de](mailto:hello@buhrmi.de) to get a quote. My usual rate is $100 USD/hour (but, I'm also open to sweeten the deal in exchange for stock options). The initial consultation of course is free.
+Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via email [hello@buhrmi.de](mailto:hello@buhrmi.de). The usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation of course is free.
 
 ### Demo apps
 
