@@ -27,7 +27,7 @@ Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [
 
 ### Demo apps
 
-Demo apps are currently in development. Check back later 🙃
+I'm currently building [Shitcoin Swap](https://www.shitcoinswap.com) as a tech-demo. It's not quite ready yet, tho. Check back later 🙃
 
 ## Old portfolio stuff
 
