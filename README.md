@@ -25,9 +25,9 @@ Together, this gives you:
 
 Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [email](mailto:hello@buhrmi.de). The usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation is free of course. I'm also available for hire full-time.
 
-### Tech Demo
+### My Tech Stack
 
-Check out [Shitcoin Swap](https://www.shitcoinswap.com) (currently in development) to see the tech stack in action 🙃
+I'm currently working on combining the above packages into my own tech stack, aptly named "buhrmi's tech stack". It's not quite ready yet, but you can check out [Shitcoin Swap](https://www.shitcoinswap.com) (currently in development) to see the tech stack in action 🙃
 
 ## Old portfolio stuff
 
