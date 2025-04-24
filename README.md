@@ -27,7 +27,7 @@ Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [
 
 ### My Tech Stack
 
-I'm currently working on combining the above packages into my own tech stack, aptly named "buhrmi's tech stack". It's not quite ready yet, but you can check out [Shitcoin Swap](https://www.shitcoinswap.com) (currently in development) to see the tech stack in action 🙃
+I'm currently working on combining the above packages into my own tech stack, aptly named "buhrmi's tech stack". It's not quite ready yet, but you can check out [Shitcoin Swap](https://www.shitcoinswap.com) (currently in development) to see it in action 🙃
 
 ## Old portfolio stuff
 
