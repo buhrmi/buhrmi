@@ -2,12 +2,12 @@
 
 ## Hi there
 
-I'm a full-stack developer from Germany, currently living in Da Nang, Vietnam.
+I'm a full-stack developer from Germany, currently living in Da Nang, Vietnam, available for hire.
 
 I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
-  Inertia X is a drop-in replacement for Inertia's client-side adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
+  Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
 
 - Inertia X NavStack (coming soon)<br>
   A component library offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
@@ -23,11 +23,11 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [email](mailto:hello@buhrmi.de). The usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation is free of course. I'm also available for hire full-time.
+Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [email](mailto:hello@buhrmi.de). My usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation is free of course. I'm also available for hire full-time.
 
-### My Tech Stack
+### The Tech Stack
 
-I'm currently working on combining the above packages into my own tech stack, aptly named "buhrmi's tech stack". It's not quite ready yet, but you can check out [Shitcoin Swap](https://www.shitcoinswap.com) (currently in development) to see it in action 🙃
+I'm currently working on combining the above packages into one tech stack, aptly named "buhrmi's tech stack". It's not quite ready yet, but you can check out [Shitcoin Swap](https://www.shitcoinswap.com) (currently in development) to see it in action 🙃
 
 ## Old portfolio stuff
 
