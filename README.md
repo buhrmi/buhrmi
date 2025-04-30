@@ -9,8 +9,8 @@ I specialize in developing **native-feeling, offline-capable web apps** using Ru
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
 
-- [Inertia X NavStack (coming soon)](https://github.com/shitcoinsociety/shitcoinswap/tree/main/app/frontend/lib/navstack)<br>
-  A component library offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
+- [Inertia X NavStack](https://github.com/shitcoinsociety/shitcoinswap/tree/main/app/frontend/lib/navstack)<br>
+  A NavStack implementation offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
 
 - [LiveStores](https://github.com/buhrmi/livestores)<br>
   LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be cached locally for true offline-support.
