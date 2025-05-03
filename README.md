@@ -27,8 +27,6 @@ Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [
 
 ### Demo
 
-<video src="https://github.com/user-attachments/assets/48f900c3-a5c2-4610-8093-03de954ed134"></video>
-
 You can see this tech stack in action on [Shitcoin Swap](https://www.shitcoinswap.com) - currently in development as an open source alternative to Binance, Coinbase, etc.
 
 ## Old portfolio stuff
