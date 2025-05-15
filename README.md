@@ -6,7 +6,9 @@ I'm a full-stack developer from Germany, currently living in Da Nang, Vietnam, a
 
 ### Buhrmi's App Framework
 
-Buhrmi's App Framework is a framework that delivers **buttery smooth, native-feeling, offline-capable web apps**. It's built on Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
+Buhrmi's App Framework is a framework that delivers **buttery smooth, native-feeling, offline-capable web apps**. Here is an [AI-generated summary](https://claude.ai/public/artifacts/78089d82-ee60-4ddf-8dec-49ec41594526) of the benefits it provides.
+
+It's built on Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
