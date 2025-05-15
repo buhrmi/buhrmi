@@ -4,7 +4,9 @@
 
 I'm a full-stack developer from Germany, currently living in Da Nang, Vietnam, available for hire.
 
-I specialize in developing **native-feeling, offline-capable web apps** using Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
+### Buhrmi's App Framework
+
+Buhrmi's App Framework is a framework for **native-feeling, offline-capable web apps**, that I've been working on for the last few months. It's built on Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
@@ -23,11 +25,11 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? You can reach me [on Twitter](https://twitter.com/einbuhrmi) or via [email](mailto:hello@buhrmi.de). My usual rate is $100 USD/hour, which can be cheaper if I really like your ideas. The initial consultation is free of course. I'm also available for hire full-time.
+Intrigued? If you're looking for an app developer, reach out to [email](mailto:hello@buhrmi.de). My usual rate is $100 USD/hour, which can be cheaper if I really like your idea. The initial consultation is free of course. I'm also available for hire full-time.
 
 ### Demo
 
-You can see this tech stack in action on [Shitcoin Swap](https://www.shitcoinswap.com) - currently in development as an open source alternative to Binance, Coinbase, etc.
+You can see Buhrmi's App Framework in action on [Shitcoin Swap](https://www.shitcoinswap.com) - currently in development as an open source alternative to Binance, Coinbase, etc.
 
 ## Old portfolio stuff
 
