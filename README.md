@@ -31,7 +31,7 @@ Intrigued? If you're looking for an app developer, reach out to [hello@buhrmi.de
 
 ### Demo
 
-You can see Buhrmi's App Framework in action on [Shitcoin Swap](https://www.shitcoinswap.com) - currently in development as an open source alternative to Binance, Coinbase, etc.
+My startup Shitcoin Society is using this framework in production to develop [Shitcoin Swap](https://www.shitcoinswap.com) - an open source alternative to Binance, Coinbase, etc.
 
 ## Old portfolio stuff
 
