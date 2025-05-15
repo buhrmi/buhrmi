@@ -25,7 +25,7 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? If you're looking for an app developer, reach out to [email](mailto:hello@buhrmi.de). My usual rate is $100 USD/hour. Too high? I'm okay with stock options. The initial consultation is free of course. I'm also available for hire full-time.
+Intrigued? If you're looking for an app developer, reach out to [hello@buhrmi.de](mailto:hello@buhrmi.de) (I don't bite). My usual rate is $100 USD/hour. Too high? I'm okay with stock options. The initial consultation is free of course. I'm also available for hire full-time.
 
 ### Demo
 
