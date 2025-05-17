@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can do the HTML and CSS. However, I'm more interested in application development and tooling, as opposed to mere websites. That's why I've created my own tech stack. Introducing:
+I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can help you with the HTML and the CSS. But my real passion lies in application development and tooling, as opposed to mere websites. That's why I've created my own app framework. Introducing:
 
 ### Buhrmi's App Framework
 
