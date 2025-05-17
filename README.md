@@ -2,13 +2,13 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can do the HTML and CSS. However, I'm more interested in application development as opposed to mere websites. I've even created my own framework. Introducing:
+I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can do the HTML and CSS. However, I'm more interested in application development and tooling, as opposed to mere websites. That's why I've created my own tech stack. Introducing:
 
 ### Buhrmi's App Framework
 
-Buhrmi's App Framework is a framework that delivers **buttery smooth, native-feeling, offline-capable web apps**. Here is an [AI-generated summary](https://claude.ai/public/artifacts/78089d82-ee60-4ddf-8dec-49ec41594526) of the benefits it provides.
+Buhrmi's App Framework makes it easy to create **buttery smooth, native-feeling, offline-capable web apps**. Check out this [AI-generated summary](https://claude.ai/public/artifacts/78089d82-ee60-4ddf-8dec-49ec41594526).
 
-It's built on Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
+The framework consists of Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
