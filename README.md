@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm a full-stack developer from Germany, currently living in Da Nang, Vietnam, available for hire.
+I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can do the HTML and CSS. However, I'm more interested in application development as opposed to mere websites. I've even created my own framework. Introducing:
 
 ### Buhrmi's App Framework
 
