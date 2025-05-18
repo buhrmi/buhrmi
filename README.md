@@ -31,9 +31,9 @@ Intrigued? If you're looking for an app developer, reach out to [hello@buhrmi.de
 
 ### Demo
 
-My startup [Shitcoin Society](https://www.shitcoinsociety.com) is using this framework to develop [Shitcoin Swap](https://www.shitcoinswap.com) - an open source alternative to Binance, Coinbase, etc.
+My startup [Shitcoin Society](https://www.shitcoinsociety.com) is using this framework to develop an open source alternative to Binance, Coinbase, etc.
 
-By the way, so far we have raised $0. Let me know if you'd like to come on board as early investor 😄
+If you'd like to support this, please consider becoming a shareholder by purchasing our [Revenue Share Token ($RST)](https://www.shitcoinsociety.com/$rst).
 
 ## Old portfolio stuff
 
