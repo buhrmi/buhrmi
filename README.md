@@ -6,9 +6,9 @@ I'm a full-stack web developer from Germany, currently living in Da Nang, Vietna
 
 ### Buhrmi's App Framework
 
-Buhrmi's App Framework makes it easy to create **buttery smooth, native-feeling, offline-capable web apps**. Check out this [AI-generated summary](https://claude.ai/public/artifacts/78089d82-ee60-4ddf-8dec-49ec41594526).
+Buhrmi's App Framework is a framework for creating **buttery smooth native-like web apps** that run in browsers, mobile devices, and *probably* in desktop wrappers like Tauri. 
 
-The framework consists of Ruby on Rails, Svelte, Capacitor.js, and a sweet selection of my own open source packages:
+It consists of Ruby on Rails, Svelte and Capacitor.js, topped off with a sweet selection of my own open source packages:
 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's Turbo Frames.
@@ -27,7 +27,9 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Intrigued? If you're looking for an app developer, reach out to [hello@buhrmi.de](mailto:hello@buhrmi.de). My usual rate is $100 USD/hour. Too high? I'm okay with stock options. The initial consultation is free of course. I'm also available for hire full-time.
+Here is an [AI-generated summary](https://claude.ai/public/artifacts/78089d82-ee60-4ddf-8dec-49ec41594526).
+
+Intrigued? If you're looking for an app developer, feel free to reach out to [hello@buhrmi.de](mailto:hello@buhrmi.de). The usual rate is around $100 USD/hour, which is negotiable (think revenue share, stock options, etc). I'm also open to full-time positions.
 
 ### Demo
 
