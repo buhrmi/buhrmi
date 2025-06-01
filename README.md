@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can help you with the HTML and the CSS. But my real passion lies in application development and tooling, as opposed to mere websites. That's why I'm creating my own app framework. Introducing:
+I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can help you with the HTML and the CSS. But my real passion lies in application development and tooling, as opposed to mere websites. Over the years, I've settled on my favourite tools and combined them into my own little framework. Introducing:
 
 ### Buhrmi's App Framework
 
@@ -27,9 +27,7 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-Here is an [AI-generated summary](https://claude.ai/public/artifacts/78089d82-ee60-4ddf-8dec-49ec41594526).
-
-Intrigued? If you're looking for an app developer, feel free to reach out to [hello@buhrmi.de](mailto:hello@buhrmi.de). The usual rate is around $100 USD/hour, which is negotiable (think revenue share, stock options, etc). I'm also open to full-time positions.
+You've got an idea stuck in your head, and you *just* need an developer? Tried some things in the past that didn't work out? Ready to give it another shot? Well, I'm here. Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de).
 
 ### Demo
 
