@@ -2,7 +2,11 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. Yes, I can help you with the HTML and the CSS. But my real passion lies in application development and tooling, as opposed to mere websites. Over the years, I've settled on my favourite tools and combined them into my own little framework. Introducing:
+I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. 
+
+You've got an idea stuck in your head, and you *just* need an developer? Tried some things in the past that didn't work out? Ready to give it another shot? Well, I'm here. Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de).
+
+Over the years, I've settled on my favourite tools for web app development, and combined them into my own little framework. Introducing:
 
 ### Buhrmi's App Framework
 
@@ -26,8 +30,6 @@ Together, this gives you:
 - SSR support for search engine optimizations
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
-
-You've got an idea stuck in your head, and you *just* need an developer? Tried some things in the past that didn't work out? Ready to give it another shot? Well, I'm here. Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de).
 
 ### Demo
 
