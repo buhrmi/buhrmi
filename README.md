@@ -17,7 +17,7 @@ Its main ingredients are Ruby on Rails, Svelte and Capacitor.js, garnished with 
 - [Inertia X](https://github.com/buhrmi/inertiax)<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's [Turbo Frames](https://turbo.hotwired.dev/handbook/frames#eager-loading-frames).
 
-- [Inertia X NavStack](https://github.com/shitcoinsociety/shitcoinswap/tree/main/app/frontend/lib/navstack)<br>
+- [Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/main/app/frontend/lib/navstack)<br>
   A NavStack implementation offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
 
 - [LiveStores](https://github.com/buhrmi/livestores)<br>
