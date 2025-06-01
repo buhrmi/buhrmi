@@ -33,7 +33,7 @@ Together, this gives you:
 
 ### Demo
 
-Coming soon.
+For a small demo, check out [Gladiators Reloaded](https://github.com/buhrmi/gladi2), an open-source remake of a 2004 browser game that I'm currently working on.
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
