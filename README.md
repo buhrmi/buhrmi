@@ -12,14 +12,15 @@ Buhrmi's App Framework is a framework for creating **buttery smooth native-like 
 
 Its main ingredients are Ruby on Rails, Svelte and Capacitor.js, garnished with a sweet selection of my own open source packages:
 
-- [Inertia X](https://github.com/buhrmi/inertiax)<br>
+- **[ActiveState](https://github.com/buhrmi/activestate)**<br>
+  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
+  
+- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's [Turbo Frames](https://turbo.hotwired.dev/handbook/frames#eager-loading-frames).
 
-- [Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)<br>
+- **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
 
-- [ActiveState](https://github.com/buhrmi/activestate)<br>
-  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
 Together, this gives you:
 
