@@ -2,9 +2,7 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, currently living in Da Nang, Vietnam, available for hire. 
-
-Over the years I've settled on my favourite tools for web app development, and combined them into my own little framework. Introducing:
+I'm a full-stack web developer from Germany, living in Da Nang, Vietnam. Over the years I've settled on my favourite tools for web app development, and combined them into my own little framework. Introducing:
 
 ### Buhrmi's App Framework
 
