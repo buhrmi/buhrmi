@@ -18,8 +18,8 @@ Its main ingredients are Ruby on Rails, Svelte and Capacitor.js, garnished with 
 - [Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)<br>
   A NavStack implementation offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
 
-- [LiveStores](https://github.com/buhrmi/livestores)<br>
-  LiveStores augment Rails' ActionCable Channels with methods to update Svelte stores in real-time. These stores can be cached locally for true offline-support.
+- [ActiveState](https://github.com/buhrmi/activestate)<br>
+  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
 Together, this gives you:
 
