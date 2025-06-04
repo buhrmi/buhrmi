@@ -2,13 +2,9 @@
 
 ## Hi there
 
-I'm a full-stack web developer from Germany, living in Da Nang, Vietnam. Over the years I've settled on my favourite tools for web app development, and combined them into my own little framework. Introducing:
+You've landed on the GitHub profile of full-stack web developer from Germany, currently living in Da Nang.
 
-### Buhrmi's App Framework
-
-Buhrmi's App Framework is a framework for creating **buttery smooth native-like web apps** that run in browsers, mobile devices, and *probably* in desktop wrappers like Tauri. 
-
-Its main ingredients are Ruby on Rails, Svelte and Capacitor.js, garnished with a sweet selection of my own open source packages:
+### Here's a bunch of open source stuff:
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
@@ -19,8 +15,7 @@ Its main ingredients are Ruby on Rails, Svelte and Capacitor.js, garnished with 
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation offering buttery smooth native-like multi-modal navigation on mobile and in browsers.
 
-
-Together, this gives you:
+Together, these give you:
 
 - Buttery smooth native-feeling navigations and interactions on mobile as well as in browsers
 - Locally cacheable data for true offline-support
@@ -28,7 +23,7 @@ Together, this gives you:
 - All while using standard Rails controllers and actions, without having to develop an API
 - Easily testable and extremely maintainable code
 
-### Demo
+I'm calling it: Buhrmi's App Framework.
 
 For a small demo, check out [Gladiators Reloaded](https://github.com/buhrmi/gladi2), an open-source reimagination of an old 2004 browser game.
 
