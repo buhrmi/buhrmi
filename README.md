@@ -25,7 +25,7 @@ Together, these give you:
 
 I'm calling it: Buhrmi's App Framework.
 
-For a small demo, check out [Gladiators Reloaded](https://github.com/buhrmi/gladi2), an open-source reimagination of an old 2004 browser game.
+For a small demo, check out [Gladiators Reloaded](https://github.com/buhrmi/gladiators), an open-source reimagination of an old 2004 browser game.
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
