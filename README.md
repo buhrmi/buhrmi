@@ -2,7 +2,7 @@
 
 ## Hi there
 
-You've landed on the GitHub profile of a Ruby on Rails developer from Germany, currently living in Da Nang.
+You've landed on the GitHub profile of a Ruby on Rails developer from Germany.
 
 ### Here's a bunch of open source stuff:
 
