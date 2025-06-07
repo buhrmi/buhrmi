@@ -2,7 +2,7 @@
 
 ## Hi there
 
-You've landed on the GitHub profile of a Ruby on Rails developer from Germany.
+You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from Germany.
 
 ### Here's a bunch of open source stuff:
 
