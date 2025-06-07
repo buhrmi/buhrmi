@@ -15,7 +15,7 @@ You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation on top of Inertia X, offering smooth multi-modal navigation on mobile and in browsers.
 
-You can see these projects working together in [Gladiators Reloaded](https://github.com/buhrmi/gladiators), an open-source reimagination of an old 2004 browser game.
+You can see these projects coming together in [Gladiators Reloaded](https://github.com/buhrmi/gladiators), an open-source reimagination of an old 2004 browser game.
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
