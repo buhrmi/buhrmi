@@ -17,6 +17,8 @@ You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from
 
 You can see these projects coming together in [Gladiators Reloaded](https://github.com/buhrmi/gladiators), an open-source reimagination of an old 2004 browser game.
 
+[Buy me a coffee](buymeacoffee.com/buhrmi)
+
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
 ## Old portfolio stuff
