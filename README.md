@@ -15,7 +15,7 @@ You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation on top of Inertia X, offering smooth multi-modal navigation on mobile and in browsers.
 
-You can see these projects coming together in [Gladiators Reloaded](https://github.com/buhrmi/gladiators), an open-source reimagination of an old 2004 browser game.
+You can see these projects coming together in [ArenaWars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
 [Buy me a coffee](https://buymeacoffee.com/buhrmi)
 
