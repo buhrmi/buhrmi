@@ -1,23 +1,21 @@
 ![PXL_20250421_102135504 PANO](https://github.com/user-attachments/assets/0cc78974-9fb4-48cf-9cec-f3341678b770)
 
-## Hi there
+## Hi, I'm buhrmi
 
-You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from Germany, living in Da Nang, Vietnam. It's awesome here and you should come.
+I'm a web developer from Germany, living in Da Nang, Vietnam. It's awesome here and you should come.
 
-### Here's a bunch of open source stuff:
+Here's some open source stuff I've been working on:
+
+- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
+  Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
-  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
-  
-- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
-  Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component, inspired by Hotwire's [Turbo Frames](https://turbo.hotwired.dev/handbook/frames#eager-loading-frames).
+  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.  
 
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation on top of Inertia X, offering smooth multi-modal navigation on mobile and in browsers.
 
-You can see these projects coming together in [ArenaWars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
-
-[Buy me a coffee](https://buymeacoffee.com/buhrmi)
+You can see these projects coming together in [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
