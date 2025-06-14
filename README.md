@@ -2,7 +2,7 @@
 
 ## Hi there
 
-You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from Germany.
+You've landed on the GitHub profile of a Svelte and Ruby on Rails developer from Germany, living in Da Nang, Vietnam. It's awesome here and you should come.
 
 ### Here's a bunch of open source stuff:
 
