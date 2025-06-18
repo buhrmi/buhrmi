@@ -1,10 +1,12 @@
 ![PXL_20250421_102135504 PANO](https://github.com/user-attachments/assets/0cc78974-9fb4-48cf-9cec-f3341678b770)
 
-## Hi, I'm buhrmi
+## Hi there
 
 I'm a web developer from Germany, living in Da Nang, Vietnam. It's awesome here and you should come.
 
-Here's some open source stuff I've been working on:
+These days I spend my free time developing the technical foundation for the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform.
+
+All libraries and frameworks that the Shitcoin Society has developed are being made available open source:
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
@@ -15,7 +17,9 @@ Here's some open source stuff I've been working on:
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation on top of Inertia X, offering smooth multi-modal navigation on mobile and in browsers.
 
-You can see these projects coming together in [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
+### Projects using this tech stack
+
+- [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
