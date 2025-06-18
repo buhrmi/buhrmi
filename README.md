@@ -20,6 +20,7 @@ All libraries and frameworks that the Shitcoin Society has developed are being m
 ### Projects using this tech stack
 
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
+- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform and crypto launchpad
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
