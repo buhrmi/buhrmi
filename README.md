@@ -2,11 +2,9 @@
 
 ## Hi there
 
-I'm a web developer living in Da Nang, Vietnam. It's awesome here and you should come.
+I'm a web developer living in Da Nang, Vietnam, currently working on the tech stack for the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform.
 
-These days I spend my free time developing the technical foundation for the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform and crypto-launchpad.
-
-All libraries and frameworks that the Shitcoin Society has developed are being made available open source:
+This tech stack currently consists of:
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
@@ -19,8 +17,9 @@ All libraries and frameworks that the Shitcoin Society has developed are being m
 
 ### Projects using this tech stack
 
+- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform and crypto launchpad.
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
-- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform and crypto launchpad
+
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
