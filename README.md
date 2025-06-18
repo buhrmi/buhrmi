@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, living in Da Nang, Vietnam. It's awesome here and you should come.
+I'm a web developer living in Da Nang, Vietnam. It's awesome here and you should come.
 
 These days I spend my free time developing the technical foundation for the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform and crypto-launchpad.
 
