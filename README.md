@@ -4,7 +4,7 @@
 
 I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails. The image above is Da Nang, Vietnam, where I currently live. It's awesome here and you should come.
 
-Here's a bunch of open source stuff:
+Here's a bunch of open source stuff I've created:
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.  
