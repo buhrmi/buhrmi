@@ -2,12 +2,12 @@
 
 ## Hi there
 
-I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails. The image above is Da Nang, Vietnam. It's really awesome here.
+I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, currently living in Da Nang, Vietnam.
 
 Here's a bunch of open source stuff:
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
-  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.  
+  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
