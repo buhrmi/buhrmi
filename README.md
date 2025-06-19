@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails. The image above is Da Nang, Vietnam, where I currently live. It's awesome here and you should come.
+I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails. The image above is Da Nang, Vietnam. It's really awesome here.
 
 Here's a bunch of open source stuff:
 
