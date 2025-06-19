@@ -2,24 +2,23 @@
 
 ## Hi there
 
-I'm a web developer living in Da Nang, Vietnam, currently working on the tech stack for the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform.
+I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails.
 
-This tech stack currently consists of:
-
-- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
-  Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
+Here's a bunch of open source stuff:
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.  
 
+- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
+  Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
+
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation on top of Inertia X, offering smooth multi-modal navigation on mobile and in browsers.
 
-### Projects using this tech stack
+### Current projects
 
-- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source trading platform and crypto launchpad.
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
-
+- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto trading platform
 
 <!--Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
