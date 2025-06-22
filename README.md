@@ -14,12 +14,12 @@ Here's a bunch of open source stuff:
 
 - **[Inertia X NavStack](https://github.com/buhrmi/gladi2/tree/master/app/frontend/lib/navstack)**<br>
   A NavStack implementation on top of Inertia X, offering smooth multi-modal navigation on mobile and in browsers.
-<!--
+
 ### Current projects
 
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 - [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto trading platform
-
+<!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
 ## Old portfolio stuff
