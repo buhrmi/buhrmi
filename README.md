@@ -17,6 +17,8 @@ Here's a bunch of open source stuff:
 
 ### Current projects
 
+Here's stome stuff I'm dabbling on in my spare time.
+
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 - [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto trading platform
 <!--
