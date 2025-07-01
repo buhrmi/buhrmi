@@ -4,18 +4,20 @@
 
 I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, available for hire.
 
-Here's a bunch of open source stuff:
+### Current projects
+
+- [SmartCoin](https://www.smartcoin.dev), your gateway to financial freedom (currently invite-only).
+- [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
+
+### Open source
+
+Here are some open-source tools that I'm using on a daily basis for freelance work, and also to build the projects above.
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
-
-### Current projects
-
-- [SmartCoin](https://www.smartcoin.dev), your gateway to financial freedom (currently invite-only).
-- [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
