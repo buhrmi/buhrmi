@@ -6,7 +6,7 @@ I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, 
 
 ### Current projects
 
-- [SmartCoin](https://www.smartcoin.dev), an attempt at building financial freedom (currently invite-only).
+- [SmartCoin](https://www.smartcoin.dev), an attempt at building financial freedom (formerly [Shitcoin Society](https://www.shitcoinsociety.com), currently invite-only).
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
 ### Open source
