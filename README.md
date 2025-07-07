@@ -43,4 +43,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ### Even older stuff
 
-You can find more past experiences and also get in touch through [LinkedIn](https://www.linkedin.com/in/buhrmi/).
+You can find more past experiences and also get in touch on [LinkedIn](https://www.linkedin.com/in/buhrmi/).
