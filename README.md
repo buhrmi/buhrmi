@@ -6,7 +6,7 @@ I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, 
 
 ### Current projects
 
-- [SmartCoin](https://www.smartcoin.dev), a project to test the effectiveness of the MLM effect in crypto, currently invite-only.
+- [SmartCoin](https://www.smartcoin.dev), the ultimate sat stacking tool, utilizing the power of MLM. Currently invite-only.
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
 ### Open source
