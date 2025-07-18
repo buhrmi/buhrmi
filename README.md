@@ -11,7 +11,7 @@ I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, 
 
 ### Open source
 
-I've come up with some of my own tools that I'm using to build the apps above. Open-sourcing them in hopes that they're useful to you.
+Here are some tools that help me build the things I want to build. Maybe they'll be useful to you, too 😇
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
