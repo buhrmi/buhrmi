@@ -9,9 +9,7 @@ I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails.
 - [SmartCoin](https://www.smartcoin.dev), an attempt at a Bitcoin MLM platform. Currently invite-only.
 - [Arena Wars](https://github.com/buhrmi/arenawars), an open-source reimagination of an old 2004 browser game.
 
-### Open source
-
-Here are some tools that help me build the things I want to build. Maybe they'll be useful to you, too 😇
+### Open source tools
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
