@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, available for hire.
+I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails.
 
 ### Current projects
 
