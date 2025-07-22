@@ -6,7 +6,7 @@ I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, 
 
 ### Current projects
 
-- [Shitcoin Swap](https://github.com/shitcoinswap), on a mission to create the world's largest open-source trading platform. 
+- [Shitcoin Swap](https://www.shitcoinswap.com), on a mission to create the world's largest open-source trading platform. 
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
 
 ### Open source tools
