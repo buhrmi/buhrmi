@@ -6,7 +6,7 @@ I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, 
 
 ### Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), an attempt at an open-source Bitcoin MLM platform with built-in trading engine. 
+- [Shitcoin Swap](https://www.shitcoinswap.com), an attempt at an open-source crypto MLM platform denominated in Satoshi, with built-in trading engine. 
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
 
 ### Open source tools
