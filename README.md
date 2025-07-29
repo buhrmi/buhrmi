@@ -2,9 +2,9 @@
 
 ## Hi there
 
-This is buhrmi, the one and only founder of the Shitcoin Society, and creator of the world's greatest crypto MLM project.
+This is buhrmi, the one and only founder of the Shitcoin Society, and creator of the world's greatest crypto MLM project that makes exactly zero revenue. Yay.
 
-Building in public, until everything comes crashing down. Yay.
+Also moonlighting as freelancing web developer specializing un Svelte & Ruby on Rails.
 
 ### Current projects
 
