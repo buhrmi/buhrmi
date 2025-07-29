@@ -2,11 +2,13 @@
 
 ## Hi there
 
-I'm buhrmi, freelancing web developer specializing in Svelte and Ruby on Rails, available for ~shenanigans~ hire. I enjoy building in public, even if everything ultimately breaks and comes down crashing. That's when you know that you actually did something.
+This is buhrmi, the one and only founder of the Shitcoin Society, and creator of the world's greatest crypo MLM project.
+
+Building in public, until everything comes crashing down. Yay.
 
 ### Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), an attempt at an open-source crypto MLM platform denominated in Satoshi, with built-in trading engine. 
+- [Shitcoin Swap](https://www.shitcoinswap.com), the open-source crypto MLM platform denominated in Satoshi, with built-in trading engine. 
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
 
 ### Open source tools
