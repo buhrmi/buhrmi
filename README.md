@@ -9,6 +9,10 @@ This is buhrmi, freelancing web developer specializing in Svelte & Ruby on Rails
 - [Shitcoin Swap](https://www.shitcoinswap.com), the open-source crypto MLM platform denominated in Satoshi, with built-in trading engine. 
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
 
+### Experiments
+
+- [Svelte-Gemini-Live](https://github.com/buhrmi/svelte-gemini-live), a live AI assistant that runs inside the browser or a webview, customizable with your own system prompt
+
 ### Open source tools
 
 > Note: These are the only actively maintained projects. There are some projects with more stars, but none of those are maintained and nobody should use them.
