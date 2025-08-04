@@ -11,7 +11,7 @@ This is buhrmi, freelancing web developer specializing in Svelte & Ruby on Rails
 
 ### Experiments
 
-- [Svelte-Gemini-Live](https://github.com/buhrmi/svelte-gemini-live), a live AI assistant that runs inside the browser or a webview, customizable with your own system prompt
+- [Dr. Stranzberg](https://github.com/buhrmi/stranzberg), a live AI assistant dedicated to support parents in the upbringing of their kids
 
 ### Open source tools
 
