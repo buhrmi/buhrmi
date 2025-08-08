@@ -2,9 +2,11 @@
 
 ## Hi there
 
-This is buhrmi, freelancing web developer specializing in Svelte & Ruby on Rails. Please hire me, thanks 😆
+This is buhrmi, freelancing web developer specializing in Svelte & Ruby on Rails.
 
 ### Current projects
+
+Sometimes you can find me working on these projects [live on Twitch](https://twitch.tv/buhrmiproggt).
 
 - [Shitcoin Swap](https://www.shitcoinswap.com), an open-source crypto platform with built-in trading engine. 
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
