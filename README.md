@@ -9,11 +9,12 @@ This is buhrmi, freelancing web developer specializing in Svelte & Ruby on Rails
 Sometimes you can find me working on these projects [live on Twitch](https://twitch.tv/buhrmiproggt).
 
 - [Shitcoin Swap](https://www.shitcoinswap.com), an open-source crypto platform with built-in trading engine. 
+- [Dr. Stranzberg](https://github.com/buhrmi/stranzberg), a live AI assistant dedicated to supporting parents in the upbringing of their kids
+<!--
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
 
 ### Experiments
-
-- [Dr. Stranzberg](https://github.com/buhrmi/stranzberg), a live AI assistant dedicated to support parents in the upbringing of their kids
+-->
 
 ### Open source tools
 
