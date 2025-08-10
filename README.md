@@ -2,7 +2,7 @@
 
 ## Hi there
 
-This is buhrmi, very legit super duper web developer streaming project development [on Twitch](https://twitch.tv/buhrmiproggt).
+This is buhrmi, a very legit super duper web and app developer. Sometimes I make [development streams](https://twitch.tv/buhrmiproggt).
 
 ### Current projects
 
