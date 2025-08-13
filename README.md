@@ -2,11 +2,11 @@
 
 ## Hi there
 
-This is buhrmi, a very legit super duper web and app developer. Sometimes I make [development streams](https://twitch.tv/buhrmiproggt).
+This is buhrmi, a very legit super duper web and app developer. Sometimes you can find me [streaming on Twitch](https://twitch.tv/buhrmiproggt).
 
 ### Current projects
 
-- [Shitcoin Swap](https://www.shitcoinswap.com), an open-source crypto platform with built-in trading engine.
+- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto MLM project with built-in trading engine.
 - [Herr Stranzberg](https://github.com/buhrmi/stranzberg), a live AI assistant dedicated to supporting parents in the upbringing of their kids.
 
 <!--
