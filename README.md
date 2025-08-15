@@ -2,7 +2,7 @@
 
 ## Hi there
 
-This is buhrmi, a very legit super duper web and app developer. Sometimes you can find me [streaming on Twitch](https://twitch.tv/buhrmiproggt).
+This is buhrmi, a very legit super duper web and app developer. Sometimes you can find me [streaming on Twitch](https://twitch.tv/buhrmiproggt). Feel free to [reach out](mailto:business@buhrmi.de) for ~shenanigans~ business.
 
 ### Current projects
 
@@ -49,4 +49,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 
 ### Even older stuff
 
-You can find more past experiences and also get in touch on [LinkedIn](https://www.linkedin.com/in/buhrmi/).
+You can find more past experiences on [LinkedIn](https://www.linkedin.com/in/buhrmi/).
