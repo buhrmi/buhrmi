@@ -6,7 +6,7 @@ This is buhrmi, a very legit super duper web and app developer. Sometimes you ca
 
 ### Current projects
 
-- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto MLM project with built-in trading engine.
+- [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto MLM platform with built-in trading engine.
 - [Herr Stranzberg](https://github.com/buhrmi/stranzberg), a live AI assistant dedicated to supporting parents in the upbringing of their kids.
 
 <!--
