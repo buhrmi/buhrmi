@@ -2,12 +2,14 @@
 
 ## Hi there
 
-This is buhrmi, a very legit super duper web and app developer. Sometimes you can find me [streaming on Twitch](https://twitch.tv/buhrmiproggt). Feel free to [reach out](mailto:business@buhrmi.de) for ~shenanigans~ business.
+This is buhrmi, a super duper web app developer. Feel free to [reach out](mailto:business@buhrmi.de) for ~shenanigans~ business.
 
 ### Current projects
 
 - [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto MLM platform with built-in trading engine.
 - [Herr Stranzberg](https://github.com/buhrmi/stranzberg), a live AI assistant dedicated to supporting parents in the upbringing of their kids.
+
+Sometimes you can find me [streaming on Twitch](https://twitch.tv/buhrmiproggt). Come say hi :)
 
 <!--
 - [Arena Wars](https://github.com/buhrmi/arenawars), a reimagination of an old 2004 browser game.
