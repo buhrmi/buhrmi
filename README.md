@@ -45,6 +45,3 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-### Even older stuff
-
-You can find more past experiences on [LinkedIn](https://www.linkedin.com/in/buhrmi/).
