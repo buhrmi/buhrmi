@@ -17,8 +17,6 @@ This is buhrmi, a super duper web app developer. Sometimes you can find me [stre
 
 ### Open source tools
 
-> Note: These are the only actively maintained projects. There are some projects with more stars, but none of those are maintained and nobody should use them.
-
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
