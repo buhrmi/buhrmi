@@ -2,7 +2,7 @@
 
 ## Hi there
 
-This is buhrmi, freelancing web developer specializing in Ruby on Rails and Svelte. Currently working on the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto trading platform. You can follow its development [on YouTube](https://www.youtube.com/@BuhrmiProggt/streams).
+This is buhrmi, freelancing web developer specializing in Ruby on Rails and Svelte. Currently working on the [Shitcoin Society](https://www.shitcoinsociety.com), an open-source crypto trading platform.
 
 ### Open source tools
 
