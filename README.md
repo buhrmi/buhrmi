@@ -2,9 +2,9 @@
 
 ## Hi there
 
-This is buhrmi, freelancing web developer specializing in Ruby on Rails and Svelte. Come join me on [YouTube](https://youtube.com/@buhrmidevelops/streams), where I'm currently building the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment club.
+Thanks for visiting! I'm buhrmi, a freelancing web developer working with Ruby on Rails and Svelte.
 
-### Open source tools
+Come join me on [YouTube](https://youtube.com/@buhrmidevelops/streams), where I'm currently building the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment club. Or check out some open-source tools I've made in the past:
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
