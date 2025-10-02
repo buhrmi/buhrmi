@@ -4,13 +4,15 @@
 
 Thanks for visiting! I'm buhrmi, a freelancing web developer working with Ruby on Rails and Svelte.
 
-You can find me on [YouTube](https://youtube.com/@buhrmidevelops/streams), where I'm currently building the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment club with built-in trading engine. You can also check out some open-source tools I've made in the past:
+Here are some open-source tools I've made in the past:
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
+
+You can also check out my live programming streams on [YouTube](https://youtube.com/@buhrmidevelops/streams) and [Twitch](https://twitch.tv/buhrmidevelops), and join in on building the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment club. 
 
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
