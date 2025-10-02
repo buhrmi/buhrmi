@@ -12,7 +12,7 @@ Here are some open-source tools I've made in the past:
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
-You can also check out my live programming streams on [YouTube](https://youtube.com/@buhrmidevelops/streams) and [Twitch](https://twitch.tv/buhrmidevelops), where we're currently building the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment club with built-in trading engine.
+You can sometimes find me doing live programming streams on [Twitch](https://twitch.tv/buhrmidevelops) or [this YouTube channel](https://youtube.com/@buhrmidevelops/streams), where I'm currently working towards the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment club with built-in trading engine.
 
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
