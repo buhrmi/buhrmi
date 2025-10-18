@@ -2,7 +2,7 @@
 
 ## Hi there
 
-Thanks for visiting! This is buhrmi, a ~unemployed~ freelancing web developer working with Ruby on Rails and Svelte.
+Thanks for visiting! This is buhrmi, a ~unemployed~ freelancing web developer specializing in Ruby on Rails and Svelte.
 
 Here are some open-source tools I've made in the past:
 
@@ -13,6 +13,8 @@ Here are some open-source tools I've made in the past:
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
 You can sometimes find me doing live programming sessions [on YouTube](https://youtube.com/@buhrmidevelops/streams), where I'm currently working towards the [Shitcoin Society](https://www.shitcoinsociety.com) - an open-source crypto investment platform with built-in trading engine.
+
+You can also hire me! Send an email to [work@buhrmi.de](mailto:work@buhrmi.de) to get in touch.
 
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
