@@ -2,7 +2,7 @@
 
 ## Hi there
 
-Thanks for visiting! I'm buhrmi, a freelancing web developer working with Ruby on Rails and Svelte.
+Thanks for visiting! This is buhrmi, a ~unemployed~ freelancing web developer working with Ruby on Rails and Svelte.
 
 Here are some open-source tools I've made in the past:
 
