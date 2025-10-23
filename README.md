@@ -15,7 +15,7 @@ Thanks for visiting! This is buhrmi, a ~unemployed~ freelancing web developer sp
 ### Current projects
 
 - **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
-  My very own open-source crypto investment club with integrated trading engine. Most of its development happens live on [Twitch](https://twitch.tv/buhrmidevelops).
+  My very own open-source crypto investment club with integrated trading engine. You can follow its development on [Twitch](https://twitch.tv/buhrmidevelops).
 
 ### Get in touch
 
