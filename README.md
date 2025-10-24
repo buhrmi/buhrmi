@@ -19,7 +19,7 @@ Thanks for visiting! This is buhrmi, a freelancing web developer specializing in
 
 ### Get in touch
 
-Looking for a Rails / Svelte developer? Feel free to reach out at [work@buhrmi.de](mailto:work@buhrmi.de).
+Looking for a Rails / Svelte developer? Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de).
 
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
