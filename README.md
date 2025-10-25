@@ -17,10 +17,6 @@ Thanks for visiting! This is buhrmi, a freelancing web developer specializing in
 - **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
   My very own open-source crypto investment club with integrated trading engine. You can follow its development on [Twitch](https://twitch.tv/buhrmidevelops).
 
-### Get in touch
-
-I'm reachable at [hello@buhrmi.de](mailto:hello@buhrmi.de).
-
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
