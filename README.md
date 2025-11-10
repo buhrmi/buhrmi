@@ -20,7 +20,7 @@ Thanks for visiting! This is buhrmi, a freelancing web developer specializing in
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
-## Old portfolio stuff
+## Recent professional work
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
