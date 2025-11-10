@@ -1,8 +1,10 @@
 ![PXL_20250421_102135504 PANO](https://github.com/user-attachments/assets/0cc78974-9fb4-48cf-9cec-f3341678b770)
 
+> ...and who are you to deny greatness? If you deny it to yourself, you deny it to the entire world.
+
 ## Hi there
 
-Thanks for visiting! This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte.
+I'm buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte.
 
 ### Open Source tools
 
