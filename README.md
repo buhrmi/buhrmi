@@ -24,7 +24,7 @@ Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) 
 
 ## Recent professional work
 
-The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
+The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my former employer) and their respective clients.
 
 ### 2023
 
