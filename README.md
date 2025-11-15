@@ -1,6 +1,6 @@
-![PXL_20250421_102135504 PANO](https://github.com/user-attachments/assets/0cc78974-9fb4-48cf-9cec-f3341678b770)
+![tothemoon](https://github.com/user-attachments/assets/4553e941-b38a-4a89-8c49-8fe363438f10)
 
-> ...and who are you to deny greatness? If you deny it to yourself, you deny it to the entire world.
+> Who are you to deny greatness? If you deny it to yourself, you deny it to the entire world.
 
 ## Hi there
 
