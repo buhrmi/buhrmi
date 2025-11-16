@@ -17,7 +17,7 @@ I'm buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte
 ### Current projects
 
 - **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  The open-source crypto investment platform created by and for the Shitcoin Society
+  The open-source crypto investment platform. By shitcoiners for shitcoiners.
 
 <!--
 Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
