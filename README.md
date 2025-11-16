@@ -41,4 +41,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my forme
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
-To get in touch, feel free to reach out [hello@buhrmi.de](mailto:hello@buhrmi.de).
+Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de) to get in touch.
