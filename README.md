@@ -4,7 +4,7 @@
 
 ## Hi there
 
-I'm buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte.
+I'm buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte. I enjoy working out in the open, so please come and say hi some day [on Twitch](https://twitch.tv/einbuhrmi).
 
 ### Open Source tools
 
