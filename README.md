@@ -4,7 +4,12 @@
 
 ## Hi there
 
-I'm buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte. I enjoy working out in the open, so please come and say hi some day [on Twitch](https://twitch.tv/einbuhrmi).
+This is buhrmi, a freelancing web developer who enjoys streaming [on Twitch](https://twitch.tv/einbuhrmi).
+
+### Current projects
+
+- **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
+  The open-source crypto investment platform. By shitcoiners for shitcoiners.
 
 ### Open Source tools
 
@@ -14,13 +19,6 @@ I'm buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
-### Current projects
-
-- **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  The open-source crypto investment platform. By shitcoiners for shitcoiners.
-
-<!--
-Here's a small demo app called [Shitcoin Swap](https://www.shitcoinsociety.com) - an open source alternative to Binance, Coinbase, etc. Currently in development. You can even become a shareholder by purchasing some [Revenue Share Tokens](https://www.shitcoinswap.com/$rst).-->
 
 ## Recent professional work
 
