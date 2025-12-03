@@ -4,12 +4,12 @@
 
 ## Hi there
 
-This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte. 
+This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte. Come join me on my [Twitch channel](https://twitch.tv/einbuhrmi) where you can find me working on the projects below.
 
 ### Current projects
 
 - **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  An open-source crypto investment platform. I'm doing irregular development streams [on Twitch](https://twitch.tv/einbuhrmi). Come say hi!
+  An open-source crypto investment platform. 
 
 ### Open Source tools
 
