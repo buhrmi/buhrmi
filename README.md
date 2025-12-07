@@ -4,7 +4,7 @@
 
 ## Hi there
 
-This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte. Come join me on my [Twitch channel](https://twitch.tv/einbuhrmi) where you can find me working on the projects below.
+This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte.
 
 ### Current projects
 
