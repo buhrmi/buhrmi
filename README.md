@@ -1,4 +1,4 @@
-<img width="1710" height="745" alt="image" src="https://github.com/user-attachments/assets/8e90f31e-2a9c-431c-8a5c-1474f86a5f30" />
+![My Khe Beach](https://github.com/user-attachments/assets/8e90f31e-2a9c-431c-8a5c-1474f86a5f30)
 
 
 > Who are you to deny greatness? If you deny it to yourself, you deny it to the entire world.
