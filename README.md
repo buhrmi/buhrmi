@@ -9,7 +9,7 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 
 ### Current projects
 
-- **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
+- **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
   My very own poop-branded brokerage platform. To the moon!
 
 ### Open Source tools
