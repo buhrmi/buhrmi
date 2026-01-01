@@ -20,7 +20,7 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
-
+<!--
 ## Recent professional work
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my former employer) and their respective clients.
@@ -39,5 +39,7 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my forme
 - [The Wellem Residences](https://www.thewellemresidences.com)
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
+
+-->
 
 Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de) to get in touch.
