@@ -20,6 +20,10 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
+### Fun facts
+
+- Favourite open-source contribution: https://github.com/shitcoinswap/platform/issues/27#issuecomment-3732335858
+
 <!--
 ## Recent professional work
 
