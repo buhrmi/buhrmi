@@ -1,7 +1,7 @@
 ![My Khe Beach](https://github.com/user-attachments/assets/8e90f31e-2a9c-431c-8a5c-1474f86a5f30)
 
 
-> Coconut is life
+> This is your sign to stop what you're doing, go get a coconut, and think about your next steps.
 
 ## Hi there
 
@@ -10,7 +10,7 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 ### Current projects
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  My very own poop-branded, open-source brokerage startup. To the moon!
+  My very own poop-branded startup, developing open-source brokerage tools, based in Da Nang, Vietnam.
 
 ### Open Source tools
 
