@@ -1,7 +1,7 @@
 ![My Khe Beach](https://github.com/user-attachments/assets/8e90f31e-2a9c-431c-8a5c-1474f86a5f30)
 
 
-> This is your sign to stop what you're doing, come get a coconut, and think about your next steps.
+> This is your sign to stop what you're doing and go get a coconut.
 
 ## Hi there
 
@@ -10,7 +10,7 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 ### Current projects
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  My very own poop-branded startup, developing open-source brokerage tools, based in Da Nang, Vietnam.
+  A startup based in Da Nang, Vietnam, developing open-source brokerage tools.
 
 ### Open Source tools
 
@@ -19,10 +19,6 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
-
-### Fun facts
-
-- Favourite open-source contribution: https://github.com/shitcoinswap/platform/issues/27#issuecomment-3732335858
 
 <!--
 ## Recent professional work
