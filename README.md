@@ -10,7 +10,7 @@ This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Sv
 ### Current projects
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  A software development startup based in Da Nang, Vietnam, developing open-source brokerage tools.
+  My very own open-source brokerage platform, incorporated in Da Nang, Vietnam. To the moon!
 
 ### Open Source tools
 
