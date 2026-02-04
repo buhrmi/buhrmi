@@ -5,20 +5,20 @@
 
 ## Hi there
 
-This is buhrmi, a freelancing web developer specializing in Ruby on Rails and Svelte.
+This is buhrmi, a freelancing software developer specializing in web and systems integration, mostly using Ruby on Rails and Svelte.
 
 ### Current projects
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  My very own open-source brokerage platform, incorporated in Da Nang, Vietnam. To the moon!
+  An open-source brokerage platform, designed to integrate with blockchains and third-party APIs.
 
 ### Open Source tools
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
-  ActiveState augments your ActionCable Channels with superpowers to update Svelte 5 state in real-time.
+  ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
-  Inertia X is a drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
+  A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
 <!--
 ## Recent professional work
