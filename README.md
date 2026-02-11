@@ -5,7 +5,7 @@
 
 ## Hi there
 
-This is buhrmi, a freelancing software developer specializing in web and systems integration, mostly using Ruby on Rails and Svelte.
+I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
 
 ### Current projects
 
@@ -20,8 +20,8 @@ This is buhrmi, a freelancing software developer specializing in web and systems
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
-<!--
-## Recent professional work
+
+## Recent works
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my former employer) and their respective clients.
 
@@ -40,6 +40,5 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my forme
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
--->
 
 Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de) to get in touch.
