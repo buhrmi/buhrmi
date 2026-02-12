@@ -23,6 +23,10 @@ I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
 
 ## Recent works
 
+Please [reach out](mailto:stefan@buhrmi.de) to get a list of recent works.
+
+## Older works
+
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my former employer) and their respective clients.
 
 ### 2023
@@ -40,5 +44,6 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my forme
 - [Remise Bonn](https://www.remise-bonn.de)
 - [Mbassy by Frank's](https://www.mbassybyfranks.com)
 
+## Get in touch
 
-Feel free to reach out at [hello@buhrmi.de](mailto:hello@buhrmi.de) to get in touch.
+Interested in working together? Get in touch at [stefan@buhrmi.de](mailto:stefan@buhrmi.de).
