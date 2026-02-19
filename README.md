@@ -10,7 +10,7 @@ I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
 ### Current projects
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  An open-source brokerage platform, designed to integrate with blockchains and third-party APIs.
+  Shitcoin Swap is an open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
 
 ### Open Source tools
 
