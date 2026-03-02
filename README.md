@@ -10,7 +10,7 @@ I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
 ### Current projects
 
 - **[Da Nang Bass Man](https://instagram.com/danangbassman)**<br>
-  The ultimate manifestation of my boredom
+  A project to bring Drum and Bass to the streets of Da Nang
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
   Shitcoin Swap is an open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
