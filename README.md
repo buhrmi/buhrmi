@@ -1,7 +1,6 @@
-![My Khe Beach](https://github.com/user-attachments/assets/8e90f31e-2a9c-431c-8a5c-1474f86a5f30)
+<img width="100%" alt="Tất cả những gì bạn muốn đều nằm ở phía bên kia của nỗi sợ hãi." src="https://github.com/user-attachments/assets/42390a64-dfae-4176-9867-a2d04b738456" />
 
-
-> This is your sign to stop what you're doing and go get a coconut.
+> Tất cả những gì bạn muốn đều nằm ở phía bên kia của nỗi sợ hãi.
 
 ## Hi there
 
