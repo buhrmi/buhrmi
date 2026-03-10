@@ -1,6 +1,7 @@
-<img width="100%" alt="Tất cả những gì bạn muốn đều nằm ở phía bên kia của nỗi sợ hãi." src="https://github.com/user-attachments/assets/42390a64-dfae-4176-9867-a2d04b738456" />
+<img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/c7d0dfdb-cec1-4a51-91a9-63b9976569ce" />
 
-> Tất cả những gì bạn muốn đều nằm ở phía bên kia của nỗi sợ hãi.
+
+> This is your sign to stop what you're doing and go get a coconut
 
 ## Hi there
 
@@ -12,7 +13,7 @@ I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
   A project to bring Drum and Bass to the streets of Da Nang
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  Shitcoin Swap is an open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
+  An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
 
 ### Open Source tools
 
