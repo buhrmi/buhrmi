@@ -10,7 +10,7 @@ I'm buhrmi, I'm running the world's greatest software development company right 
 ### Current projects
 
 - **[FanApp](https://github.com/buhrmi/fanapp#readme)**<br>
-  The ultimate talent recruitment and content monetization platform for global agencies
+  The ultimate streamer recruitment and content monetization platform for global agencies
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
   An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
