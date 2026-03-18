@@ -3,7 +3,7 @@
 
 > This is your sign to stop what you're doing and go get a coconut
 
-# Hi this is Stefan
+## Hi, call me Stefan
 
 I recently moved to Da Nang, Vietnam, where I'm currently bootstrapping the greatest software development company in the world. Just kidding, I work as a freelancing developer.
 
@@ -16,6 +16,9 @@ I recently moved to Da Nang, Vietnam, where I'm currently bootstrapping the grea
   An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
 
 ### Open Source tools
+
+- **[Paraglide Rails YAML plugin](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
+  A plugin for [Paraglide JS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) to use Rails localization in the frontend
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
