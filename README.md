@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm buhrmi, I'm running the world's greatest software development company right here from Da Nang, Vietnam.
+I'm buhrmi, I'm running the world's greatest software development company right here in Da Nang, Vietnam.
 
 ### Current projects
 
