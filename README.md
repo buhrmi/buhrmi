@@ -3,9 +3,7 @@
 
 > This is your sign to stop what you're doing and go get a coconut
 
-## Hi there
-
-I'm buhrmi, I'm running the world's greatest software development company right here in Da Nang, Vietnam.
+Hi I'm Stefan. Based in Da Nang, Vietnam, I'm currently bootstrapping the greatest software development company in the world.
 
 ### Current projects
 
