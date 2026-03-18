@@ -5,9 +5,9 @@
 
 ## Hi, call me Stefan
 
-I recently moved to Da Nang, Vietnam, where I'm currently bootstrapping the greatest software development company in the world. Just kidding, I work as a freelancing developer.
+I'm a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
 
-### Current projects
+### Personal projects
 
 - **[FanApp](https://github.com/buhrmi/fanapp#readme)**<br>
   The ultimate streamer recruitment and content monetization platform for global agencies
