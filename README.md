@@ -3,7 +3,7 @@
 
 > This is your sign to stop what you're doing and go get a coconut
 
-Hi I'm Stefan. Based in Da Nang, Vietnam, I'm currently bootstrapping the greatest software development company in the world.
+Hi I'm Stefan. I recently moved to Da Nang, Vietnam, where my plan is to bootstrap the greatest software development company in the world.
 
 ### Current projects
 
