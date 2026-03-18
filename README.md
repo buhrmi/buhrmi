@@ -17,7 +17,7 @@ I recently moved to Da Nang, Vietnam, where I'm currently bootstrapping the grea
 
 ### Open Source tools
 
-- **[Paraglide Rails YAML plugin](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
+- **[Paraglide-Rails](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
   A plugin for [Paraglide JS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) to use Rails localization in the frontend
 
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
