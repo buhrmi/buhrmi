@@ -9,8 +9,8 @@ I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
 
 ### Current projects
 
-- **[FanApp](https://github.com/buhrmi/fanapp)**<br>
-  The ultimate content monetization platform for a global audience
+- **[FanApp](https://github.com/buhrmi/fanapp#readme)**<br>
+  The ultimate streamer recruitmant and content monetization platform for global agencies
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
   An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
