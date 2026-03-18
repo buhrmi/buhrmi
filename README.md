@@ -9,8 +9,8 @@ I'm buhrmi, a freelancing web developer living in Da Nang, Vietnam.
 
 ### Current projects
 
-- **[Da Nang Bass Man](https://instagram.com/danangbassman)**<br>
-  A project to bring Drum and Bass to the streets of Da Nang
+- **[FanApp](https://github.com/buhrmi/fanapp)**<br>
+  The ultimate content monetization platform for a global audience
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
   An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
