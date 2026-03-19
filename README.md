@@ -9,8 +9,8 @@ I'm a freelancing web developer based in Da Nang, Vietnam, where I'm currently b
 
 ### Personal projects
 
-- **[FanApp](https://github.com/buhrmi/fanapp#readme)**<br>
-  The ultimate streamer recruitment and content monetization platform for global agencies
+- **[KeoFan](https://github.com/buhrmi/keofan#readme)**<br>
+  The ultimate content monetization platform for global agencies
 
 - **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
   An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
