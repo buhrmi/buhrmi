@@ -3,9 +3,9 @@
 
 > This is your sign to stop what you're doing and go get a coconut
 
-## Hi, call me Stefan
+## Hi there
 
-I'm a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
+I'm buhrmi, a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
 
 ### Personal projects
 
