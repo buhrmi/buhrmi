@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
+I'm a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's [greatest tech company](https://keo-platforms.netlify.app/).
 
 ### Open Source tools
 
