@@ -1,11 +1,6 @@
-<img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/c7d0dfdb-cec1-4a51-91a9-63b9976569ce" />
-
-
-> This is your sign to stop what you're doing and go get a coconut
-
 ## Hi there
 
-I'm buhrmi, a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
+I'm a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
 
 ### Open Source tools
 
