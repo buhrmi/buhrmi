@@ -7,14 +7,6 @@
 
 I'm buhrmi, a freelancing web developer based in Da Nang, Vietnam, where I'm currently bootstrapping the world's greatest software development company.
 
-### Personal projects
-
-- **[KeoFan](https://github.com/buhrmi/keofan#readme)**<br>
-  The ultimate content monetization platform for global agencies
-
-- **[Shitcoin Swap](https://github.com/shitcoinswap)**<br>
-  An open-source brokerage platform, capable of natively interacting with blockchains and traditional finance APIs.
-
 ### Open Source tools
 
 - **[Paraglide-Rails](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
