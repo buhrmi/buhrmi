@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm currently based in Da Nang, Vietnam where I enjoy making noise as [DaNangBassMan](https://instagram.com/danangbassman), while bootstrapping the world's [most awesome tech company](https://keo-platforms.netlify.app/).
+I'm a freelancing web developer, currently based in Da Nang, Vietnam, where I enjoy making noise as [DaNangBassMan](https://instagram.com/danangbassman), while bootstrapping the world's [most awesome tech company](https://keo-platforms.netlify.app/).
 
 ### Open Source tools
 
