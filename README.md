@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm a freelancing web developer, currently based in Da Nang, Vietnam, where I enjoy making noise as [DaNangBassMan](https://instagram.com/danangbassman), while bootstrapping the world's [most awesome tech company](https://github.com/keo-platforms).
+I'm a software developer from Germany, currently based in Da Nang, Vietnam, where my goal is to bootstrap the [world's most awesome tech company](https://github.com/keo-platforms). I also enjoy making noise as [DaNangBassMan](https://instagram.com/danangbassman).
 
 ### Open Source tools
 
