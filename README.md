@@ -1,6 +1,14 @@
 ## Hi there
 
-I'm a software developer from Germany, currently based in Da Nang, Vietnam, where my goal is to bootstrap the [world's most awesome tech company](https://github.com/keo-platforms). I also enjoy making noise as [DaNangBassMan](https://instagram.com/danangbassman).
+I'm a software developer from Germany, currently based in Da Nang, Vietnam.
+
+### Current projects
+
+- [Keo Platforms](https://github.com/keo-platforms)
+  A software development startup here in Da Nang, developing content monetization tools.
+
+- [DaNangBassMan](https://instagram.com/danangbassman)
+  Bringing Drum and Bass to the streets of Da Nang
 
 ### Open Source tools
 
