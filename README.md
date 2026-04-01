@@ -4,10 +4,10 @@ I'm a software developer from Germany, currently based in Da Nang, Vietnam.
 
 ### Current projects
 
-- [Keo Platforms](https://github.com/keo-platforms)
-  A software development startup here in Da Nang, developing content monetization tools.
+- [Keo Platforms](https://github.com/keo-platforms)<br>
+  A software development startup here in Da Nang, developing content monetization tools
 
-- [DaNangBassMan](https://instagram.com/danangbassman)
+- [DaNangBassMan](https://instagram.com/danangbassman)<br>
   Bringing Drum and Bass to the streets of Da Nang
 
 ### Open Source tools
