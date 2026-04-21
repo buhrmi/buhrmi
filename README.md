@@ -7,9 +7,6 @@ I'm a software developer from Germany, currently based in Da Nang, Vietnam.
 - [Keo Platforms](https://github.com/keo-platforms)<br>
   A humble little software development startup here in Da Nang, developing content monetization tools for global audiences
 
-- [DaNangBassMan](https://instagram.com/danangbassman)<br>
-  Bringing Drum and Bass to the streets of Da Nang
-
 ### Open Source tools
 
 - **[Paraglide-Rails](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
