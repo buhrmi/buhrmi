@@ -1,9 +1,9 @@
 <img width="2000" height="871" alt="image" src="https://github.com/user-attachments/assets/c283e98b-71a1-48e5-ba62-191c24d86774" />
 
 
-## Hi there
+## You've just stepped into the Keo Platforms Headquarters
 
-Welcome to the Keo Platforms Headquarters, my very humble software development startup in Da Nang, Vietnam.
+We are a tiny and humble software development startup in Da Nang, Vietnam.
 
 ### Current projects
 
