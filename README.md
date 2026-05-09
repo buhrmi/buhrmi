@@ -1,11 +1,14 @@
+<img width="2000" height="871" alt="image" src="https://github.com/user-attachments/assets/c283e98b-71a1-48e5-ba62-191c24d86774" />
+
+
 ## Hi there
 
-I'm a software developer from Germany, currently based in Da Nang, Vietnam.
+Welcome to the Keo Platforms Headquarters. We're developing open-source monetization tools for scouts, models, and talents.
 
 ### Current projects
 
-- [Keo Platforms](https://github.com/keo-platforms)<br>
-  A humble little software development startup here in Da Nang, developing content monetization tools for global audiences
+- [KeoScout](https://github.com/buhrmi/keoscout)<br>
+  A humble little content monetization tool made right here in Vietnam.
 
 ### Open Source tools
 
@@ -25,7 +28,7 @@ Please [reach out](mailto:stefan@buhrmi.de) to get a list of recent works.
 
 ## Older works
 
-The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) (my former employer) and their respective clients.
+The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
 ### 2023
 
