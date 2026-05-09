@@ -3,12 +3,12 @@
 
 ## Hi there
 
-Welcome to the Keo Platforms Headquarters. We're developing open-source monetization tools for scouts, models, and talents.
+Welcome to the Keo Platforms Headquarters, my very humble software development startup in Da Nang, Vietnam.
 
 ### Current projects
 
 - [KeoScout](https://github.com/buhrmi/keoscout)<br>
-  A humble little content monetization tool made right here in Vietnam.
+  A humble little talent scouting and content monetization platform.
 
 ### Open Source tools
 
