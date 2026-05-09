@@ -8,7 +8,7 @@ Welcome to the Keo Platforms Headquarters, my very humble software development s
 ### Current projects
 
 - [KeoScout](https://github.com/buhrmi/keoscout)<br>
-  A humble little talent scouting and content monetization platform.
+  An open-source talent scouting and content monetization platform.
 
 ### Open Source tools
 
