@@ -18,12 +18,7 @@ I'm buhrmi, a web developer based in Da Nang, Vietnam.
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
-
 ## Recent works
-
-Please [reach out](mailto:stefan@buhrmi.de) to get a list of recent works.
-
-## Older works
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
 
