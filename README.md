@@ -1,14 +1,11 @@
-<img width="2000" height="871" alt="image" src="https://github.com/user-attachments/assets/c283e98b-71a1-48e5-ba62-191c24d86774" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/16bc7b42-3513-4938-a526-cb8f54d3f3b8" />
 
 
-## You've just stepped into the Keo Platforms Headquarters
+> This is your sign to stop what you're doing and grab a coconut
 
-We are a tiny and humble software development startup in Da Nang, Vietnam.
+## Hi there
 
-### Current projects
-
-- [KeoScout](https://github.com/buhrmi/keoscout)<br>
-  An open-source talent scouting and content monetization platform.
+I'm buhrmi, a web developer based in Da Nang, Vietnam.
 
 ### Open Source tools
 
