@@ -5,13 +5,15 @@
 
 ## Hi there
 
-I'm buhrmi, a web developer based in Da Nang, Vietnam.
+I'm buhrmi, a software developer based in Da Nang, Vietnam.
+
+While I do enjoy dabbling with new projects and technologies, I do consider myself retired and focus on [bass-music related activities](https://instagram.com/danangbassman).
 
 ### Open Source tools
 
 - **[Paraglide-Rails](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
   A plugin for [Paraglide JS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) to use Rails localization in the frontend
-
+694135
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
