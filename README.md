@@ -5,9 +5,7 @@
 
 ## Hi there
 
-I'm buhrmi, a software developer based in Da Nang, Vietnam.
-
-While I do enjoy dabbling with new projects and technologies, I do consider myself retired and focus on [bass-music related activities](https://instagram.com/danangbassman).
+I'm buhrmi, a software developer based in Da Nang, Vietnam, currently busy running my very own software development startup and various [bass-music related shenanigans](https://instagram.com/danangbassman).
 
 ### Open Source tools
 
