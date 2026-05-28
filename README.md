@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm buhrmi, a software developer based in Da Nang, Vietnam, currently busy running my very own software development startup and various [bass-music related shenanigans](https://instagram.com/danangbassman).
+I'm buhrmi, a software developer based in Da Nang, Vietnam, working on my very own open-source [OnlyFans clone](https://github.com/buhrmi/keoscout) and [bass-music related shenanigans](https://instagram.com/danangbassman).
 
 ### Open Source tools
 
