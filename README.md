@@ -9,14 +9,12 @@ I'm buhrmi, a software developer based in Da Nang, Vietnam, spending my time wor
 
 ### Open Source tools
 
-- **[Paraglide-Rails](https://github.com/buhrmi/fanapp/tree/master/packages/inlang-plugin-rails-yaml)**<br>
-  A plugin for [Paraglide JS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) to use Rails localization in the frontend
-694135
+- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
+  A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
+
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
-- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
-  A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
 ## Recent works
 
