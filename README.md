@@ -5,9 +5,20 @@
 
 ## Hi there
 
-I'm buhrmi, a web developer based in Da Nang, Vietnam, working on [startup ideas](https://github.com/buhrmi/keoscout) and [bass-music related shenanigans](https://twitch.tv/danangbassman).
+I'm buhrmi, a web developer based in Da Nang, Vietnam.
 
-### Open Source tools
+Besides being busy with [bass-music related shenanigans](https://twitch.tv/danangbassman), you can find me working on various projects.
+
+### Current Projects
+
+- **[KeoScout](https://github.com/buhrmi/keoscout)**
+  A talent scouting and content monetization platform.
+
+- **[ShitcoinSwap](https://github.com/buhrmi/shitcoinswap)**
+  An open-source crypto trading platform.
+
+### Developer Tools
+
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
