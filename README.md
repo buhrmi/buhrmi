@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm buhrmi, a software developer based in Da Nang, Vietnam, working on [startup ideas](https://github.com/buhrmi/keoscout) and [bass-music related shenanigans](https://twitch.tv/danangbassman).
+I'm buhrmi, a web developer based in Da Nang, Vietnam, working on [startup ideas](https://github.com/buhrmi/keoscout) and [bass-music related shenanigans](https://twitch.tv/danangbassman).
 
 ### Open Source tools
 
