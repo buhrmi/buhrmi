@@ -1,13 +1,11 @@
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/16bc7b42-3513-4938-a526-cb8f54d3f3b8" />
 
 
-> This is your sign to stop what you're doing and grab a coconut
+> This is your sign to stop what you're doing and go grab a coconut
 
 ## Hi there
 
-I'm buhrmi, a web developer based in Da Nang, Vietnam.
-
-Besides being busy with [bass-music related shenanigans](https://twitch.tv/danangbassman), you can find me working on various projects.
+Welcome to my GitHub page. Since you're already here, please check out my [DJ alter ego](https://twitch.tv/danangbassman). Or maybe I can interest you in various delicious projects that I'm currently working on as part of my Vietnam-based startup **Keo Platforms LLC**.
 
 ### Current Projects
 
@@ -18,7 +16,6 @@ Besides being busy with [bass-music related shenanigans](https://twitch.tv/danan
   An open-source crypto trading platform.
 
 ### Open-Source Developer Tools
-
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
