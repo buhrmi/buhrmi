@@ -17,7 +17,7 @@ Besides being busy with [bass-music related shenanigans](https://twitch.tv/danan
 - **[ShitcoinSwap](https://github.com/buhrmi/shitcoinswap)**
   An open-source crypto trading platform.
 
-### Developer Tools
+### Open-Source Developer Tools
 
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
