@@ -5,7 +5,7 @@
 
 ## Hi there
 
-Welcome to my GitHub page. Since you're already here, please check out my [DJ alter ego](https://twitch.tv/danangbassman). Or maybe I can interest you in various delicious projects that I'm currently working on as part of my Vietnam-based startup **Keo Platforms LLC**.
+I'm buhrmi, welcome to my GitHub page. I'm a web developer based in Da Nang, Vietnam, working on my startup Keo Platforms LLC, and [bass-music related shenangans](https://twitch.tv/danangbassman).
 
 ### Current Projects
 
@@ -13,9 +13,9 @@ Welcome to my GitHub page. Since you're already here, please check out my [DJ al
   A talent scouting and content monetization platform.
 
 - **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**
-  The ultimate platform to capitalize on your delusions.
+  The perfect tool to capitalize on your delusions.
 
-### Open-Source Developer Tools
+### Open-Source Tools
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
