@@ -12,8 +12,8 @@ Welcome to my GitHub page. Since you're already here, please check out my [DJ al
 - **[KeoScout](https://github.com/buhrmi/keoscout)**
   A talent scouting and content monetization platform.
 
-- **[ShitcoinSwap](https://github.com/buhrmi/shitcoinswap)**
-  An open-source crypto trading platform.
+- **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**
+  The ultimate platform to capitalize on your delusions.
 
 ### Open-Source Developer Tools
 
