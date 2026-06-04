@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm buhrmi, welcome to my GitHub page. I'm a web developer based in Da Nang, Vietnam, working on my startup Keo Platforms LLC, and [bass-music related shenangans](https://twitch.tv/danangbassman).
+I'm a web developer from Germany, working on startup ideas and [bass-music related shenangans](https://twitch.tv/danangbassman).
 
 ### Current Projects
 
