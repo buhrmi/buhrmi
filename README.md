@@ -1,7 +1,7 @@
 <img width="1920" height="668" alt="avg2" src="https://github.com/user-attachments/assets/8d9971dd-19c9-4314-8219-5e0170f5b190" />
 
 
-> This is your sign to stop what you're doing and go subscribe to the [Bass Man](https://twitch.tv/danangbassman).
+> This is your sign to stop what you're doing and go subscribe to your neighbourhood [Bass Man](https://twitch.tv/danangbassman).
 
 ## Hi there
 
