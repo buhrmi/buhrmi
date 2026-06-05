@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, working on startup ideas and 
+I'm a web developer from Germany, hacking on startup ideas.
 
 ### Current Projects
 
@@ -13,7 +13,7 @@ I'm a web developer from Germany, working on startup ideas and
   A talent scouting and content monetization platform.
 
 - **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**
-  The perfect tool to capitalize on your delusions.
+  A tool to capitalize on other people's delusions.
 
 ### Open-Source Tools
 
