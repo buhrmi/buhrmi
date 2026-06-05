@@ -1,11 +1,11 @@
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/16bc7b42-3513-4938-a526-cb8f54d3f3b8" />
+<img width="1920" height="960" alt="avg" src="https://github.com/user-attachments/assets/63c31d7a-62b7-4217-bfb6-0581334ac34a" />
 
 
-> This is your sign to stop what you're doing and go grab a coconut
+> This is your sign to stop what you're doing and go subscribe to the [Bass Man](https://twitch.tv/danangbassman).
 
 ## Hi there
 
-I'm a web developer from Germany, working on startup ideas and [bass-music related shenangans](https://twitch.tv/danangbassman).
+I'm a web developer from Germany, working on startup ideas and 
 
 ### Current Projects
 
