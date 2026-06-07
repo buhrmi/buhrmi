@@ -10,10 +10,10 @@ I'm a web developer from Germany, hacking on startup ideas.
 ### Current Projects
 
 - **[Keo](https://github.com/buhrmi/keo)**
-  Open-source live streaming platform with built-in revenue sharing.
+  Open-source live streaming and content monetization platform with built-in revenue sharing.
 
 - **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**
-  A tool to capitalize on other people's delusions.
+  100% shitcoin trading
 
 ### Open-Source Tools
 
