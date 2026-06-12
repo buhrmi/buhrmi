@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, hacking on startup ideas.
+I'm a web developer from Germany, hacking on startup ideas and open source tooling.
 
 ### Current Projects
 
