@@ -20,6 +20,9 @@ I'm a web developer from Germany, hacking on startup ideas.
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
+- **[Inertia X UI](https://github.com/buhrmi/inertiax-ui)**<br>
+  A collection of Svelte components for Inertia X.
+
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
