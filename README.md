@@ -5,15 +5,15 @@
 
 ## Hi there
 
-I'm a web developer from Germany, hacking on startup ideas and open source tooling.
+I'm a web developer from Germany, hacking on open-source startup ideas and tooling.
 
-### Current Projects
+### Current Startups
 
-- **[Keo](https://github.com/buhrmi/keo)**
+- **[Keo Platforms](https://github.com/buhrmi/keo)**
   Open-source content monetization platform with built-in revenue sharing.
 
-- **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**
-  100% shitcoin trading
+- **[Shitcoin Society](https://github.com/buhrmi/shitcoinswap)**
+  An open-source trading and investment platform for degenerates
 
 ### Open-Source Tools
 
