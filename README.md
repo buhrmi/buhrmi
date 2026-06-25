@@ -7,13 +7,10 @@
 
 I'm a web developer from Germany, hacking on open-source startup ideas and tooling.
 
-### Current Startups
-
-- **[Keo Platforms](https://github.com/buhrmi/keo)**
-  Open-source content monetization platform with built-in revenue sharing.
+### Current Projects
 
 - **[Shitcoin Society](https://github.com/shitcoinsociety)**
-  Open-source trading and investment engine for degenerates
+  The initiative to create a modular, open-source trading engine with built-in revenue sharing
 
 ### Open-Source Tools
 
