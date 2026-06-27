@@ -9,8 +9,8 @@ I'm a web developer from Germany, hacking on open-source startup ideas and tooli
 
 ### Current Projects
 
-- **[Shitcoin Society](https://github.com/shitcoinsociety)**
-  The initiative to create a modular, open-source trading engine with built-in revenue sharing
+- **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
+  The initiative to create a modular, open-source trading engine with built-in revenue sharing.
 
 ### Open-Source Tools
 
