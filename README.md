@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, hacking on open-source startup ideas and tooling.
+I'm a Ruby on Rails & Svelte developer from Germany, hacking on open-source startup ideas and tooling.
 
 ### Current Projects
 
