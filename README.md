@@ -10,7 +10,10 @@ I'm a web developer from Germany, hacking on open-source startup ideas and tooli
 ### Current Projects
 
 - **[Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap)**<br>
-  A Bitcoin-denominated trading and investment engine, created by the Shitcoin Society.
+  The Shitcoin Society's very own open-source trading and investment engine.
+
+- **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
+  An open-source content monetization platform with built-in revenue sharing.
 
 ### Open-Source Tools
 
