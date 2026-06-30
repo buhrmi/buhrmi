@@ -16,7 +16,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, proficien
   An open-source content monetization platform with built-in revenue sharing.
 
 - **[Your project here]**<br>
-  I've got one slot open. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
+  This slot is empty. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
 
 ### Open-Source Tools
 
