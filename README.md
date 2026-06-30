@@ -15,6 +15,9 @@ I'm a web developer from Germany, hacking on open-source startup ideas and tooli
 - **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
   An open-source content monetization platform with built-in revenue sharing.
 
+- **[Your project here]**<br>
+  I've got one slot open. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
+
 ### Open-Source Tools
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
