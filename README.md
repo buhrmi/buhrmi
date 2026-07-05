@@ -5,7 +5,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Da Nang, Vietnam, proficient in Ruby on Rails and Svelte.
+I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing myself to be proficient in Ruby on Rails and Svelte.
 
 ### Current Projects
 
