@@ -10,7 +10,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 ### Current Projects
 
 - **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
-  My very own investment and financial advisory group.
+  My very own platform to manage investments and digital assets.
 
 - **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
   An open-source content monetization platform with built-in revenue sharing.
