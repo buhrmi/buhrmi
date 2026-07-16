@@ -29,7 +29,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 - **[ActiveState](https://github.com/buhrmi/activestate)**<br>
   ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
 
-
+<!--
 ## Recent works
 
 The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their respective clients.
@@ -52,3 +52,4 @@ The projects below are all copyrighted by [CDMN GmbH](https://cdmn.de) and their
 ## Get in touch
 
 Interested in working together? Get in touch at [stefan@buhrmi.de](mailto:stefan@buhrmi.de).
+-->
