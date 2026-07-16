@@ -13,7 +13,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
   The platform for a new generation of digital assets that nobody asked for.
 
 - **[Follow the Bass](https://instagram.com/followthebass.dn)**<br>
-  Independent Bass Music Festival in Da Nang
+  My own little music festival here in Da Nang featuring me.
 
 - **[Your project here]**<br>
   This slot is empty. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
