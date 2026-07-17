@@ -12,7 +12,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 - **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
   The platform for a new generation of digital assets that nobody asked for.
 
-- **[Da Nang Bass Man](https://instagram.com/danangbassman)**<br>
+- **[Da Nang Bass Man](https://twitch.tv/danangbassman)**<br>
   Drum and Bass events in Da Nang that also nobody asked for.
 
 - **[Your project here]**<br>
