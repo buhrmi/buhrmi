@@ -10,10 +10,10 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 ### Current Projects
 
 - **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
-  A platform for a new generation of digital assets that nobody asked for.
+  The platform for a new generation of digital assets that nobody asked for.
 
-- **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
-  An open-source content monetization platform with built-in revenue sharing.
+- **[Da Nang Bass Man](https://instagram.com/danangbassman)**<br>
+  Drum and Bass events in Da Nang that also nobody asked for.
 
 - **[Your project here]**<br>
   This slot is empty. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
