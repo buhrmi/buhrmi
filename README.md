@@ -11,8 +11,8 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 - **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
   The platform for a new generation of digital assets that nobody asked for.
 
-- **[Follow The Bass](https://twitch.tv/followthebass)**<br>
-  My small contribution to rave culture, mostly drum and bass.
+- **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
+  An open-source content monetization platform with built-in revenue sharing.
 
 - **[Your project here]**<br>
   This slot is empty. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
