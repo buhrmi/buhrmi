@@ -8,14 +8,14 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 
 ### Current Projects
 
-- **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
+- 🚀 **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
   The platform for a new generation of digital assets that nobody asked for.
 
-- **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
+- 🍑 **[KeoScout](https://github.com/buhrmi/keoscout)**<br>
   The world's first crypto-native ass shaking monetization platform with built-in revenue sharing.
 
-- **[Your project here]**<br>
-  This slot is empty. [Reach out](mailto:letsdosomethingcool@buhrmi.de) if you'd like to work together.
+- ＋ **[Your project here]**<br>
+  Want a developer for your startup? [Reach out](mailto:hello@buhrmi.de) to see your project here.
 
 ### Open-Source Tools
 
