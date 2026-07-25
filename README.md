@@ -25,8 +25,8 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 - **[Inertia X UI](https://github.com/buhrmi/inertiax-ui)**<br>
   A collection of Svelte components for Inertia X.
 
-- **[ActiveState](https://github.com/buhrmi/activestate)**<br>
-  ActiveState augments ActionCable Channels with superpowers to update Svelte 5 state in real-time.
+- **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
+  DexieCable mirrors the Dexie.js API in ActionCable so you can push database mutations to the client in real time.
 
 <!--
 ## Recent works
