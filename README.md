@@ -19,14 +19,16 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 
 ### Open-Source Tools
 
+- 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
+  DexieCable mirrors the Dexie.js API in ActionCable so you can push database mutations to the client in real time.
+
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
 - **[Inertia X UI](https://github.com/buhrmi/inertiax-ui)**<br>
   A collection of Svelte components for Inertia X.
 
-- **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
-  DexieCable mirrors the Dexie.js API in ActionCable so you can push database mutations to the client in real time.
+
 
 <!--
 ## Recent works
