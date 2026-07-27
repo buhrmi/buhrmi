@@ -15,7 +15,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
   Talent monetization platform with built-in revenue sharing.
 
 - ＋ **[Your project here]**<br>
-  Want a developer for your startup? [Reach out](mailto:hello@buhrmi.de) to see your project here.
+  Looking for a developer? [Hire buhrmi](mailto:hire@buhrmi.de) and see your project here.
 
 ### Open-Source Tools
 
