@@ -11,7 +11,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 - 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
   A platform for a new generation of digital assets that nobody asked for.
 
-- 🍑 **[KeoScout](https://keoscout.up.railway.app)**<br>
+- 🍑 **[Keo](https://keo.up.railway.app)**<br>
   Talent monetization platform with built-in revenue sharing.
 
 - ＋ **[Your project here]**<br>
