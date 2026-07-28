@@ -8,11 +8,11 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing
 
 ### Current Projects
 
-- 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
-  A platform for a new generation of digital assets that nobody asked for.
-
 - 🍑 **[Keo](https://keo.up.railway.app)**<br>
   Talent monetization platform with built-in revenue sharing.
+
+- 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
+  A platform for a new generation of digital assets that nobody asked for.
 
 - ＋ **[Your project here]**<br>
   Looking for a developer? [Hire buhrmi](mailto:hire@buhrmi.de) and see your project here.
