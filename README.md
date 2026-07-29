@@ -7,12 +7,12 @@
 I'm a web developer from Germany, currently based in Da Nang, Vietnam, believing myself to be proficient in Ruby on Rails and Svelte.
 
 ### Current Projects
-
-- 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
-  A platform for a new generation of digital assets that nobody asked for.
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  Talent monetization platform with built-in revenue sharing.
+  The ultimate talent monetization platform with built-in revenue sharing.
+
+- 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
+  A new generation of digital assets that nobody asked for.
 
 - ＋ **[Your project here]**<br>
   Looking for a developer? [Hire buhrmi](mailto:hire@buhrmi.de) and see your project here.
