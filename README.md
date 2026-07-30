@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Da Nang, Vietnam, working on passion projects and putting on [drum and bass events](https://twitch.tv/followthebass).
+I'm a web developer from Germany, currently based in Da Nang, Vietnam, working on passion projects and [drum and bass events](https://twitch.tv/followthebass).
 
 ### Current Projects
   
