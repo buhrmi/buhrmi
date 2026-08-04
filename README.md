@@ -16,9 +16,6 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, working o
 - 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
   A new generation of digital assets that nobody asked for.
 
-- ＋ **[Your project here]**<br>
-  Looking for a developer? [Hire buhrmi](mailto:hire@buhrmi.de) and see your project here.
-
 ### Open-Source Tools
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
