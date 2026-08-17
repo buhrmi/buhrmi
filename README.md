@@ -13,10 +13,12 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, working o
 - 🍑 **[Keo](https://keo.me)**<br>
   A new kind of content monetization platform with built-in revenue sharing.
 
-- 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
-  Introducing a new generation of digital assets that nobody asked for.
+- 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
+  Trading platform for a new generation of digital assets that nobody asked for.
 
 ### Open-Source Tools
+
+These tools are all being used in production by the above projects. They've proven useful to me, so I'm open sourcing them here.
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
