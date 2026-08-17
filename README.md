@@ -11,15 +11,15 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, working o
 ### Current Projects
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  The ultimate ass-shaking monetization platform with built-in revenue sharing.
+  A new kind of content monetization platform with built-in revenue sharing.
 
 - 🚀 **[Shitcoin Society](https://www.shitcoinsociety.com)**<br>
-  A new generation of digital assets that nobody asked for.
+  Introducing a new generation of digital assets that nobody asked for.
 
 ### Open-Source Tools
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
-  DexieCable mirrors the Dexie.js API in ActionCable so you can push database mutations to the client in real time. [Read announcement](https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge).
+  Real-time data streaming library for Ruby on Rails and Dexie.
 
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
