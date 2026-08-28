@@ -11,7 +11,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, working o
 ### Current Projects
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  A new kind of content monetization platform with built-in revenue sharing.
+  A new creator economy powered by blockchain technology.
 
 - 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
   Trading platform for a new generation of digital assets that nobody asked for.
