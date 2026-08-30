@@ -6,9 +6,9 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Da Nang, Vietnam, working on startups and [drum and bass events](https://twitch.tv/followthebass).
+I'm a web developer from Germany, currently based in Da Nang, Vietnam, working on startup ideas and [drum and bass events](https://twitch.tv/followthebass).
 
-### Current Startups
+### My Startups
   
 - 🍑 **[Keo Platforms](https://keo.me)**<br>
   Developing a new kind of blockchain for a new kind of platform.
