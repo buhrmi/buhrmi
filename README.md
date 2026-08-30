@@ -11,7 +11,7 @@ I'm a web developer from Germany, currently based in Da Nang, Vietnam, working o
 ### My Startups
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  Developing a new kind of blockchain for a new kind of platform.
+  A new kind of blockchain for a new kind of platform.
 
 - 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
   Trading platform for a new generation of digital assets that nobody asked for.
