@@ -1,14 +1,14 @@
 <img width="1280" height="558" alt="coconut" src="https://github.com/user-attachments/assets/ccc1a989-7e1a-45cd-833e-40eb03edce35" />
 
 
-> This is your sign to stop what you're doing and go grab a coconut.
+> This is your sign to stop what you're doing, go to Vietnam, and grab a coconut.
 
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Da Nang, Vietnam, working on startup ideas and [drum and bass events](https://twitch.tv/followthebass).
+I'm a web developer from Germany, working on startup ideas and [drum and bass events](https://twitch.tv/followthebass).
 
-### My Startups
+### Startups ideas
   
 - 🍑 **[Keo](https://keo.me)**<br>
   A new kind of blockchain for a new kind of platform.
