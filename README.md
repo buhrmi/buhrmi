@@ -11,7 +11,7 @@ I'm a web developer from Germany, working on startup ideas and [drum and bass ev
 ### Startups ideas
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  A new kind of blockchain for a new kind of platform.
+  A proof-of-stake blockchain platform built for the new creator economy.
 
 - 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
   Trading platform for a new generation of digital assets that nobody asked for.
