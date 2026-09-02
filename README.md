@@ -8,13 +8,18 @@
 
 I'm a web developer from Germany, working on startup ideas and [drum and bass events](https://twitch.tv/followthebass).
 
-### Startups ideas
+### Current projects
   
 - 🍑 **[Keo](https://keo.me)**<br>
   A proof-of-stake blockchain platform built for the new creator economy.
 
+- 🤘 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
+  Our very own independent drum and bass event in Da Nang, Vietnam
+
+### Abandoned ideas
+
 - 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  Trading platform for a new generation of digital assets that nobody asked for.
+  Trading platform for a new generation of digital assets that nobody asked for (merged into [Keo](https://keo.me)).
 
 ### Open-Source Tools
 
