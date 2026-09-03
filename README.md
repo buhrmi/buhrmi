@@ -19,7 +19,7 @@ I'm a web developer from Germany, working on startup ideas and [drum and bass ev
 ### Abandoned ideas
 
 - 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  Trading platform for a new generation of digital assets that nobody asked for (merged into [Keo](https://keo.me)).
+  Trading platform for a new generation of digital assets that nobody asked for (merged into Keo - [see announcement](https://keo.me/posts/1)).
 
 ### Open-Source Tools
 
