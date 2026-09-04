@@ -11,7 +11,7 @@ I'm a web developer from Germany, working on startup ideas and [drum and bass ev
 ### Current projects
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  A proof-of-stake blockchain platform built for the new creator economy.
+  A proof-of-stake blockchain platform built for the butt-shaking economy.
 
 - 🤘 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
   Our very own independent drum and bass event in Da Nang, Vietnam
