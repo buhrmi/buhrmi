@@ -1,7 +1,7 @@
 <img width="1280" height="558" alt="coconut" src="https://github.com/user-attachments/assets/ccc1a989-7e1a-45cd-833e-40eb03edce35" />
 
 
-> This is your sign to stop what you're doing, go to Vietnam, and grab a coconut.
+> This is your sign to stop what you're doing, come to Vietnam, and grab a coconut.
 
 
 ## Hi there
