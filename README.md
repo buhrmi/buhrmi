@@ -8,6 +8,12 @@
 
 I'm a web developer from Germany, working on startup ideas and [drum and bass events](https://twitch.tv/followthebass).
 
+### News I find important
+
+#### August 2026
+
+- [Sunsetting Shitcoin Swap, announcing Keo](https://keo.me/posts/1)
+
 ### Current projects
   
 - 🍑 **[Keo](https://keo.me)**<br>
