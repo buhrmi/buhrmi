@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany working on a butt-shaking monetization startup.
+I'm a web developer from Germany working on startup ideas and [drum and bass event](https://twitch.tv/followthebass).
 
 ### News I find important
 
