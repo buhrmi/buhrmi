@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, working on startup ideas and [drum and bass events](https://twitch.tv/followthebass).
+I'm a web developer from Germany working on a butt-shaking monetization startup.
 
 ### News I find important
 
@@ -17,10 +17,10 @@ I'm a web developer from Germany, working on startup ideas and [drum and bass ev
 ### Current projects
   
 - 🍑 **[Keo](https://keo.me)**<br>
-  A proof-of-stake blockchain platform built for the butt-shaking economy.
+  Blockchain-powered butt-shaking monetization platform.
 
 - 🤘 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
-  Our very own independent drum and bass event in Da Nang, Vietnam
+  Independent drum and bass events in Da Nang
 
 ### Abandoned ideas
 
