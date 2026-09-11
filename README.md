@@ -11,7 +11,7 @@ I'm a web developer from Germany working on startup ideas and [drum and bass eve
 
 ### Current projects
   
-- 🍑 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
+- 🚀 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
   The world's premier crypto short-selling platform
 
 - 🤘 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
