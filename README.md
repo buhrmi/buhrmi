@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany working on startup ideas and [drum and bass event](https://twitch.tv/followthebass).
+I'm a web developer from Germany working on passion projects and [drum and bass events](https://twitch.tv/followthebass).
 
 
 ### Current projects
