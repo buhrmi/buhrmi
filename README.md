@@ -12,7 +12,7 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 ### Current projects
   
 - 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  The world's premier crypto short-selling platform
+  The world's first Bitcoin-denominated short-selling platform
 
 - 🤘 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
   Independent drum and bass events in Da Nang
