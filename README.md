@@ -11,15 +11,12 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 
 ### Current projects
   
-- 💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  The best place to short ~fraudulent crypto assets~ your favourite shitcoin
-
-- 🤘 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
-  Independent drum and bass events in Da Nang
+- 💩 **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**<br>
+  Open-source crypto trading platform
 
 ### Open-Source Tools
 
-These tools are all being used in production by the above projects. They've proven useful to me, so I'm open sourcing them here.
+These tools are being used in production by the above projects. They've proven useful, so I'm open sourcing them here.
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
