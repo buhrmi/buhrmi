@@ -12,7 +12,7 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 ### Current projects
   
 - 🚀 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  A [publicly auditable](https://github.com/buhrmi/shitcoinswap) shorting platform. The best place to bet against your mom's crypto project.
+  A publicly auditable trading platform for the modern degenerate.
 
 ### Open-Source Tools
 
