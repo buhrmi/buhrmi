@@ -11,8 +11,8 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 
 ### Current projects
   
-- 🚀 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  A publicly auditable trading platform for the modern degenerate.
+- 🚀 **[Shitcoin Swap](https://github.com/buhrmi/shitcoinswap)**<br>
+  Financial services for the modern degenerate
 
 ### Open-Source Tools
 
