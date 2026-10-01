@@ -24,9 +24,6 @@ These tools are being used in production by the above projects. They've proven u
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
-- **[Inertia X UI](https://github.com/buhrmi/inertiax-ui)**<br>
-  A collection of Svelte components for Inertia X.
-
 
 
 <!--
