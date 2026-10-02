@@ -12,7 +12,10 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 ### Current projects
   
 - 🌈💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  Crypto trading for the modern degenerate
+  Trading platform for the modern degenerate
+
+- 🙈🙉🙊 **[More Polite Music](https://soundcloud.com/morepolite)**<br>
+  Drum and bass artist moniker focusing on polite music
 
 ### Open-Source Tools
 
