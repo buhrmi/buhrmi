@@ -14,7 +14,7 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 - 🌈💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
   Trading platform for the modern degenerate
 
--  **[Follow The Bass](https://twitch.tv/followthebass)**<br>
+- 🔊🔊 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
   Independent drum and bass event brand based in Da Nang, Vietnam
 
 ### Open-Source Tools
