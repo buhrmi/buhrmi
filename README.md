@@ -14,8 +14,8 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 - 🌈💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
   Trading platform for the modern degenerate
 
-- 🙈🙉🙊 **[More Polite Music](https://soundcloud.com/morepolite)**<br>
-  Drum and bass artist moniker focusing on polite music
+-  **[Follow The Bass](https://twitch.tv/followthebass)**<br>
+  Independent drum and bass event brand based in Da Nang, Vietnam
 
 ### Open-Source Tools
 
