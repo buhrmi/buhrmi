@@ -12,7 +12,7 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
 ### Current projects
   
 - 🌈💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  Trading platform for the modern degenerate
+  Open-source brokerage tools for the modern degenerate
 
 - 🔊🔊 **[Follow The Bass](https://twitch.tv/followthebass)**<br>
   Independent drum and bass event brand based in Da Nang, Vietnam
