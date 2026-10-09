@@ -27,6 +27,9 @@ These tools are being used in production by the above projects. They've proven u
 - **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
+- **[Inertia X View Stack](https://github.com/buhrmi/inertiax-viewstack)**<br>
+  The supplementary modal library for Inertia X. Easily create native-feeling mobile multi-modal page stacks with Inertia X.
+
 
 
 <!--
