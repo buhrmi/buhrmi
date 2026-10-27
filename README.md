@@ -15,7 +15,7 @@ I'm a web developer from Germany working on passion projects and [drum and bass 
   Open-source brokerage tools for the modern degenerate
 
 - 🔊🔊 **[Follow The Bass](https://followthebass.asia)**<br>
-  Artist visa and venue communication support for Japan and Vietnam
+  Bass music promotion in Tokyo and beyond. Since 2014.
 
 ### Open-Source Tools
 
