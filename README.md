@@ -12,10 +12,10 @@ I'm a web developer from Germany working on passion projects and [bass music eve
 ### Current projects
   
 - 🌈💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  Open-source brokerage tools for the modern degenerate
+  Brokerage platform for the modern degenerate
 
-- 🔊🔊 **[Follow The Bass](https://followthebass.asia)**<br>
-  Bass music promotion in Tokyo and beyond. Since 2014.
+- 🔊🔊 **[FTB - Follow The Bass](https://ftb.asia)**<br>
+  Bass music promotion in Tokyo and beyond since 2014.
 
 ### Open-Source Tools
 
