@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany working on passion projects and [bass music events](https://followthebass.asia).
+I'm a web developer from Germany working on passion projects and [bass music events](https://ftb.asia).
 
 
 ### Current projects
