@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Vietnam, figuring out a way how to apply web development skills to [bass music promotion](https://ftbasia.com).
+I'm a web developer from Germany, currently based in Vietnam, trying to figuring out a way how to apply web development to [bass music promotion](https://ftbasia.com) (no, I don't know how to make money with this).
 
 Here are some open source shenanigans that I'm a bit proud of.
 
