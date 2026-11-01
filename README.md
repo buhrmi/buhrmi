@@ -6,20 +6,9 @@
 
 ## Hi there
 
-I'm a web developer from Germany working on passion projects and [bass music events](https://ftb.asia).
+I'm a web developer from Germany, currently based in Vietnam, figuring out a way how to apply web development skills to [bass music promotion](https://ftbasia.com).
 
-
-### Current projects
-  
-- 🌈💩 **[Shitcoin Swap](https://www.shitcoinswap.com)**<br>
-  Brokerage platform for the modern degenerate
-
-- 🔊🔊 **[FTB - Follow The Bass](https://ftb.asia)**<br>
-  Bass music promotion in Tokyo and beyond since 2014.
-
-### Open-Source Tools
-
-These tools are being used in production by the above projects. They've proven useful, so I'm open sourcing them here.
+Here are some open source shenanigans that I'm a bit proud of.
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
