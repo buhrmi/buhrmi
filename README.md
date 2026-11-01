@@ -6,9 +6,13 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Vietnam, trying to figuring out a way how to apply web development to [bass music promotion](https://ftbasia.com) (no, I don't know how to make money with this).
+I'm a web developer from Germany, based in Da Nang, Vietnam.
 
-Here are some open source shenanigans that I'm a bit proud of.
+### Current projects
+
+*Once I start working on something again, it will be listed here*
+
+### Open-source tools
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
