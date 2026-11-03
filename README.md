@@ -8,10 +8,6 @@
 
 I'm a web developer from Germany, based in Da Nang, Vietnam.
 
-### Current projects
-
-*Once I start working on something again, it will be listed here*
-
 ### Open-source tools
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
