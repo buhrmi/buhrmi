@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, specializing in Svelte and Ruby on Rails. After almost 10 years in Tokyo, I've now settled down in Da Nang, Vietnam, working on [passion projects](https://ftb.asia).
+I'm a web developer from Germany, specializing in Svelte and Ruby on Rails. Currently based in Da Nang, working on [passion projects](https://ftb.asia).
 
 ### Open-source tools
 
