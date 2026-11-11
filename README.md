@@ -10,7 +10,7 @@ I'm a web developer from Germany, specializing in Svelte and Ruby on Rails. Curr
 
 ### Open-source tools
 
-I've made these to use in some projects I've been working on. None of them are currently active anymore, but the tools are still here. Might use them again for a future project.
+Here you can find some tools I made to aid me in web app development. Personally I think they're useful, so I'm open-sourcing them here.
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
