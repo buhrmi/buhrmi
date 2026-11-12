@@ -15,7 +15,7 @@ I'm a web developer from Germany, currently based in Da Nang, specializing in Sv
 
 ### Open-source tools
 
-Here you can find some tools I made to aid me in web app development. Personally I think they're useful, so I'm open-sourcing them here.
+These tools have proven themselves useful, so I'm open-sourcing them here.
 
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
