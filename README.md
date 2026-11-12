@@ -20,7 +20,7 @@ These tools have proven themselves useful, so I'm open-sourcing them here.
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
   Real-time data streaming library for Ruby on Rails and Dexie.
 
-- **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
+- ⭐️ **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
 
 
