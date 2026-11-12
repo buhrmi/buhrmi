@@ -6,7 +6,12 @@
 
 ## Hi there
 
-I'm a web developer from Germany, specializing in Svelte and Ruby on Rails. Currently based in Da Nang, pursuing [drum and bass-related shenanigans](https://twitch.tv/followthebass).
+I'm a web developer from Germany, currently based in Da Nang, specializing in Svelte and Ruby on Rails. 
+
+### Current projects
+
+- 🚀[Shitcoin Society](https://www.shitcoinsociety.com) - The world's first blockchain-native MLM system
+- 🤘[Follow The Bass](https://twitch.tv/followthebass) - Independent drum and bass on My Khe beach 
 
 ### Open-source tools
 
