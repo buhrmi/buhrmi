@@ -11,7 +11,7 @@ I'm a web developer from Germany, currently based in Da Nang, specializing in Sv
 ### Current projects
 
 - 🚀 [Shitcoin Society](https://www.shitcoinsociety.com) - An open-source, crypto-native MLM platform for modern degenerates
-- 🤘 [Follow The Bass](https://twitch.tv/followthebass) - Independent drum and bass events 
+- 🤘 [Follow The Bass](https://ftb.asia) - Bass music event coverage in Tokyo and beyond 
 
 ### Open-source tools
 
