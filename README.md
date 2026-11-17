@@ -10,7 +10,7 @@ I'm a web developer from Germany, currently based in Da Nang, specializing in Sv
 
 ### Current projects
 
-- 🤘 **[Shitcoin Society](https://github.com/shitcoinsociety)** - An attempt to launch my very own crypto-currency. To the moon 😁
+- 🤘 **[Shitcoin Society](https://github.com/shitcoinsociety)** - Creators of very peculiar poop-branded investment software.
 
 ### Open-source tools
 
