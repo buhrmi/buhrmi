@@ -6,11 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Da Nang, specializing in Svelte and Ruby on Rails. 
-
-### Current projects
-
-- 🤘 **[Shitcoin Society](https://github.com/shitcoinsociety)** - Creators of very peculiar poop-branded investment software.
+I'm a web developer from Germany, currently working on the **[Shitcoin Society](https://github.com/shitcoinsociety)**, an attempt to build my very own poop-branded crypto-currency and investment software.
 
 ### Open-source tools
 
