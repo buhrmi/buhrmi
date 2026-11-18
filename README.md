@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently working on the **[Shitcoin Society](https://github.com/shitcoinsociety)**, an attempt to build my very own poop-branded crypto-currency and investment software.
+I'm a web developer from Germany, currently working on the **[Shitcoin Society](https://github.com/shitcoinsociety)**, an attempt to build my very own poop-branded investment platform (all open source).
 
 ### Open-source tools
 
