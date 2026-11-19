@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently working on the **[Shitcoin Society](https://github.com/shitcoinsociety)**, an attempt to build my very own poop-branded blockchain and investment platform (all open source of course). You should join, we have coconuts and drum n bass.
+I'm a software developer from Germany who enjoys experimenting with **[blockchain technology](https://github.com/shitcoinsociety)** and [drum and bass](https://twitch.tv/stefanlikesdnb).
 
 ### Open-source tools
 
