@@ -6,17 +6,17 @@
 
 ## Hi there
 
-I'm a software developer from Germany who enjoys experimenting with **[blockchain technology](https://github.com/shitcoinsociety)** and **[drum and bass](https://twitch.tv/stefanlikesdnb)**.
+I'm a software developer from Germany, spending my time working on the **[Shitcoin Society](https://github.com/shitcoinsociety)** and **[drum and bass](https://twitch.tv/stefanlikesdnb)**.
 
 ### Open-source tools
 
-These tools have proven themselves useful, so I'm open-sourcing them here.
-
-- 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
-  Real-time data streaming library for Ruby on Rails and Dexie.
+I've made these tools mostly for myself to use in my projects, but I think they can be useful for others, so I'm open sourcing them here.
 
 - ⭐️ **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
+  
+- 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
+  Real-time data streaming library for Ruby on Rails and Dexie.
 
 
 
