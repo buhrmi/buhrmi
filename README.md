@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a software developer from Germany, spending my time working on **[blockchain-related shenanigans](https://github.com/shitcoinsociety)** and **[unbothered bass music events](https://twitch.tv/stefanlikesdnb)** in Vietnam.
+I'm a software developer from Germany, spending my time on **[drum and bass-related shenanigans](https://ftb.asia/artists/stefan)** and **[financial degeneracy](https://github.com/shitcoinsociety)**.
 
 ### Open-source tools
 
