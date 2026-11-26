@@ -3,12 +3,9 @@
 
 > This is your sign to stop what you're doing, go to Vietnam, and grab a coconut.
 
+# Hi there
 
-## Hi there
-
-I'm a full stack developer from Germany specializing in Svelte and Ruby on Rails.
-
-Work ✉️: [stefan@buhrmi.de](mailto:stefan@buhrmi.de)
+I'm a web developer from Germany, specializing in Svelte and Ruby on Rails.
 
 ### Open source tools
 
