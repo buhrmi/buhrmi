@@ -6,16 +6,13 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently living in Da Nang, Vietnam, working on startup ideas and passion projects.
+I'm a full stack developer from Germany specializing in Svelte and Ruby on Rails.
 
-### Startup ideas
-
-- 🚀 **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
-  An open-source crypto investment platform with built-in trading engine
+Work ✉️: [stefan@buhrmi.de](mailto:stefan@buhrmi.de)
 
 ### Open source tools
 
-Here are a bunch of open source tools that I'm using in my project ideas. They might be useful for others, so I'm open sourcing them here. Have fun!
+Here are a bunch of open source tools that I'm using in my project. They might be useful for others, so I'm open sourcing them here. Have fun!
 
 - ⭐️ **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
