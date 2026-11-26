@@ -6,7 +6,12 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently living in Da Nang, Vietnam, working on secret passion projects.
+I'm a web developer from Germany, currently living in Da Nang, Vietnam, working on startup ideas and passion projects.
+
+### Startup ideas
+
+- 🚀 **[Shitcoin Society](https://github.com/shitcoinsociety)**<br>
+  An open-source crypto investment platform with built-in trading engine
 
 ### Open source tools
 
