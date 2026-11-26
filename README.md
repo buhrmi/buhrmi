@@ -6,11 +6,11 @@
 
 ## Hi there
 
-I'm a web developer from Germany, currently based in Da Nang, Vietnam.
+I'm a full stack developer from Germany, currently based in Da Nang, Vietnam, working on passion projects.
 
-### Open-source tools
+### Open source tools
 
-I've made these tools to help me with my own project ideas, but I think they can be useful for others, so I'm open sourcing them here.
+Here are a bunch of open source tools that I'm using in my project ideas. They might be useful for others, so I'm open sourcing them here. Have fun!
 
 - ⭐️ **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
