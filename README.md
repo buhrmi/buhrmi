@@ -6,7 +6,7 @@
 
 ## Hi there
 
-I'm a full stack developer from Germany, currently based in Da Nang, Vietnam, working on passion projects.
+I'm a web developer from Germany, currently living in Da Nang, Vietnam, working on secret passion projects.
 
 ### Open source tools
 
