@@ -6,17 +6,17 @@
 
 ## Hi there
 
-I'm a software developer from Germany, spending my time on **[drum and bass-related shenanigans](https://ftb.asia/artists/stefan)** and **[financial degeneracy](https://github.com/shitcoinsociety)**.
+I'm a web developer from Germany, currently based in Da Nang, Vietnam.
 
 ### Open-source tools
 
-I've made these tools mostly for myself to use in my projects, but I think they can be useful for others, so I'm open sourcing them here.
+I've made these tools to help me with my own project ideas, but I think they can be useful for others, so I'm open sourcing them here.
 
 - ⭐️ **[Inertia X](https://github.com/buhrmi/inertiax)**<br>
   A drop-in replacement for Inertia's Svelte adapter, adding the `<Frame>` component. It makes it easy to create modals, sidebars, etc with Inertia.
   
 - 🔥 **[DexieCable](https://github.com/buhrmi/dexiecable)**<br>
-  Real-time data streaming library for Ruby on Rails and Dexie.
+  Real-time data syncing library for Ruby on Rails and Dexie.
 
 
 
